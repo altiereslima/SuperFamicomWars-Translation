@@ -86,7 +86,7 @@ strings = {
     "⏫10"
     "",
     "__| Here are the armies!",
-    "___ $ New & Fresh $",
+    "___ $ New and Fresh $",
   ], "ja": [
     "　",
     "　　　とれとれ、ぴちぴちの",
@@ -249,7 +249,7 @@ strings = {
     "_____ Happy!<?",
     "______ Shy?",
     "_   Super Famicom Wars!",
-    "|  We're all mighty & strong!"
+    "|  We're all mighty and strong!"
   ], "ja": [
     "　　　うれし！はずかし？",
     "　　　スーファミウォーズ！",
