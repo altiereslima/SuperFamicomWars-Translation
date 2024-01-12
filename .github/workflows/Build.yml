@@ -1,0 +1,56 @@
+name: Patch de Tradução
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install Python 2.7
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python2.7
+          python2.7 --version
+
+      - name: Set up Python 2.7
+        run: |
+          sudo update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
+          sudo update-alternatives --config python
+          python --version
+
+      - name: Install Build Tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y make cmake g++ python2.7
+
+      - name: Install xdelta3
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xdelta3
+
+      - name: Build Project
+        run: make all
+
+      - name: Create Release
+        run: |
+          mkdir release
+          mv -f rom/mb-sfwe.vcdiff "release/mb-sfwe-$(VERSION).vcdiff"
+          mv -f rom/mb-sfwe.bps "release/mb-sfwe-$(VERSION).bps" || true  # Ignore errors
+          cp docs/release/mb-sfwe.txt release/readme.txt
+          cp docs/release/mb-sfwe.nfo release/mb-sfwe-$(VERSION).nfo
+          mkdir -pv release/comparison_gifs
+          cp graphics/screenshots/20171220/comparison_gifs/*.gif ./release/comparison_gifs
+          cd release && zip -r -y -9 "mb-sfwe-$(VERSION).zip" ./*
+
+      - name: Upload Release Artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: release-artifacts
+          path: release/
