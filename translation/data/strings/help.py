@@ -19,12 +19,12 @@
 strings = {
 
 # HELP BAR
-  0x918422: { "b":0x918422, "e":0x918436, "l":20, "en":"⏫00|Browse____<Done",    "ja":"せんたく　　　ぬける"  },
+  0x918422: { "b":0x918422, "e":0x918436, "l":20, "en":"⏫00|Navegar____<Sair",    "ja":"せんたく　　　ぬける"  },
 
 # SECTIONS (Upper left box)
-  0x9184F3: { "b":0x9184F3, "e":0x918503, "l":16, "en":"⏫08_Section A", "ja":"あそびかたの説明"  },
-  0x918505: { "b":0x918505, "e":0x918515, "l":16, "en":"⏫10_Section B", "ja":"マップコマンド　"  },
-  0x918517: { "b":0x918517, "e":0x918527, "l":16, "en":"⏫08_Section C", "ja":"部隊コマンド　　"  },
+  0x9184F3: { "b":0x9184F3, "e":0x918503, "l":16, "en":"⏫08_Se@#o A", "ja":"あそびかたの説明"  },
+  0x918505: { "b":0x918505, "e":0x918515, "l":16, "en":"⏫10_Se@#o B", "ja":"マップコマンド　"  },
+  0x918517: { "b":0x918517, "e":0x918527, "l":16, "en":"⏫08_Se@#o C", "ja":"部隊コマンド　　"  },
 
 # PAGE NAVIGATION BAR
 
@@ -84,17 +84,18 @@ strings = {
 # SECTION A: "How To Play"
 
   # A0: Table of Contents
-  0x91979E: { "b":0x91979E, "e":0x9197BA, "l":28, "en":"⏫20 Field Manual________", "ja":"　　　　ページの説明　　　　"  },
+  0x91979E: { "b":0x91979E, "e":0x9197BA, "l":28, "en":"⏫20 Manual de campo________", "ja":"　　　　ページの説明　　　　"  },
   0x919DFE: { "en":[
-    " Welcome to training, CO!  Section A",
-    " is your basic Field Manual, which",
-    " contains an overview of how to play..",
+    " Bem-vindo ao treinamento! A Se@#o A",
+    " & o seu Manual de Campo b=sico, que",
+    " cont&m uma vis#o geral de como jogar..",
     "__   SUPER FAMICOM WARS!",
     "",
-    " Discover useful info for both novice",
-    " and seasoned COs.  ATTEN-TION!",
-    " Use up/down on{|} to flip pages, and",
-    " and left/right to change sections."
+    " Descubra informa@oes uteis para COs",
+    " novatos e experientes. Aten@#o!",
+    " Use cima/baixo {|} para virar",
+    " p=ginas, e esquerda/direita para",
+    " mudar de se@#o."
   ], "ja": [
     "　この「あそびかたの説明」は、下のようなペー",
     "ジでなりたっています。目をとおしてみてくださ",
@@ -108,17 +109,17 @@ strings = {
   ]},
 
   # A1: Field Manual
-  0x9197BC: { "b":0x9197BC, "e":0x9197D8, "l":28, "en":"⏫20 A1: Introduction_______", "ja":"　　　あそびかたの説明　　　"  },
+  0x9197BC: { "b":0x9197BC, "e":0x9197D8, "l":28, "en":"⏫20 A1: Introdu@#o_______", "ja":"　　　あそびかたの説明　　　"  },
   0x91BC8E: { "en":[
-    " Let's begin with basic training.",
+    " Come@aremos com o treinamento b=sico.",
     "",
-    " This will cover the mission objectives,",
-    " how to build and move your forces",
-    " around and engaging with the enemy.",
-    "",
-    " We'll finish this section with button",
-    " shortcuts, Fog of War mode, Diplomatic",
-    " Relations and some additional advice."
+    " Isto cobrir= os objetivos da miss#o,",
+    " como construir e mover suas for@as",
+    " ao redor e interagir com o inimigo.",
+    " Concluiremos esta se@#o com atalhos",
+    " de botoes, modo de Neblina de Guerra,",
+    " Rela@oes Diplom=ticas e alguns,",
+    " conselhos adicionais."
   ], "ja": [
     "　あそびかたの説明は、",
     "Ｐ２　　　　　何をすればいいの？",
@@ -132,17 +133,18 @@ strings = {
   ]},
 
   # A2: Mission Objective
-  0x9197DA: { "b":0x9197DA, "e":0x9197F6, "l":28, "en":"⏫20 A2: Mission Objective____", "ja":"　　　何をすればいいの？　　"  },
+  0x9197DA: { "b":0x9197DA, "e":0x9197F6, "l":28, "en":"⏫20 A2: Objetivo da miss#o____", "ja":"　　　何をすればいいの？　　"  },
   0x91BDC4: { "en":[
-    " The objective of the game is to either",
-    " destroy all enemy forces, or capture",
-    " the enemy's HQ{} .  Meet these",
-    " objectives by building an army and",
-    " engaging the enemy across the map.",
+    " O objetivo do jogo & ou destruir",
+    " todas as for@as inimigas, ou capturar",
+    " o QG inimigo{}. Alcance estes",
+    " objetivos criando um ex&rcito e",
+    " enfrentando o inimigo pelo mapa.",
     "",
-    " Equally, you will be defeated if all of",
-    " your units are destroyed or if your",
-    " HQ{{}is captured by the enemy."
+    " Da mesma forma, voce ser= derrotado",
+    " se todas as suas unidades forem",
+    " destru;das ou se o seu QG{{} for",
+    " capturado pelo inimigo."
   ], "ja": [
     "　ゲームの目的は、敵を全滅、もしくは敵の首都",
     "を占領することです。全滅させられたり、こちら",
@@ -153,17 +155,18 @@ strings = {
   ]},
 
   # A3: Building An Army 1/2
-  0x9197F8: { "b":0x9197F8, "e":0x919814, "l":28, "en":"⏫20 A3: Building An Army_|1⏮1|/|2_", "ja":"　　何を生産する？　その１　"  },
+  0x9197F8: { "b":0x9197F8, "e":0x919814, "l":28, "en":"⏫20 A3: Criando um ex&rcito_|1⏮1|/|2_", "ja":"　　何を生産する？　その１　"  },
   0x91BF0E: { "en":[
-    " Every CO needs an army.  To deploy",
-    " your first unit, move the cursor to",
-    " your HQ{{}and press{|<}when the",
-    " cursor changes to {{}.  Your funds",
-    " to build with are shown next to the",
-    " icon.  If a unit exceeds your funds, it",
-    " is grayed out and cannot be deployed.",
-    " Start by deploying a basic unit such as",
-    " an Infantry {} or Mech{} ."
+    " Cada CO precisa de um ex&rcito. Para",
+    " implantar sua primeira unidade, mova o",
+    " cursor para seu QG{{}e pressione{|<}",
+    " quando o cursor mudar para {{}. Seus",
+    " fundos para construir s#o exibidos ao",
+    " lado do ;cone. Se uma unidade exceder",
+    " seus fundos, ela ficar= esmaecida e n#o",
+    " poder= ser implantada. Comece",
+    " implantando uma unidade b=sica, como",
+    " uma Infantaria {} ou Mecanizada{} ."
   ], "ja": [
     "　はじめにすることは生産です。カーソル　　が",
     "　　　にかわるところで　　をおしてください。",
@@ -177,17 +180,19 @@ strings = {
   ]},
 
   # A4: Building An Army 2/2
-  0x919816: { "b":0x919816, "e":0x919832, "l":28, "en":"⏫20 A4: Building An Army_2⏮1|/|2_", "ja":"　　何を生産する？　その２　"  },
+  0x919816: { "b":0x919816, "e":0x919832, "l":28, "en":"⏫20 A4: Criando um ex&rcito_2⏮1|/|2_", "ja":"　　何を生産する？　その２　"  },
   0x91C090: { "en":[
-    " Infantry {} are cheap, but weak.",
-    " Mechs {} are more expensive and less",
-    " mobile, but more powerful.  Only these",
-    " two unit types can capture buildings,",
-    " so they can be essential to victory.",
-    " Hit{|<}over any unit to view its combat",
-    " stats.  When finished building, select",
-    " [End Day] from the menu to continue.",
-    " You can move new units the next day."
+    " A Infantaria {} & barata, mas fraca.",
+    " As Mecanizadas {} s#o mais caras e menos",
+    " m+veis, mas mais poderosas. Apenas esses",
+    " dois tipos de unidades podem capturar",
+    " edifica@oes, ent#o podem ser essenciais",
+    " para a vit+ria. Aperte{|<}sobre",
+    " qualquer unidade para ver suas estat;sticas",
+    " de combate. Quando terminar de construir,",
+    " selecione [Finalizar] no menu para",
+    " continuar. Voce pode mover as novas",
+    " unidades no dia seguinte."
   ], "ja": [
     "　歩兵　　は安いがよわい、戦闘工兵　　は高く",
     "移動力も少ないがそこそこつよい、という個性が",
@@ -201,17 +206,19 @@ strings = {
   ]},
 
   # A5: Moving Out! 1/2
-  0x919834: { "b":0x919834, "e":0x919850, "l":28, "en":"⏫20 A5: Moving Out!____|1⏮1|/|2_", "ja":"　　どう行動する？　その１　"  },
+  0x919834: { "b":0x919834, "e":0x919850, "l":28, "en":"⏫20 A5: Movendo-se!____|1⏮1|/|2_", "ja":"　　どう行動する？　その１　"  },
   0x91C214: { "en":[
-    " Pressing{|<}over a unit will highlight",
-    " the areas of the map it can move to.",
+    " Pressionar{|<}sobre uma unidade",
+    " destacar= as =reas do mapa para as",
+    " quais ela pode se mover.",
     "",
-    " For instance, move Infantry {} and",
-    " Mechs {} towards buildings before",
-    " capturing them. |Then deploy more",
-    " powerful units, such as tanks, and",
-    " move them nearby as protection.  Or,",
-    " to launch attacks on the enemy."
+    " Por exemplo, mova a Infantaria {} e",
+    " Mecanizadas {} em dire@#o as",
+    " edifica@oes antes de captur=-las.",
+    " |Em seguida, implante mais unidades",
+    " fortes, como tanques, e mova-os",
+    " para perto como prote@#o. Ou, para",
+    " lan@ar ataques no inimigo."
   ], "ja": [
     "　さきほど生産したユニットの上で　　をおして",
     "ください。ユニットを中心にマップの色がかわり",
@@ -224,17 +231,17 @@ strings = {
   ]},
 
   # A6: Moving Out! 2/2
-  0x919852: { "b":0x919852, "e":0x91986E, "l":28, "en":"⏫20 A6: Moving Out!____2⏮1|/|2_", "ja":"　　どう行動する？　その２　"  },
+  0x919852: { "b":0x919852, "e":0x91986E, "l":28, "en":"⏫20 A6: Movendo-se!____2⏮1|/|2_", "ja":"　　どう行動する？　その２　"  },
   0x91C376: { "en":[
-    " When faced with difficult terrain, or",
-    " to cover long distances at speed,",
-    " use APCs { }, Landers {} and",
-    " T-Copters { }.  For example, load an",
-    " Infantry {} onto a T-Copter {}.",
-    " Loading will consume one turn. |The",
-    " following day, move the helicopter",
-    " over land or sea and drop the foot",
-    " soldier onto solid ground."
+    " Ao enfrentar terreno dif;cil, ou",
+    " para cobrir longas distancias,",
+    " rapidamente use BTPs { }, Cargueiros {}",
+    " e Helic+ptero { }. Por exemplo,",
+    " carregue uma Infantaria {} em um",
+    " Helic+ptero {}. O carregamento consumir=",
+    " um turno. No dia seguinte, mova o",
+    " helic+ptero sobre terra ou mar e",
+    " desembarque o soldado no solo firme."
   ], "ja": [
     "　海などにはばまれて、そのユニットでは移動で",
     "きないとき、きょりがとおくて、移動するのに何",
@@ -247,17 +254,17 @@ strings = {
   ]},
 
   # A7: Capturing Buildings
-  0x919870: { "b":0x919870, "e":0x91988C, "l":28, "en":"⏫20 A7: Capturing Buildings___", "ja":"　　　　占領しよう！　　　　"  },
+  0x919870: { "b":0x919870, "e":0x91988C, "l":28, "en":"⏫20 A7: Capturando edifica@oes___", "ja":"　　　　占領しよう！　　　　"  },
   0x91C4E0: { "en":[
-    " When moving your Infantry {} or",
-    " Mech {} to a building not currently",
-    " controlled by your army, you'll be given",
-    " the option to Capture it.",
+    " Ao mover sua Infantaria {} ou",
+    " Mecanizadas {} para uma edifica@#o n#o",
+    " controlada atualmente pelo seu ex&rcito,",
+    " voce ter= a op@#o de Captur=-la.",
     "",
-    " Buildings have 20 capture points, so",
-    " an Infantry {} or Mech {} unit with",
-    " its full 10{}|can capture it in two",
-    " consecutive days."
+    " As edifica@oes tem 20 pontos de captura,",
+    " ent#o uma unidade de Infantaria {} ou",
+    " Mecanizadas {} com seus 10{}|completos ",
+    " pode captur=-la em dois dias consecutivos."
   ], "ja": [
     "　歩兵　　や戦闘工兵　　を自分の色以外の占領",
     "ポイントに移動させてください。「占領」という",
@@ -268,17 +275,19 @@ strings = {
   ]},
 
   # A8: Engage The Enemy!
-  0x91988E: { "b":0x91988E, "e":0x9198AA, "l":28, "en":"⏫20 A8: Engage The Enemy!___", "ja":"　　　　さあ攻撃だ！　　　　"  },
+  0x91988E: { "b":0x91988E, "e":0x9198AA, "l":28, "en":"⏫20 A8: Enfrentar o inimigo!___", "ja":"　　　　さあ攻撃だ！　　　　"  },
   0x91C60A: { "en":[
-    " When attacking, it's advised to use",
-    " stronger units and the terrain to your",
-    " advantage.  Intel on terrain can too be",
-    " seen by pressing{|<}above it.  Most",
-    " units must be next|to|enemies to attack,",
-    " but others such as Artillery {|} can",
-    " attack indirectly.  Indirect attacks are",
-    " powerful, but can't be performed after",
-    " moving <-< so move these units wisely."
+    " Ao atacar, & aconselh=vel usar",
+    " unidades mais fortes e o terreno a seu",
+    " favor. As informa@oes sobre o terreno",
+    " podem ser vistas pressionando{|<}acima",
+    " dele. A maioria das unidades deve estar",
+    " pr+xima de inimigos para atacar, mas",
+    " outras, como a Artilharia {|}, podem",
+    " atacar indiretamente. Os ataques",
+    " indiretos s#o poderosos, mas n#o podem",
+    " ser realizados ap+s se mover <-<, ent#o",
+    " mova essas unidades com sabedoria."
   ], "ja": [
     "　敵がじゃまな所にいたり、こちらのじゃまをし",
     "てきたら戦闘をしましょう。戦闘をしかけるとき",
@@ -292,17 +301,17 @@ strings = {
   ]},
 
   # A9: Button Shortcuts
-  0x9198AC: { "b":0x9198AC, "e":0x9198C8, "l":28, "en":"⏫20 A9: Button Shortcuts____", "ja":"　　　　　おわりに　　　　　"  },
+  0x9198AC: { "b":0x9198AC, "e":0x9198C8, "l":28, "en":"⏫20 A9: Botoes de atalho____", "ja":"　　　　　おわりに　　　　　"  },
   0x91C7A8: { "en":[
-    " There are shortcuts for efficient COs:",
-    "____Displays{} for all units and",
-    "____whether they are loaded.",
-    "____Quickly moves the cursor",
-    "____between each army's HQ {}.",
-    "____Quickly moves the cursor",
-    "____between units yet to move.",
+    " Existem atalhos para COs eficientes:",
+    "____Exibe{} para todas as unidades",
+    "____e se est#o carregadas.",
+    "____Move rapidamente o cursor",
+    "____entre o QG {} de cada ex&rcito.",
+    "____Move rapidamente o cursor",
+    "____entre unidades ainda n#o movidas.",
     "",  # Leave blank (row of icons)
-    "____Restarts the game."
+    "____Reinicia o jogo."
   ], "ja": [
     "　さいごに、べんりなキーの説明をします。",
     "　　　　がめん中の全ユニットの　　と、搭載状",
@@ -316,17 +325,18 @@ strings = {
   ]},
 
   # A10: Fog of War 1/2
-  0x9198CA: { "b":0x9198CA, "e":0x9198E6, "l":28, "en":"⏫20 A10: Fog of War____|1⏮1|/|2_", "ja":"　　さくてきモード　その１　"  },
+  0x9198CA: { "b":0x9198CA, "e":0x9198E6, "l":28, "en":"⏫20 A10: Neblina de guerra____|1⏮1|/|2_", "ja":"　　さくてきモード　その１　"  },
   0x91C8F2: { "en":[
-    " During Fog of War, your view of the",
-    " map will be limited.  Only your army's",
-    " and allies' buildings, and areas within",
-    " { | } range of your units, will be fully",
-    " visible.  Outside of this, any enemy",
-    " movement will be undetectable.",
-    " Infantry {} and Mech {} have a",
-    " useful skill <-< when climbing mountains",
-    " __<|, their vision increases by 3."
+    " Durante a Neblina de Guerra, sua vis#o",
+    " do mapa ser= limitada. Apenas as",
+    " edifica@oes de seu ex&rcito e aliados,",
+    " e =reas dentro do alcance de suas",
+    " unidades, ser#o completamente",
+    " vis;veis. Fora disso, qualquer",
+    " movimento inimigo ser= indetect=vel.",
+    " A Infantaria {} e a Mecanizada {} tem",
+    " uma habilidade util <-< ao subir",
+    " montanhas __<|, sua vis#o aumenta em 3."
   ], "ja": [
     "　索敵はんい外はみえなくなるモードです。",
     "　索敵はんいは、自軍と同盟軍の占領ポイントの",
@@ -337,17 +347,20 @@ strings = {
   ]},
 
   # A11: Fog of War 2/2
-  0x9198E8: { "b":0x9198E8, "e":0x919904, "l":28, "en":"⏫20 A11: Fog of War____2⏮1|/|2_", "ja":"　　さくてきモード　その２　"  },
+  0x9198E8: { "b":0x9198E8, "e":0x919904, "l":28, "en":"⏫20 A11: Neblina de guerra____2⏮1|/|2_", "ja":"　　さくてきモード　その２　"  },
   0x91CA18: { "en":[
-    " If a unit is moved into the path of an",
-    " enemy concealed by the Fog of War,",
-    " that unit's turn will end.",
+    " Se uma unidade for movida para o",
+    " caminho de um inimigo oculto pela",
+    " Neblina de Guerra, o turno dessa",
+    " unidade ser= encerrado.",
     "",
-    " In this mode, Subs{{<}cannot be",
-    " detected, even if they are within your",
-    " range of vision, unless they are",
-    " directly adjacent to one of your units",
-    " or instead docked within a port{} ."
+    " Neste modo, Submarinos{{<}n#o podem",
+    " ser detectados, mesmo que estejam",
+    " dentro do seu alcance de vis#o, a",
+    " menos que estejam diretamente",
+    " adjacentes a uma de suas unidades",
+    " ou, em vez disso, ancorados dentro",
+    " de um porto{} ."
   ], "ja": [
     "　索敵はんい外、つまりマップがグレーになって",
     "いる場所に行動したとき、もしその目的地、もし",
@@ -359,17 +372,19 @@ strings = {
   ]},
 
   # A12: Diplomatic Relations
-  0x919906: { "b":0x919906, "e":0x919922, "l":28, "en":"⏫20 A12: Diplomatic Relations___", "ja":"　　　　　　同盟　　　　　　"  },
+  0x919906: { "b":0x919906, "e":0x919922, "l":28, "en":"⏫20 A12: Rela@oes diplom=ticas___", "ja":"　　　　　　同盟　　　　　　"  },
   0x91CB4C: { "en":[
-    " In 4P games, up to two COs may be",
-    " allied with your side against the enemy.",
-    " Allies can help destroy the enemy's",
-    " units, or capture their HQ {}.",
+    " Em jogos de 4 jogadores, at& dois COs",
+    " podem se aliar ao seu lado contra o",
+    " inimigo. Os aliados podem ajudar a",
+    " destruir as unidades do inimigo ou",
+    " capturar o QG {} deles.",
     "",
-    " However, allied buildings cannot be",
-    " captured, and they will not supply or",
-    " repair your units.  After all, this is",
-    " war <-< not a tea party!"
+    " No entanto, as edifica@oes dos aliados",
+    " n#o podem ser capturadas, e elas n#o",
+    " fornecer#o nem reparar#o suas unidades.",
+    " Afinal, isso & guerra <-< n#o um ch=.",
+    " da tarde!"
   ], "ja": [
     "　同盟をむすぶことができるモードです。　　　",
     "　同盟したあいてとともに同盟軍と自軍以外の敵",
@@ -379,17 +394,19 @@ strings = {
   ]},
 
   # A13: Advice 1/3
-  0x919924: { "b":0x919924, "e":0x919940, "l":28, "en":"⏫20 A13: Advice______|1⏮1|/|3_", "ja":"　わんぽいんとあどばいす１　"  },
+  0x919924: { "b":0x919924, "e":0x919940, "l":28, "en":"⏫20 A13: Conselho______|1⏮1|/|3_", "ja":"　わんぽいんとあどばいす１　"  },
   0x91CC64: { "en":[
-    " Capturing <-< Call For Reinforcements!",
+    " Capturando <-< Chamada por Refor@os!",
     "",
-    " Units can be attacked while capturing a",
-    " building.  If the unit is wiped out, all",
-    " capturing progress will also be lost.",
+    " Unidades podem ser atacadas enquanto",
+    " capturam uma edifica@#o. Se a unidade",
+    " for eliminada, todo o progresso de",
+    " captura ser= perdido.",
     "",
-    " This can be avoided by joining another",
-    " unit with the injured one.< Capturing can",
-    " then continue until the building is taken."
+    " Isso pode ser evitado unindo outra",
+    " unidade a ferida. < A captura pode",
+    " ent#o continuar at& a edifica@#o ser",
+    " tomada."
   ], "ja": [
     "　　　　　占領中に合流できること　　　　　",
     "",
@@ -403,17 +420,18 @@ strings = {
   ]},
 
   # A14: Advice 2/3
-  0x919942: { "b":0x919942, "e":0x91995E, "l":28, "en":"⏫20 A14: Advice______2⏮1|/|3_", "ja":"　わんぽいんとあどばいす２　"  },
+  0x919942: { "b":0x919942, "e":0x91995E, "l":28, "en":"⏫20 A14: Conselho______2⏮1|/|3_", "ja":"　わんぽいんとあどばいす２　"  },
   0x91CDB8: { "en":[
-    " Remembering Your Rank",
+    " Lembrando sua Patente",
     "",
-    " Enabling [Level Up] allows units to",
-    " increase their level after a skirmish.",
+    " Ativar [Subir de n;vel] permite que as",
+    " unidades aumentem de n;vel ap+s um",
+    " confronto.",
     "",
-    " Note that if the unit has sustained",
-    " damage, and is joined with another to",
-    " increase  }, the higher of the two",
-    " units' levels will be retained."
+    " Note que se a unidade sofrer dano e se",
+    " combinar a outra para aumentar  }, o",
+    " n;vel mais alto das duas unidades",
+    " ser= mantido."
   ], "ja": [
     "　　　　　　　レベルと合流",
     "",
@@ -427,17 +445,19 @@ strings = {
   ]},
 
   # A15: Advice 3/3
-  0x919960: { "b":0x919960, "e":0x91997C, "l":28, "en":"⏫20 A15: Advice______3⏮1|/|3_", "ja":"　わんぽいんとあどばいす３　"  },
+  0x919960: { "b":0x919960, "e":0x91997C, "l":28, "en":"⏫20 A15: Conselho______3⏮1|/|3_", "ja":"　わんぽいんとあどばいす３　"  },
   0x91CEFC: { "en":[
-    " Expose & Destroy",
+    " Exponha e destrua",
     "",
-    " During Fog of War, indirect units are",
-    " unable to fire on concealed areas -",
-    " even when you know an enemy is there.",
+    " Durante a Neblina de Guerra, unidades",
+    " indiretas n#o podem atacar =reas",
+    " ocultas - mesmo sabendo que h= um",
+    " inimigo.",
     "",
-    " Wide {|| } range units, such as Recons",
-    " {}and Cruisers{} , can be sent in",
-    " first to expose a target for attack."
+    " Unidades com alcance amplo {|| }, como",
+    " Reconhecimento {} e Cruzadores{} , podem",
+    " ser enviadas primeiro para expor um",
+    " alvo ao ataque."
   ], "ja": [
     "　　　　　　偵察車　　と護衛艦",
     "",
@@ -455,34 +475,36 @@ strings = {
 # SECTION B: "Main Commands"
 
   # B0
-  0x91997E: { "b":0x91997E, "e":0x91999A, "l":28, "en":"⏫20 Main Commands________", "ja":"　マップコマンドの説明　　　"  },
+  0x91997E: { "b":0x91997E, "e":0x91999A, "l":28, "en":"⏫20 Comandos principais________", "ja":"　マップコマンドの説明　　　"  },
   0x919D3A: { "en":[
-    " In Section B, we'll walk through the",
-    " commands available from the high level",
-    " and system menus. (Menus are good for",
-    " more than your rations in the mess hall.)",
+    " Na Se@#o B, vamos explorar os",
+    " comandos dispon;veis nos menus de alto",
+    " n;vel e sistema. (Os menus s#o uteis",
+    " para mais do que suas ra@oes na cantina.)",
     "",
-    " Discover useful info for both novice",
-    " and seasoned COs.  ATTEN-TION!",
-    " Use up/down on{|} to flip pages, and",
-    " and left/right to change sections."
+    " Descubra informa@oes uteis para COs",
+    " novatos e experientes. Aten@#o!",
+    " Use cima/baixo {|} para virar",
+    " p=ginas, e esquerda/direita para",
+    " mudar de se@#o."
   ], "ja": [
     "ぜんたいをかんりするためのコマンドです。　　",
     "　　　　　　　　　　　　　　　　　　　　　　"
   ]},
 
   # B1: Deploy 1/3
-  0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Deploy_______|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
+  0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Produ@#o_______|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
   0x919F42: { "en":[
-    " If owned from the start of a battle,",
-    " press{|<}over these buildings to",
-    " deploy the following unit types:",
+    " Se possu;do desde o in;cio de uma",
+    " batalha, pressione{|<}sobre essas",
+    " edifica@oes para produzir os seguintes",
+    " tipos de unidades:",
     "",
-    "___HQ______Ground Units",
-    "___Bases____Ground Units",
-    "___Airports___Air Units",
-    "___Ports____Naval Units",
-    "___Depots____Train"
+    "___QG______Unidades terrestres",
+    "___Bases____Unidades terrestres",
+    "___Aeroportos___Unidades a&reas",
+    "___Portos____Unidades navais",
+    "___Dep+sitos____Trens"
   ], "ja": [
     "　ユニットの生産を行うコマンドです。　　　　",
     "　生産ができる場所とは、　　　が　　　のよう",
@@ -495,17 +517,17 @@ strings = {
   ]},
 
   # B2: Deploy 2/3
-  0x9199BA: { "b":0x9199BA, "e":0x9199D6, "l":28, "en":"⏫20 B2: Deploy_______2⏮1|/|3_", "ja":"　　生産コマンドの説明その２"  },
+  0x9199BA: { "b":0x9199BA, "e":0x9199D6, "l":28, "en":"⏫20 B2: Produ@#o_______2⏮1|/|3_", "ja":"　　生産コマンドの説明その２"  },
   0x91A08C: { "en":[
-    " Every good CO has, at some point,",
-    " imagined themselves with an unlimited",
-    " number of troops at their disposal.",
+    " Todo bom CO, em algum momento, se",
+    " imaginou com um numero ilimitado de",
+    " tropas a sua disposi@#o.",
     "",
-    " The realities of war, however, limit you",
-    " to a maximum of 60 units under your",
-    " command at any one time.  This includes",
-    " no more than one train at once per CO.",
-    " Do not get ideas above your station."
+    " A realidade da guerra, no entanto,",
+    " limita voce a um m=ximo de 60 unidades",
+    " sob seu comando de cada vez. Isso inclui",
+    " no m=ximo um trem por vez por CO. N#o",
+    " tente ultrapassar seus limites."
   ], "ja": [
     "　どこで何が生産できるか説明します。　　　　",
     "　　　　　　　・・・地上ユニット　　　　　　",
@@ -515,17 +537,18 @@ strings = {
   ]},
 
   # B3: Deploy 3/3
-  0x9199D8: { "b":0x9199D8, "e":0x9199F4, "l":28, "en":"⏫20 B3: Deploy_______3⏮1|/|3_", "ja":"　　説明コマンドの説明　　　"  },
+  0x9199D8: { "b":0x9199D8, "e":0x9199F4, "l":28, "en":"⏫20 B3: Produ@#o_______3⏮1|/|3_", "ja":"　　説明コマンドの説明　　　"  },
   0x91A182: { "en":[
-    " Successful COs will often capture",
-    " unoccupied and enemy Bases{|},",
-    " Airports{|},|Ports{|} & Depots{|}.",
+    " COs bem-sucedidos frequentemente capturam",
+    " Bases{|} desocupadas e inimigas,",
+    " Aeroportos{|},|Portos{|} e Dep+sitos{|}.",
     "",
-    " Due to staff shortages, captured",
-    " buildings cannot be used to deploy new",
-    " units.  However, they can repair and",
-    " supply their correlating units.| For more",
-    " information on this, study B5."
+    " Devido a falta de pessoal, as edifica@oes",
+    " capturadas n#o podem ser usadas para",
+    " produzir novas unidades. No entanto, elas",
+    " podem consertar e fornecer suprimentos as",
+    " unidades correspondentes.| Para mais",
+    " informa@oes sobre isso, estude B5."
   ], "ja": [
     "　このがめんをみることができるコマンドです。",
     "　各コマンドのかいせつやあそびかたを説明して",
@@ -534,17 +557,19 @@ strings = {
   ]},
 
   # B4: Units
-  0x9199F6: { "b":0x9199F6, "e":0x919A12, "l":28, "en":"⏫20 B4: Units___________", "ja":"　　部隊コマンドの説明　　　"  },
+  0x9199F6: { "b":0x9199F6, "e":0x919A12, "l":28, "en":"⏫20 B4: Unidades___________", "ja":"　　部隊コマンドの説明　　　"  },
   0x91A242: { "en":[
-    " The Units option in the main menu allows",
-    " you to view all of your own forces",
-    " currently deployed on the battlefield.",
+    " A op@#o Unidades no menu principal",
+    " permite visualizar todas as suas for@as",
+    " atualmente implantadas no campo de",
+    " batalha.",
     "",
-    " Use{{   }}to sort units based on",
-    " their Type, Level, HP{  , Fuel|{} or",
-    " Ammo{}.  Scroll through the list with",
-    " up or down{|} and hit{|<}on a unit to",
-    " jump directly to it on the map."
+    " Use{{   }}para ordenar unidades com",
+    " base em seu Tipo, N;vel, PV{  ,",
+    " Combust;vel|{} ou Muni@#o{}. Percorra",
+    " a lista com cima ou baixo{|} e",
+    " pressione{|<}sobre uma unidade para ir",
+    " diretamente a ela no mapa."
   ], "ja": [
     "　部隊いちらんを表示するコマンドです。　　　",
     "　　の左右でへいしゅ、レベル、ＨＰ　　、ねん",
@@ -556,17 +581,17 @@ strings = {
   ]},
 
   # B5: Supply 1/3
-  0x919A14: { "b":0x919A14, "e":0x919A30, "l":28, "en":"⏫20 B5: Supply_______|1⏮1|/|3_", "ja":"　　全補コマンドの説明その１"  },
+  0x919A14: { "b":0x919A14, "e":0x919A30, "l":28, "en":"⏫20 B5: Abastecer_______|1⏮1|/|3_", "ja":"　　全補コマンドの説明その１"  },
   0x91A36E: { "en":[
-    " With Auto Supply on, units at buildings",
-    " under your control on the start of a",
-    " new day will gain 2{|}and have their",
-    " <{}&<{} resupplied at these sites:",
+    " Com o Autoabastecer ativado, unidades em",
+    " edifica@oes sob seu controle no in;cio",
+    " de um novo dia ganhar#o 2{|}e ter#o seus",
+    " <{}e<{} reabastecidos nestes locais:",
     "",
-    "__________Ground units",
-    "__________Air units",
-    "__________Naval units",
-    "__________Train"
+    "__________Unidades terrestres",
+    "__________Unidades a&reas",
+    "__________Unidades navais",
+    "__________Trens"
   ], "ja": [
     "　全ユニットに補給、補充を行うコマンドです。",
     "　それぞれのユニットにたいおうした自軍占領ポ",
@@ -580,17 +605,17 @@ strings = {
   ]},
 
   # B6: Supply 2/3
-  0x919A32: { "b":0x919A32, "e":0x919A4E, "l":28, "en":"⏫20 B6: Supply_______2⏮1|/|3_", "ja":"　　全補コマンドの説明その２"  },
+  0x919A32: { "b":0x919A32, "e":0x919A4E, "l":28, "en":"⏫20 B6: Abastecer_______2⏮1|/|3_", "ja":"　　全補コマンドの説明その２"  },
   0x91A51E: { "en":[
-    " Of course, the bean counters at HQ",
-    " (grumbles under breath..<) do not allow",
-    " us to supply and repair our forces for",
-    " free.  The costs in{|<}are below:",
+    " Claro, os contadores de feij#o no QG",
+    " (resmunga baixinho..<) n#o nos permitem",
+    " abastecer e reparar nossas for@as de",
+    " gra@a, Os custos em{|<}est#o abaixo:",
     "",
-    "____1/<10 of the unit's price to repair",
-    "____1{|}per fuel point refilled",
-    "____Depends on weapon type. Hit",
-    "____{<  while over a unit to see it."
+    "____1/<10 do pre@o da unidade para reparar",
+    "____1{|}por ponto de combust;vel recarregado",
+    "____Depende do tipo de arma. Aperte",
+    "____{<  enquanto sobre uma unidade para ver."
   ], "ja": [
     "　なお、つぎのじょうけんのユニットは　　　　",
     "の補給はされますが、補充はされません。　　　",
@@ -604,17 +629,19 @@ strings = {
   ]},
 
   # B7: Supply 3/3
-  0x919A50: { "b":0x919A50, "e":0x919A6C, "l":28, "en":"⏫20 B7: Supply_______3⏮1|/|3_", "ja":"　　全補コマンドの説明その３"  },
+  0x919A50: { "b":0x919A50, "e":0x919A6C, "l":28, "en":"⏫20 B7: Abastecer_______3⏮1|/|3_", "ja":"　　全補コマンドの説明その３"  },
   0x91A654: { "en":[
-    " While repair can only occur in buildings,",
-    " some units can be resupplied with",
-    " &{<} on the battlefield.  These are:",
-    " Ground units &{{}{}|adjacent to",
-    " a Supply Truck, and{{}{} loaded",
-    " onto a Cruiser{|}.  Additionally, if",
-    " Auto Supply is not enabled, the Supply",
-    " menu option can be used to resupply",
-    " any unit yet to move."
+    " Enquanto a repara@#o s+ pode ocorrer em",
+    " edifica@oes, algumas unidades podem ser",
+    " reabastecidas com e{<} no campo de",
+    " batalha. Estas s#o: Unidades Terrestres",
+    " e{{}{}|adjacentes a um Caminh#o de",
+    " Suprimentos, e{{}{} carregadas em um",
+    " Cruzador{|}. Al&m disso, se o",
+    " Autoabastecer n#o estiver ativado,",
+    " o Suprir no menu pode ser usado para",
+    " reabastecer qualquer unidade ainda",
+    " n#o movida."
   ], "ja": [
     "　補充、補給にはお金がかかります。",
     "　補充には１だいにつきそのユニットの１／１０",
@@ -628,17 +655,19 @@ strings = {
   ]},
 
   # B8: Intel
-  0x919A6E: { "b":0x919A6E, "e":0x919A8A, "l":28, "en":"⏫20 B8: Intel____________", "ja":"　　状況コマンドの説明　　　"  },
+  0x919A6E: { "b":0x919A6E, "e":0x919A8A, "l":28, "en":"⏫20 B8: Inteligencia____________", "ja":"　　状況コマンドの説明　　　"  },
   0x91A7E0: { "en":[
-    " Intel offers data on the current battle.",
-    " The first page displays the buildings,",
-    " funds, income and units for each army.",
-    " ",
-    "____Available Funds",
-    "____Income Per Day",
+    " A Inteligencia oferece dados sobre a",
+    " batalha atual. A primeira p=gina exibe",
+    " as edifica@oes, fundos, renda e",
+    " unidades para cada ex&rcito.",
     "",
-    " The second shows deployment info.",
-    " Use{|} to change the army displayed."
+    "____Fundos dispon;veis",
+    "____Renda di=ria",
+    "",
+    " A segunda mostra informa@oes de",
+    " implanta@#o. Use{|} para mudar o",
+    " ex&rcito exibido."
   ], "ja": [
     "　ぜんたいの状況をはあくするコマンドです。　",
     "　それぞれの軍の占領状況や今もっているお金、",
@@ -651,17 +680,17 @@ strings = {
   ]},
 
   # B9: Options
-  0x919A8C: { "b":0x919A8C, "e":0x919AA8, "l":28, "en":"⏫20 B9: Options___________", "ja":"　　設定コマンドの説明　　　"  },
+  0x919A8C: { "b":0x919A8C, "e":0x919AA8, "l":28, "en":"⏫20 B9: Op@oes___________", "ja":"　　設定コマンドの説明　　　"  },
   0x91A8F0: { "en":[
-    " The following Options can still be",
-    " adjusted with a battle in progress:",
+    " As seguintes op@oes ainda podem ser",
+    " ajustadas com uma batalha em andamento:",
     "",
-    " Auto Supply_____⏺C0/⏺C1",
-    " Quick Battle</|Map__⏺C0/⏺C1",
-    " Sound_________ Mono</|Stereo",
+    " Autoabastecer_____⏺C0/⏺C1",
+    " Batalha r=pida</|Mapa__⏺C0/⏺C1",
+    " Som_________ Mono</|Est&reo",
     "",
-    " In 4P mode, you can also view the",
-    " Diplomatic Relations between COs."
+    " No modo 4J, voce tamb&m pode visualizar",
+    " as Rela@oes Diplom=ticas entre COs."
   ], "ja": [
     "　ゲームの設定をみるコマンドです。",
     "　以下の設定をへんこうできます。",
@@ -674,16 +703,18 @@ strings = {
   ]},
 
   # B10: Disband
-  0x919AAA: { "b":0x919AAA, "e":0x919AC6, "l":28, "en":"⏫20 B10: Disband__________", "ja":"　　処分コマンドの説明　　　"  },
+  0x919AAA: { "b":0x919AAA, "e":0x919AC6, "l":28, "en":"⏫20 B10: Dispensar__________", "ja":"　　処分コマンドの説明　　　"  },
   0x91AA2A: { "en":[
-    " There may be times when, for strategic",
-    " reasons, it becomes necessary to",
-    " remove a unit from the battlefield.",
+    " Pode haver momentos em que, por",
+    " razoes estrat&gicas, seja necess=rio",
+    " remover uma unidade do campo de",
+    " batalha.",
     "",
-    " The Disband command will change",
-    " the< cursor< from{{<}  to< this{{|} ,",
-    " allowing you to permanently remove the",
-    " selected unit by pressing{|<}above it."
+    " O comando Desmantelar mudar=",
+    " o< cursor< de{{<}  para< este{{|} ,",
+    " permitindo que voce remova",
+    " permanentemente a unidade selecionada",
+    " pressionando{|<}acima dela."
     ""
   ], "ja": [
     "　自軍のユニットを処分できるコマンドです。　",
@@ -694,17 +725,18 @@ strings = {
   ]},
 
   # B11: Retreat
-  0x919AC8: { "b":0x919AC8, "e":0x919AE4, "l":28, "en":"⏫20 B11: Retreat__________", "ja":"　　降伏コマンドの説明　　　"  },
+  0x919AC8: { "b":0x919AC8, "e":0x919AE4, "l":28, "en":"⏫20 B11: Render-se__________", "ja":"　　降伏コマンドの説明　　　"  },
   0x91AAE0: { "en":[
-    " Q<) Which is the better outcome:| Losing",
-    " a battle or to retreat first instead<?",
+    " P<) Qual & o resultado melhor:| Perder",
+    " uma batalha ou se render primeiro<?",
     "",
-    " A) W<I<N<N<I<N<G.",
+    " R) V<E<N<C<E<R.",
     "",
-    " However, if you MUST leave the",
-    " current battlefield, selecting Retreat",
-    " will disband all of your units and allow",
-    " any remaining COs to fight for victory."
+    " No entanto, se voce TIVER que deixar",
+    " o campo de batalha atual, selecionar",
+    " Render-se ir= dispensar todas as suas",
+    " unidades e permitir que todos os COs",
+    " restantes lutem pela vit+ria."
   ], "ja": [
     "　戦いに降伏するコマンドです。　　　　　　　",
     "　降伏すると負けになってしまうので注意してく",
@@ -712,17 +744,17 @@ strings = {
   ]},
 
   # B12: Load
-  0x919AE6: { "b":0x919AE6, "e":0x919B02, "l":28, "en":"⏫20 B12: Load___________", "ja":"　　再戦コマンドの説明　　　"  },
+  0x919AE6: { "b":0x919AE6, "e":0x919B02, "l":28, "en":"⏫20 B12: Carregar___________", "ja":"　　再戦コマンドの説明　　　"  },
   0x91AB70: { "en":[
-    " Load will quickly load from your most",
-    " recent save point within the current",
-    " game.  This will, of course, lose any",
-    " progress beyond when the loaded save",
-    " was made.",
+    " Carregar ir= carregar rapidamente do seu",
+    " ponto de salvamento mais recente dentro",
+    " do atual jogo. Isso, & claro, perder=",
+    " qualquer progresso al&m do momento em",
+    " que o salvamento foi feito.",
     "",
-    " (<If you have started a new game, but",
-    " not yet made any saves, this option",
-    " will not yet be available.<)"
+    " (<Se voce come@ou um novo jogo, mas",
+    " ainda n#o fez nenhum salvamento, esta",
+    " op@#o ainda n#o estar= dispon;vel.<)"
   ], "ja": [
     "　休戦データを再開するコマンドです。　　　　",
     "　セーブしたところからやりなおしたいときにえ",
@@ -730,17 +762,18 @@ strings = {
   ]},
 
   # B13: Save
-  0x919B04: { "b":0x919B04, "e":0x919B20, "l":28, "en":"⏫20 B13: Save___________", "ja":"　　休戦コマンドの説明　　　"  },
+  0x919B04: { "b":0x919B04, "e":0x919B20, "l":28, "en":"⏫20 B13: Salvar___________", "ja":"　　休戦コマンドの説明　　　"  },
   0x91AC00: { "en":[
-    " Even the most dedicated CO may need",
-    " to temporarily leave the battlefield <-",
-    " to consider new strategies or perhaps",
-    " to make a delicious sandwich.",
+    " Mesmo o CO mais dedicado precisa",
+    " deixar temporariamente o campo de",
+    " batalha para rever suas estrat&gias",
+    " ou talvez preparar um sandu;che.",
     "",
-    " Choosing Save from the menu will save",
-    " the current state of battle for you to",
-    " return to later.  Please note that this",
-    " will overwrite the previous save state."
+    " Escolher Salvar no menu salvar= o",
+    " estado atual da batalha para que voce",
+    " possa retornar mais tarde. Observe",
+    " que isso sobrescrever= o estado",
+    " de salvamento anterior."
   ], "ja": [
     "　今のじょうたいをほぞんするコマンドです。",
     "　休戦すると、まえのデータがきえてしまうので",
@@ -748,17 +781,18 @@ strings = {
   ]},
 
   # B14: End Day
-  0x919B22: { "b":0x919B22, "e":0x919B3E, "l":28, "en":"⏫20 B14: End Day__________", "ja":"　　終了コマンドの説明　　　"  },
+  0x919B22: { "b":0x919B22, "e":0x919B3E, "l":28, "en":"⏫20 B14: Finalizar__________", "ja":"　　終了コマンドの説明　　　"  },
   0x91AC50: { "en":[
-    " If you have finished deploying, moving,",
-    " capturing, loading, unloading and",
-    " attacking, select the [End Day] option",
-    " from the menu.",
+    " Se voce terminou de implantar, mover,",
+    " capturar, carregar, descarregar e",
+    " atacar, selecione a op@#o [Finalizar]",
+    " no menu.",
     "",
-    " This will allow all other COs to command",
-    " their armies.  You will regain command",
-    " of your own once all other COs have",
-    " finished and a new day has begun."
+    " Isso permitir= que todos os outros COs",
+    " comandem seus ex&rcitos. Voce retomar=",
+    " o comando do seu pr+prio quando todos",
+    " os outros COs terminarem e um novo dia",
+    " come@ar."
   ], "ja": [
     "　その日の行動を終了するコマンドです。　　　",
     "　　　　　　"
@@ -769,34 +803,36 @@ strings = {
 # SECTION C: "Unit Commands"
 
   # C0
-  0x919B40: { "b":0x919B40, "e":0x919B5C, "l":28, "en":"⏫20 Unit Commands________", "ja":"　　部隊コマンドの説明　　　"  },
+  0x919B40: { "b":0x919B40, "e":0x919B5C, "l":28, "en":"⏫20 Comandos de unidade________", "ja":"　　部隊コマンドの説明　　　"  },
   0x919DA0: { "en":[
-    " Finally, Section C will cover perhaps",
-    " the most important commands:  Those",
-    " which allow you to give direct orders to",
-    " your units.",
+    " Finalmente, a Se@#o C abordar= talvez",
+    " os comandos mais importantes: aqueles",
+    " que permitem dar ordens diretas as",
+    " suas unidades.",
     "",
-    " Discover useful info for both novice",
-    " and seasoned COs.  ATTEN-TION!",
-    " Use up/down on{|} to flip pages, and",
-    " and left/right to change sections."
+    " Descubra informa@oes uteis para COs",
+    " novatos e experientes. Aten@#o!",
+    " Use cima/baixo {|} para virar",
+    " p=ginas, e esquerda/direita para",
+    " mudar de se@#o."
   ], "ja": [
     "ユニットごとにしれいをあたえるコマンドです。",
     "　　　　　　　　　　　　　　　　　　　　　　"
   ]},
 
   # C1: Attack 1/2
-  0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Attack_______|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
+  0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Ataque_______|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
   0x91ACCC: { "en":[
-    " Some COs have been heard to say that",
-    " ⏮1[Attack] is their most favorite word.",
+    " Alguns COs j= foram ouvidos dizendo que",
+    " ⏮1[Ataque] & a palavra favorita deles.",
     "",
-    " Attacks are either Direct or Indirect.",
-    " Unit weapons with a{{} of 1 must be",
-    " used when adjacent to an enemy unit to",
-    " inflict damage.  A{{} of 2 or more",
-    " means an Indirect attack over distance.",
-    " Press{|<}on a unit to view its{{}|."
+    " Ataques s#o Diretos ou Indiretos.",
+    " Armas de unidade com um{{} de 1 devem",
+    " ser usadas ao lado de uma unidade",
+    " inimiga para causar dano. Um{{} de 2",
+    " ou mais significa um ataque Indireto",
+    " a distancia. Pressione{|<}em uma",
+    " unidade para ver seu{{}|."
   ], "ja": [
     "　敵に攻撃をしかけるコマンドです。　　　　　",
     "　攻撃はおおきくわけて、ちょくせつ攻撃とかん",
@@ -808,17 +844,18 @@ strings = {
   ]},
 
   # C2: Attack 2/2
-  0x919B7C: { "b":0x919B7C, "e":0x919B98, "l":28, "en":"⏫20 C2: Attack_______2⏮1|/|2_", "ja":"　　攻撃コマンドの説明その２"  },
+  0x919B7C: { "b":0x919B7C, "e":0x919B98, "l":28, "en":"⏫20 C2: Ataque_______2⏮1|/|2_", "ja":"　　攻撃コマンドの説明その２"  },
   0x91AE00: { "en":[
-    " Indirect weapons can inflict heavy",
-    " damage, but have another advantage:",
-    " Indirect attacks do not allow the",
-    " enemy to counterattack in that move.",
+    " Armas Indiretas podem causar dano",
+    " pesado, mas tem outra vantagem:",
+    " Ataques Indiretos n#o permitem ao",
+    " inimigo contra-atacar naquele turno.",
     "",
-    " However, remember that a unit cannot",
-    " move and fire an Indirect weapon on",
-    " the same day.  Furthermore, Indirect",
-    " weapons have a minimum firing range."
+    " No entanto, lembre-se de que uma",
+    " unidade n#o pode se mover e disparar",
+    " uma arma Indireta no mesmo dia. Al&m",
+    " disso, armas Indiretas tem um",
+    " alcance m;nimo de disparo."
   ], "ja": [
     "　かんせつ攻撃は　　　が２以上のユニットが行",
     "うことができます。さらに、はんげきをうけない",
@@ -832,34 +869,36 @@ strings = {
   ]},
 
   # C3: Capture 1/2
-  0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capture______|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
+  0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capturar______|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
   0x91AF7A: { "en":[
-    " Have you been paying attention, CO?",
-    " If so, you will already understand the",
-    " importance of capturing.  If not, revise",
-    " sections A7, A13 and B5 immediately!",
+    " Voce esteve prestando aten@#o, CO?",
+    " Se sim, voce j= entender= a",
+    " importancia da captura. Se n#o, revise",
+    " imediatamente as se@oes A7, A13 e B5!",
     "",
-    " Those who have studied will be suitably",
-    " rewarded:  Except for the HQ {}, all",
-    " captured buildings generate an income",
-    " {}of 1|000{|}per day."
+    " Aqueles que estudaram ser#o devidamente",
+    " recompensados: Exceto pelo QG {}, todas",
+    " as edifica@oes capturadas geram uma",
+    " renda {}de 1|000{|}por dia."
   ], "ja": [
     "　ユニットの行動を終わらせるコマンドです。　",
     "　　　　　　　　　　　　　　　　　　　　　　"
   ]},
 
   # C4: Capture 2/2
-  0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Capture______2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
+  0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Capturar______2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
   0x91AFD8: { "en":[
-    " Science has taught us many wonderful",
-    " things <-< but with military research,",
-    " we are able to make even bigger bangs.",
+    " A ciencia nos ensinou muitas coisas",
+    " maravilhosas <-< mas, com a pesquisa",
+    " militar, somos capazes de fazer",
+    " explosoes ainda maiores.",
     "",
-    " Once a lab{<  }has been captured, you",
-    " can deploy the Proto<Tank{ }.  As",
-    " also generates 1|000{|}per day, and",
-    " the{{}is extremely powerful, you are",
-    " advised to capture these when able."
+    " Uma vez que um laborat+rio{<  }tenha",
+    " sido capturado, voce pode implantar o",
+    " Prototanque{ }.  Como tamb&m gera",
+    " 1|000{|}por dia, e o{{}& extremamente",
+    "  poderoso, voce & aconselhado a",
+    "  captur=-los quando poss;vel."
   ], "ja": [
     "　占領ポイントを占領するコマンドです。　　　",
     "　自軍の色以外の首都　　工場　　都市　　研究",
@@ -873,17 +912,18 @@ strings = {
   ]},
 
   # C5: Join
-  0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Join____________", "ja":"　　占領コマンドの説明その２"  },
+  0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Combinar____________", "ja":"　　占領コマンドの説明その２"  },
   0x91B172: { "en":[
-    " One last briefing on the Join command:",
+    " Uma ultima explica@#o sobre o comando",
+    " Combinar:",
     "",
-    " Two units of the same type can join",
-    " when moved into the same square,",
-    " unless both already have 10{}.  The",
-    " joined unit takes the higher {|}&",
-    " of the two, and combines their{||}up",
-    " to a total of 10.  Finally, units loaded",
-    " on transports cannot be joined."
+    " Duas unidades do mesmo tipo podem se",
+    " combinar ao serem movidas para a mesma",
+    " casa, a menos que ambas j= tenham 10{}.",
+    " A unidade unida assume o maior {|}e",
+    " dos dois, e combina suas{||}at& um total",
+    " de 10. Finalmente, unidades carregadas",
+    " em transportes n#o podem ser unidas."
   ], "ja": [
     "　首都　　以外は、占領すると収入　　が、つぎ",
     "の日から１０００ふえます。　　　　　　　　",
@@ -897,14 +937,15 @@ strings = {
   ]},
 
   # C6: Supply 1/2
-  0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Supply_______|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
+  0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Abastercer_______|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
   0x91B300: { "en":[
-    " The [Supply] command is exclusive to",
-    " Supply Trucks {}.  This will replenish",
-    " adjacent ground units and helicopters",
-    " {}{}< with {}|&<{}.  All four of the",
-    " surrounding units would be assisted in",
-    " the move shown below:",
+    " O comando [Abastercer] & exclusivo para",
+    " Caminhoes de Suprimento {}. Isso ir=",
+    " reabastecer unidades terrestres e",
+    " helic+pteros {}{}< com {}|e<{}. Todas",
+    " as quatro unidades ao redor seriam",
+    " assistidas na movimenta@#o mostrada",
+    " abaixo:",
     # Note: The last 3 lines are dedicated to a figure showing a cross formation with Supply Truck in the center
   ], "ja": [
     "　おなじしゅるいのユニットを合流させるコマン",
@@ -919,17 +960,18 @@ strings = {
   ]},
 
   # C7: Supply 2/2
-  0x919C12: { "b":0x919C12, "e":0x919C2E, "l":28, "en":"⏫20 C7: Supply_______2⏮1|/|2_", "ja":"　　補給コマンドの説明その１"  },
+  0x919C12: { "b":0x919C12, "e":0x919C2E, "l":28, "en":"⏫20 C7: Abastercer_______2⏮1|/|2_", "ja":"　　補給コマンドの説明その１"  },
   0x91B4B0: { "en":[
-    " Your units will consume {} during",
-    " movement around the battlefield.",
+    " Suas unidades ir#o consumir {} durante",
+    " o movimento pelo campo de batalha.",
     "",
-    " However, Air and Naval units consume",
-    " {|}per day, even if they do not move.",
-    " If these units run out of {}, the unit",
-    " will be lost.  Press{||}over a unit to",
-    " review its daily {} consumption (and",
-    " revisit your training on how to refuel)."
+    " No entanto, unidades A&reas e Navais",
+    " consomem {|}por dia, mesmo que n#o se",
+    " movam. Se essas unidades ficarem sem {},",
+    " a unidade ser= perdida. Pressione{||}",
+    " sobre uma unidade para revisar seu",
+    " consumo di=rio de {} (e reveja seu",
+    " treinamento sobre como reabastecer)."
   ], "ja": [
     "　補給車が補給を行うコマンドです。　　　　　",
     "　補給車　　ととなりあうマスにいるすべての地",
@@ -939,17 +981,18 @@ strings = {
   ]},
 
   # C8: Load 1/3
-  0x919C30: { "b":0x919C30, "e":0x919C4C, "l":28, "en":"⏫20 C8: Load________|1⏮1|/|3_", "ja":"　　補給コマンドの説明その２"  },
+  0x919C30: { "b":0x919C30, "e":0x919C4C, "l":28, "en":"⏫20 C8: Embarcar________|1⏮1|/|3_", "ja":"　　補給コマンドの説明その２"  },
   0x91B59E: { "en":[
-    " Each type of transport has a different",
-    " load capacity.  Study what each one is",
-    " able to carry below:",
+    " Cada tipo de transporte tem uma",
+    " capacidade de embarque diferente.",
+    " Estude o que cada um pode embarcar",
+    " abaixo:",
     "_",
-    "__  APC_____⏮1|1_*___| or",
-    "__ |T-Copter___⏮1|1_*___| or",
-    "__  Lander____2_*_ Ground Units",
-    "__  Cruiser____2_*___| or",
-    "__ |Train_____2_*_ Ground Units"
+    "__  BTP_____⏮1|1_*___| ou",
+    "__ |Helic+ptero___⏮1|1_*___| ou",
+    "__  Cargueiro____2_*_ Unid. terrestres",
+    "__  Cruzador____2_*___| ou",
+    "__ |Trem_____2_*_ Unid. terrestres"
   ], "ja": [
     "　補給にはお金がかかります。くわしいことは、",
     "「全補３」のページをみてください。",
@@ -963,17 +1006,18 @@ strings = {
   ]},
 
   # C9: Load 2/2
-  0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Load________2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
+  0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Embarcar________2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
   0x91B70A: { "en":[
-    " Accordingly, each transport can be",
-    " ordered to load and drop its cargo",
-    " when over specific types of terrain:",
+    " De acordo, cada transporte pode ser",
+    " ordenado a embarcar e desembarcar sua",
+    " carga quando sobre tipos espec;ficos",
+    " de terreno:",
     "",
-    "____ Anywhere { } can traverse",  # APC
-    "____ Not on__________ or",        # T-Copter
-    "____ Shoals & Ports",             # Lander
-    "____ Anywhere|{|}|can traverse",  # Cruiser
-    "____ Depots"                      # Train
+    "____ Em qualquer lugar { } pode percorrer",  # BTP
+    "____ N#o em__________ ou",                   # Helic+ptero
+    "____ Bancos de areia e Portos",              # Cargueiro
+    "____ Em qualquer lugar|{|}|pode percorrer",  # Cruzador
+    "____ Dep+sitos"                              # Trem
   ], "ja": [
     "どのユニットに、どのユニットが搭載されるかは",
     "下のひょうをみてください。",
@@ -987,13 +1031,13 @@ strings = {
   ]},
 
   # C10: Load 3/3
-  0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Load________3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
+  0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Embarcar_______3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
   0x91B84E: { "en":[
-    " The{||}of any loaded unit will drop",
-    " to match the{||}of its transport if",
-    " attacked.  This occurs even if no",
-    " actual damage was sustained during the",
-    " attack.",
+    " A{||}de qualquer unidade carregada ir=",
+    " se ajustar para corresponder a{||}de",
+    " seu transporte se for atacada. Isso",
+    " ocorre mesmo que nenhum dano real",
+    " tenha sido sofrido durante o ataque.",
     #
     # Come back to this one.  There's space for a joke or extra detail.
     #
@@ -1008,17 +1052,20 @@ strings = {
   ]},
 
   # C11: Drop
-  0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Drop____________", "ja":"　　搭載コマンドの説明その３"  },
+  0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Desembarcar____________", "ja":"　　搭載コマンドの説明その３"  },
   0x91B952: { "en":[
-    " Using the Drop command, your unit<(s)",
-    " can be unloaded onto any available",
-    " area immediately next to the transport.",
+    " Usando o comando Descarregar, sua(s)",
+    " unidade(s) pode(m) ser desembarcada(s)",
+    " em qualquer =rea dispon;vel",
+    " imediatamente ao lado do transporte.",
     "",
-    " Yet while transports can move your",
-    " forces across great distances, a unit",
-    " may still only be dropped on the same",
-    " terrain types it can move into when",
-    " traversing the battlefield by itself."
+    " No entanto, enquanto os transportes",
+    " podem mover suas for@as por grandes",
+    " distancias, uma unidade s+ pode ser",
+    " desembarcada nos mesmos tipos de",
+    " terreno que ela pode percorrer ao",
+    " atravessar o campo de batalha por si",
+    " s+."
   ], "ja": [
     "　搭載するがわのユニットの　　がいくつでも搭",
     "載されるがわにえいきょうはありませんが、戦闘",
@@ -1032,17 +1079,19 @@ strings = {
   ]},
 
   # C12: Wait
-  0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Wait____________", "ja":"　　降車コマンドの説明　　　"  },
+  0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Aguardar____________", "ja":"　　降車コマンドの説明　　　"  },
   0x91BAFC: { "en":[
-    " While every unit hopes their next move",
-    " will strike the winning blow, this dream",
-    " cannot come true every day.  Choosing",
-    " [Wait] will, quite simply, end that unit's",
-    " turn until the next day arrives.",
+    " Embora toda unidade espere que seu",
+    " pr+ximo movimento seja o golpe vencedor,",
+    " esse sonho n#o pode se tornar realidade",
+    " todos os dias. Escolher [Aguardar]",
+    " simplesmente encerrar= a vez dessa",
+    " unidade at& que o pr+ximo dia chegue.",
     "",
-    " Perhaps tomorrow.  This concludes your",
-    " training, but revisit any page or section",
-    " at any time.  Good luck and enjoy, CO!"
+    " Talvez amanh#. Isso conclui seu",
+    " treinamento, mas voce pode revisitar",
+    " qualquer p=gina ou se@#o a qualquer",
+    " momento. Boa sorte e aproveite, CO!"
   ], "ja": [
     "　搭載されたユニットが降りるコマンドです。　",
     "　降ろされる場所については、降りるユニットが",

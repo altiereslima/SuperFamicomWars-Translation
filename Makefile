@@ -22,7 +22,6 @@ output: patch
 	@cp graphics/screenshots/20171220/comparison_gifs/*.gif ./release/comparison_gifs
 	cd release; zip -r -y -9 "mb-sfwe-$(VERSION).zip" ./*
 
-
 superfamiconv:
 	@$(MAKE) -C tools/superfamiconv -j4
 
@@ -34,7 +33,6 @@ flips:
 
 wla:
 	cd tools/wla-dx && cmake . && make -j4
-
 
 clean:
 	@rm -rf release
