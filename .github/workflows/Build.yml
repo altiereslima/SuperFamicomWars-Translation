@@ -52,5 +52,5 @@ jobs:
       - name: Upload Release Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: release-artifacts
-          path: release/
+          name: Patch-tradução
+          path: release/mb-sfwe-.bps
