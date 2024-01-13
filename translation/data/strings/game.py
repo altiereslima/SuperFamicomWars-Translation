@@ -47,7 +47,7 @@ strings = {
 
 # NEW GAME / SAVE DATA MANAGEMENT
 
-  0x87E51F: { "b":0x87E51F, "e":0x87E529, "l":10, "en":"⏫00_Novo jogo",                "ja":"　　開戦　"  },
+  0x87E51F: { "b":0x87E51F, "e":0x87E529, "l":10, "en":"⏫00_^`vo jogo",                "ja":"　　開戦　"  },
   0x87E50E: { "b":0x87E50E, "e":0x87E518, "l":10, "en":"⏫08_Carregar jogo",               "ja":"　　再戦　"  },
   0x87E530: { "b":0x87E530, "e":0x87E53A, "l":10, "en":"⏫10_Copiar dados",               "ja":"　　複写　"  },
   0x87E541: { "b":0x87E541, "e":0x87E54B, "l":10, "en":"⏫18_Apagar dados",             "ja":"　　削除　"  },
