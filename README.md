@@ -1,26 +1,31 @@
-# super famicom wars // translation project
+# Tradução do Jogo Super Famicom Wars para o Português do Brasil
 
-This is the full source for the [Super Famicom Wars] english translation [patch].
+Bem-vindo ao projeto de tradução do jogo Super Famicom Wars para o Português do Brasil. Este projeto visa proporcionar uma experiência de jogo localizada para a comunidade de língua portuguesa.
 
-For credits and more information on the history of the project, please refer to the [release notes](./docs/release/mb-sfwe.txt)!
+## Como Contribuir
 
+Se você deseja contribuir para a tradução ou relatar problemas, siga estas etapas:
 
-## building
+1. Fork do repositório.
+2. Crie uma branch para suas alterações: `git checkout -b feature/nova-traducao`.
+3. Faça as alterações desejadas.
+4. Commit e faça push para a sua branch: `git push origin feature/nova-traducao`.
+5. Abra um Pull Request com uma descrição clara das alterações propostas.
 
-The domain specific tools are included as source in the repository, so all that 
-is needed to build is make, CMake, a C/C++ toolchain, python 2.7 and a Unix-like command line.
+## Bugs e Problemas Conhecidos
 
-You will also need to source the ROM image of Super Famicom Wars ([NP]) and copy 
-it to this path:
+Liste aqui quaisquer problemas conhecidos ou bugs presentes na tradução.
 
-```
-path: rom/Super Famicom Wars (Japan) (NP).sfc
-md5:  d88b4ed9a9d834696357ce4c9ef95359
-```
+## Agradecimentos
 
-To build, simply run `make` in the project root.
+Agradecemos a todos os colaboradores que contribuíram para este projeto.
 
+## Licença
 
-[Super Famicom Wars]: https://www.nintendo.co.jp/n02/shvc/bfwj/index.html
-[patch]: https://www.romhacking.net/translations/3354/
-[NP]: https://en.wikipedia.org/wiki/Nintendo_Power_(cartridge)
+Este projeto é licenciado sob a [inserir licença] - Consulte o arquivo LICENSE.md para obter detalhes.
+
+---
+
+**Nota:** Certifique-se de respeitar os termos de uso da ROM original e da tradução, e esteja ciente das implicações legais envolvidas no uso de patches de tradução.
+
+Divirta-se jogando Super Famicom Wars em português! 🎮✨
