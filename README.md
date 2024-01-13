@@ -2,16 +2,6 @@
 
 Bem-vindo ao projeto de tradução do jogo Super Famicom Wars para o Português do Brasil. Este projeto visa proporcionar uma experiência de jogo localizada para a comunidade de língua portuguesa.
 
-## Como Contribuir
-
-Se você deseja contribuir para a tradução ou relatar problemas, siga estas etapas:
-
-1. Fork do repositório.
-2. Crie uma branch para suas alterações: `git checkout -b feature/nova-traducao`.
-3. Faça as alterações desejadas.
-4. Commit e faça push para a sua branch: `git push origin feature/nova-traducao`.
-5. Abra um Pull Request com uma descrição clara das alterações propostas.
-
 ## Bugs e Problemas Conhecidos
 
 Liste aqui quaisquer problemas conhecidos ou bugs presentes na tradução.
