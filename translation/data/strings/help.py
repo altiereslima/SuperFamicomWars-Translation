@@ -310,7 +310,7 @@ strings = {
     "____entre o QG {} de cada exército.",
     "____Move rapidamente o cursor",
     "____entre unidades ainda não movidas.",
-    "",  ã Leave blank (row of icons)
+    "",  # Leave blank (row of icons)
     "____Reinicia o jogo."
   ], "ja": [
     "　さいごに、べんりなキーの説明をします。",
