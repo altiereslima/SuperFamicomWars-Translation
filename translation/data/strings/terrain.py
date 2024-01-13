@@ -50,7 +50,7 @@ strings = {
 
   # Mountain
   0x8BC54F: { "b":0x8BC54F, "e":0x8BC553, "l":4,  "en":"⏺5A",         "ja":"山　"  },
-  0x8BC608: { "b":0x8BC608, "e":0x8BC60E, "l":6,  "en":"Montanha",    "ja":"　山　"  },
+  0x8BC608: { "b":0x8BC608, "e":0x8BC60E, "l":6,  "en":"_Montanha",    "ja":"　山　"  },
   0x8AE0DC: { "b":0x8AE0DC, "e":0x8AE102, "l":38, "en":"Só infantaria e unidades aéreas",      "ja":"　航空ユニットと歩兵、戦闘工兵のみは　"  },
   0x8AE106: { "b":0x8AE106, "e":0x8AE12C, "l":38, "en":"podem atravessá-la. A visão",       "ja":"いることができます。山の上の歩兵、戦　"  },
   0x8AE130: { "b":0x8AE130, "e":0x8AE158, "l":40, "en":"é aumentada em 3 para as tropas.",        "ja":"闘工兵は索敵距離が３ふえます。　　　　　"  },

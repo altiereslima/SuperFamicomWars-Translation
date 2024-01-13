@@ -90,7 +90,6 @@ strings = {
     " é o seu Manual de Campo básico, que",
     " contém uma visão geral de como jogar..",
     "__   SUPER FAMICOM WARS!",
-    "",
     " Descubra informações uteis para COs",
     " novatos e experientes. Atenção!",
     " Use cima/baixo {|} para virar",
