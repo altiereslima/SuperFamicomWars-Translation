@@ -47,7 +47,7 @@ strings = {
 
 # NEW GAME / SAVE DATA MANAGEMENT
 
-  0x87E51F: { "b":0x87E51F, "e":0x87E529, "l":10, "en":"⏫00_^`vo jogo",                "ja":"　　開戦　"  },
+  0x87E51F: { "b":0x87E51F, "e":0x87E529, "l":10, "en":"⏫00_Novo jogo",                "ja":"　　開戦　"  },
   0x87E50E: { "b":0x87E50E, "e":0x87E518, "l":10, "en":"⏫08_Carregar jogo",               "ja":"　　再戦　"  },
   0x87E530: { "b":0x87E530, "e":0x87E53A, "l":10, "en":"⏫10_Copiar dados",               "ja":"　　複写　"  },
   0x87E541: { "b":0x87E541, "e":0x87E54B, "l":10, "en":"⏫18_Apagar dados",             "ja":"　　削除　"  },
@@ -80,7 +80,7 @@ strings = {
 
   # GAME MODE
   0x87EE66: { "b":0x87EE66, "e":0x87EE76, "l":16, "en":"⏫00____|Selecionar modo",         "ja":"　モードせんたく"  },
-  0x87EDC2: { "b":0x87EDC2, "e":0x87EDCE, "l":12, "en":"⏫20_2J: Mapas cl=ssicos",  "ja":"　２Ｐマップ"  },
+  0x87EDC2: { "b":0x87EDC2, "e":0x87EDCE, "l":12, "en":"⏫20_2J: Mapas clássicos",  "ja":"　２Ｐマップ"  },
   0x87EDD5: { "b":0x87EDD5, "e":0x87EDE7, "l":18, "en":"_2J: Novos mapas",          "ja":"　ニュー２Ｐマップ"  },
   0x87EDEE: { "b":0x87EDEE, "e":0x87EDFA, "l":12, "en":"_4J: Mapas especiais",      "ja":"　４Ｐマップ"  },
 
@@ -90,13 +90,13 @@ strings = {
 
   0x87F695: { "b":0x87F695, "e":0x87F6A3, "l":14, "en":"Retirar-se do mapa?",   "ja":"降伏しますか？"  },
   0x87F610: { "b":0x87F610, "e":0x87F616, "l":6,  "en":"_Sim",                "ja":"　はい"  },
-  0x87F61D: { "b":0x87F61D, "e":0x87F625, "l":8,  "en":"_N#o",                 "ja":"　いいえ"  },
+  0x87F61D: { "b":0x87F61D, "e":0x87F625, "l":8,  "en":"_Não",                 "ja":"　いいえ"  },
 
   0x87F751: { "b":0x87F751, "e":0x87F75F, "l":14, "en":"|Salvar jogo?",         "ja":"記録しますか？"  },
   0x87F6C7: { "b":0x87F6C7, "e":0x87F6CD, "l":6,  "en":"_OK",                 "ja":"　はい"  },
   0x87F6D4: { "b":0x87F6D4, "e":0x87F6DC, "l":8,  "en":"_Cancelar",             "ja":"　いいえ"  },
 
-  0x87F872: { "b":0x87F872, "e":0x87F880, "l":14, "en":"⏮1 Carregar r=pido⏮1|?", "ja":"再戦しますか？"  },
+  0x87F872: { "b":0x87F872, "e":0x87F880, "l":14, "en":"⏮1 Carregar rápido⏮1|?", "ja":"再戦しますか？"  },
   0x87F7ED: { "b":0x87F7ED, "e":0x87F7F3, "l":6,  "en":"_OK",                 "ja":"　はい"  },
   0x87F7FA: { "b":0x87F7FA, "e":0x87F802, "l":8,  "en":"_Cancelar",             "ja":"　いいえ"  },
 
@@ -108,9 +108,9 @@ strings = {
   0x87C909: { "b":0x87C909, "e":0x87C911, "l":8,  "en":"_Organizar",      "ja":"　配置　"  },
   0x87C99F: { "b":0x87C99F, "e":0x87C9A7, "l":8,  "en":"<<<<Ajuda",         "ja":"　説明　"  },
   0x87C918: { "b":0x87C918, "e":0x87C920, "l":8,  "en":"<<<<Unidades",        "ja":"　部隊　"  },
-  0x87C936: { "b":0x87C936, "e":0x87C93E, "l":8,  "en":"<<<<Informa@.",        "ja":"　状況　"  },
+  0x87C936: { "b":0x87C936, "e":0x87C93E, "l":8,  "en":"<<<<Informaç.",        "ja":"　状況　"  },
   0x87C945: { "b":0x87C945, "e":0x87C94D, "l":8,  "en":"<<<<Abastecer",       "ja":"　全補　"  },
-  0x87C954: { "b":0x87C954, "e":0x87C95C, "l":8,  "en":"<<<<Op@oes",      "ja":"　設定　"  },
+  0x87C954: { "b":0x87C954, "e":0x87C95C, "l":8,  "en":"<<<<Opções",      "ja":"　設定　"  },
   0x87C963: { "b":0x87C963, "e":0x87C96B, "l":8,  "en":"<<<<Dispensar",      "ja":"　処分　"  },
   0x87C972: { "b":0x87C972, "e":0x87C97A, "l":8,  "en":"<<<<Render-se",      "ja":"　降伏　"  },
   0x87C990: { "b":0x87C990, "e":0x87C998, "l":8,  "en":"<<<<Carregar",         "ja":"　再戦　"  },
@@ -159,7 +159,7 @@ strings = {
   # - Results (header)
   #   - Days: (header)
   # - Nav bar (footer)
-  0x8BB5F8: { "b":0x8BB5F8, "e":0x8BB60C, "l":20, "en":"⏫00|Pr+ximo|___Pronto",             "ja":"きりかえ　　　ぬける"  },
+  0x8BB5F8: { "b":0x8BB5F8, "e":0x8BB60C, "l":20, "en":"⏫00|Próximo|___Pronto",             "ja":"きりかえ　　　ぬける"  },
   0x8BB6DF: { "b":0x8BB6DF, "e":0x8BB6E9, "l":10, "en":"⏫10|Resultados",      "ja":"戦闘けっか"  },
   0x8BB8A9: { "b":0x8BB8A9, "e":0x8BB8B3, "l":10, "en":"⏫18Jogador",        "ja":"プレイヤー"  },
   0x8BB6EB: { "b":0x8BB6EB, "e":0x8BB6F3, "l":8,  "en":"⏫40Dias:",         "ja":"戦闘日数"  },
@@ -180,8 +180,8 @@ strings = {
   # - Statistics (header)
   #   - Days: (header)
   # - Nav bar (footer)
-  0x8B9F7B: { "b":0x8B9F7B, "e":0x8B9F8F, "l":20, "en":"⏫00|Pr+ximo|___Pronto",             "ja":"きりかえ　　　ぬける"  },
-  0x8BA062: { "b":0x8BA062, "e":0x8BA068, "l":6,  "en":"⏫10Estat;sticas",    "ja":"の状況"  },
+  0x8B9F7B: { "b":0x8B9F7B, "e":0x8B9F8F, "l":20, "en":"⏫00|Próximo|___Pronto",             "ja":"きりかえ　　　ぬける"  },
+  0x8BA062: { "b":0x8BA062, "e":0x8BA068, "l":6,  "en":"⏫10Estatísticas",    "ja":"の状況"  },
   0x8BA06A: { "b":0x8BA06A, "e":0x8BA074, "l":10, "en":"⏫18Dias:",         "ja":"けいか日数"  },
   0x8BA17E: { "b":0x8BA17E, "e":0x8BA181, "l":4,  "en":"⏫20Neutro",       "ja":"中立"  },
   0x8BA352: { "b":0x8BA352, "e":0x8BA35E, "l":12, "en":"⏫28Derrotado",      "ja":"全滅しました"  },
@@ -200,7 +200,7 @@ strings = {
 
 # UNIT SUMMARY
 
-  0x8BA7E2: { "b":0x8BA7E2, "e":0x8BA804, "l":34, "en":"⏫00 Selecionar|Pr+ximo|___Pronto",   "ja":"ほかの軍　　　きりかえ　　　ぬける"  },
+  0x8BA7E2: { "b":0x8BA7E2, "e":0x8BA804, "l":34, "en":"⏫00 Selecionar|Próximo|___Pronto",   "ja":"ほかの軍　　　きりかえ　　　ぬける"  },
   0x8BA7AE: { "b":0x8BA7AE, "e":0x8BA7B8, "l":10, "en":"⏫10 Implantado",     "ja":"生産部隊数"  },
   0x8BA7BA: { "b":0x8BA7BA, "e":0x8BA7C4, "l":10, "en":"⏫18 Baixas",   "ja":"全滅部隊数"  },
   0x8BA7C6: { "b":0x8BA7C6, "e":0x8BA7D2, "l":12, "en":"⏫20__Total",       "ja":"　　合計　　"  },
@@ -214,12 +214,12 @@ strings = {
   0x8AB5A3: { "b":0x8AB5A3, "e":0x8AB5C5, "l":34, "en:":"RAM___/__/___VER._",             "ja":"ＲＡＭ　　　／　　／　　　ＶＥＲ．"  },
 
   0x83D797: { "b":0x83D797, "e":0x83D7A5, "l":14, "en":"Melhores resultados",                 "ja":"せんとうけっか"  },
-  0x83D7A7: { "b":0x83D7A7, "e":0x83D7B5, "l":14, "en":"For@a de ataque",                "ja":"こうげきりょく"  },
-  0x83D7B7: { "b":0x83D7B7, "e":0x83D7C5, "l":14, "en":"Forc@a de defesa",               "ja":"ぼうぎょりょく"  },
-  0x83D7E5: { "b":0x83D7E5, "e":0x83D7EB, "l":6,  "en":"N;vel",                       "ja":"レベル"  },
+  0x83D7A7: { "b":0x83D7A7, "e":0x83D7B5, "l":14, "en":"Força de ataque",                "ja":"こうげきりょく"  },
+  0x83D7B7: { "b":0x83D7B7, "e":0x83D7C5, "l":14, "en":"Força de defesa",               "ja":"ぼうぎょりょく"  },
+  0x83D7E5: { "b":0x83D7E5, "e":0x83D7EB, "l":6,  "en":"Nível",                       "ja":"レベル"  },
   0x83D7ED: { "b":0x83D7ED, "e":0x83D7F5, "l":8,  "en":"Experiencia",                  "ja":"けいけん"  },
   0x83D7F7: { "b":0x83D7F7, "e":0x83D7FF, "l":8,  "en":"Capturar",                     "ja":"かくとく"  },
-  0x83D7C7: { "b":0x83D7C7, "e":0x83D7E3, "l":28, "en":"Pressione o bot#o para retornar",       "ja":"エイボタンをおすともどります"  },
+  0x83D7C7: { "b":0x83D7C7, "e":0x83D7E3, "l":28, "en":"Pressione o botão para retornar",       "ja":"エイボタンをおすともどります"  },
 
   0x858C64: { "b":0x858C64, "e":0x858C80, "l":28, "en":"_Red Star, batalhar",      "ja":"　レッドスター軍　戦闘開始　"  },
   0x858C82: { "b":0x858C82, "e":0x858C9E, "l":28, "en":"_Blue Moon, batalhar",     "ja":"　ブルームーン軍　戦闘開始　"  },

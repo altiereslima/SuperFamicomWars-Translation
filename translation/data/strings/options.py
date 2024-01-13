@@ -61,12 +61,12 @@ strings = {
 
   0x87D9E2: { "b":0x87D9E2, "e":0x87D9F4, "l":18, "en":"⏫30_Autoabastece",  "ja":"　オート全補　　　"  },
   0x87E11B: { "b":0x87E11B, "e":0x87E12D, "l":18, "en":"⏫38_Nebl.<de<guerra",    "ja":"　さくてき　　　　"  },
-  0x87E136: { "b":0x87E136, "e":0x87E148, "l":18, "en":"⏫40_Subir de n;vel",      "ja":"　レベルアップ　　"  },
-  0x87E151: { "b":0x87E151, "e":0x87E163, "l":18, "en":"⏫48_Domina@#o",    "ja":"　ゆうせいしょうり"  },
-  0x87E187: { "b":0x87E187, "e":0x87E199, "l":18, "en":"⏫50_Batalha r=pida",  "ja":"　かんいせんとう　"  },
-  0x87E16C: { "b":0x87E16C, "e":0x87E17E, "l":18, "en":"⏫58_Mapa r=pido",     "ja":"　こうそくモード　"  },
+  0x87E136: { "b":0x87E136, "e":0x87E148, "l":18, "en":"⏫40_Subir de nível",      "ja":"　レベルアップ　　"  },
+  0x87E151: { "b":0x87E151, "e":0x87E163, "l":18, "en":"⏫48_Dominação",    "ja":"　ゆうせいしょうり"  },
+  0x87E187: { "b":0x87E187, "e":0x87E199, "l":18, "en":"⏫50_Batalha rápida",  "ja":"　かんいせんとう　"  },
+  0x87E16C: { "b":0x87E16C, "e":0x87E17E, "l":18, "en":"⏫58_Mapa rápido",     "ja":"　こうそくモード　"  },
   0x87E1A2: { "b":0x87E1A2, "e":0x87E1B0, "l":14, "en":"⏫60_Som",         "ja":"　サウンド　　"  },
-  0x87E2B1: { "b":0x87E2B1, "e":0x87E2BD, "l":12, "en":"⏫66_Est&reo",        "ja":"　ステレオ　"  },
+  0x87E2B1: { "b":0x87E2B1, "e":0x87E2BD, "l":12, "en":"⏫66_Estéreo",        "ja":"　ステレオ　"  },
   0x87E2BF: { "b":0x87E2BF, "e":0x87E2CB, "l":12, "en":"⏫6B__Mono",         "ja":"　モノラル　"  },
 
 
@@ -78,20 +78,20 @@ strings = {
   0x8AAC60: { "len":46, "org_len":46, "en":[
     "_Quando ativado, a visibilidade do",
     "_inimigo fica limitada a faixa de",
-    "_vis#o de suas unidades."
+    "_visão de suas unidades."
   ], "ja": [
     "　　ユニットごとに、みえるはんいをもちます。　",
     "　そのはんいのそとは、みえなくなります。"
   ]},
 
   # Level Up
-  0x8AACBC: { "b":0x8AACBC, "e":0x8AACCA, "l":14, "en":"⏫70_Subir de n;vel",                              "ja":"　レベルアップ"  },
+  0x8AACBC: { "b":0x8AACBC, "e":0x8AACCA, "l":14, "en":"⏫70_Subir de nível",                              "ja":"　レベルアップ"  },
   0x8AACCC: { "len":46, "org_len":46, "en":[
     "_Quando ativado, as unidades ganham",
     "_experiencia durante o combate. O",
-    "_poder de ataque & aumentado em 20%",
-    "_a cada n;vel alcan@ado, e a partir",
-    "_do n;vel 3, o poder de defesa recebe",
+    "_poder de ataque é aumentado em 20%",
+    "_a cada nível alcançado, e a partir",
+    "_do nível 3, o poder de defesa recebe",
     "_o mesmo impulso."
   ], "ja": [
     "　　ユニットが戦闘のたびつよくなるモードです。",
@@ -119,13 +119,13 @@ strings = {
   # "_is achieved either by capturing an",
   # "_enemy HQ or by occupying at least",
   # "_75% of the buildings on the map.",
-  0x8AAD96: { "b":0x8AAD96, "e":0x8AADA8, "l":18, "en":"⏫70_Domina@#o",                            "ja":"　ゆうせいしょうり"  },
+  0x8AAD96: { "b":0x8AAD96, "e":0x8AADA8, "l":18, "en":"⏫70_Dominação",                            "ja":"　ゆうせいしょうり"  },
   0x8AADAA: { "len":46, "org_len":46, "en":[
     "_Alem de destruir todas as unidades",
     "_inimigas ou capturar o QG inimigo,",
-    "_a Domina@#o permite a vit+ria se um",
+    "_a Dominação permite a vitória se um",
     "_exercito ocupar pelo menos 75% de",
-    "_todas as edifica@oes no mapa."
+    "_todas as edificações no mapa."
   ], "ja": [
     "　　敵よりかなりゆうりになったときに、首都占　",
     "　領、または敵を全滅させなくても勝利にするモ",
@@ -135,10 +135,10 @@ strings = {
   ]},
 
   # Quick battle
-  0x8AAE86: { "b":0x8AAE86, "e":0x8AAE96, "l":16, "en":"⏫70_Batalha r=pida",                          "ja":"　かんいせんとう"  },
+  0x8AAE86: { "b":0x8AAE86, "e":0x8AAE96, "l":16, "en":"⏫70_Batalha rápida",                          "ja":"　かんいせんとう"  },
   0x8AAE98: { "len":40, "org_len":46, "en":[
     "_Quando ativado, batalhas em tela",
-    "_cheia s#o substitu;das por breves",
+    "_cheia são substituídas por breves",
     "_resumos de confronto."
   ], "ja": [
     "　　戦闘の表示をきりかえます。",
@@ -148,11 +148,11 @@ strings = {
   ]},
 
   # Quick map
-  0x8AAF4C: { "b":0x8AAF4C, "e":0x8AAF5C, "l":16, "en":"⏫70_Mapa r=pido",                             "ja":"　こうそくモード"  },
+  0x8AAF4C: { "b":0x8AAF4C, "e":0x8AAF5C, "l":16, "en":"⏫70_Mapa rápido",                             "ja":"　こうそくモード"  },
   0x8AAF5E: { "len":40, "org_len":46, "en":[
     "As unidades se movem rapidamente",
-    "no mapa e a exibi@#o de anima@#o",
-    "em tela cheia s#o desativadas."
+    "no mapa e a exibição de animação",
+    "em tela cheia são desativadas."
   ], "ja": [
     "　　このスイッチを○●にするとマップアニメー",
     "　ションとしょうぐんアニメーションがきえます。",
@@ -161,13 +161,13 @@ strings = {
 
   # Sound
   0x8AAFEE: { "b":0x8AAFEE, "e":0x8AAFF8, "l":10, "en":"⏫70_Som",                                 "ja":"　サウンド"  },
-  0x8AAFFA: { "b":0x8AAFFA, "e":0x8AB020, "l":38, "en":"Seleciona a sa;da est&reo ou mono.",             "ja":"　ステレオとモノラルをきりかえます。　"  },
+  0x8AAFFA: { "b":0x8AAFFA, "e":0x8AB020, "l":38, "en":"Seleciona a saída estéreo ou mono.",             "ja":"　ステレオとモノラルをきりかえます。　"  },
 
   # Player
   0x8AB022: { "b":0x8AB022, "e":0x8AB02E, "l":12, "en":"⏫70_Jogador",                                "ja":"　プレイヤー"  },
   0x8AB030: { "len":40, "org_len":42, "en":[
     "_Seleciona quem controla este",
-    "_ex&rcito."
+    "_exército."
   ], "ja": [
     "　　それぞれの軍のプレイヤーをえらびます。",
     "　１コントローラー、２コントローラー、",
@@ -178,7 +178,7 @@ strings = {
   0x8AB0B0: { "b":0x8AB0B0, "e":0x8AB0BA, "l":10, "en":"⏫70_Musica",                                 "ja":"　おんがく"  },
   0x8AB0BC: { "len":34, "org_len":40, "en":[
     "_Escolha a musica tema do",
-    "_ex&rcito."
+    "_exército."
   ], "ja": [
     "　　じぐんのきょくのせんたくをします。　",
     "　プレーヤーは、１ー７までのきょくを　",
@@ -189,8 +189,8 @@ strings = {
   0x8AB12C: { "b":0x8AB12C, "e":0x8AB134, "l":8,  "en":"⏫70_Autoabastecer",                           "ja":"　全補給"  },
   0x8AB136: { "len":40, "org_len":34, "en":[
     "_Repara e abastece automaticamente",
-    "_unidades em edifica@oes ocupadas",
-    "_no in;cio de um novo dia."
+    "_unidades em edificações ocupadas",
+    "_no início de um novo dia."
   ], "ja": [
     "　　補給モードのせんたくをします。",
     "　全補給を１にちのはじめに自動でするか、　",
@@ -209,14 +209,14 @@ strings = {
   0x8AA9A3: { "b":0x8AA9A3, "e":0x8AA9A9, "l":6,  "en":"⏫78Independente",      "ja":"フリー"  },
   0x8AA9E9: { "b":0x8AA9E9, "e":0x8AA9EF, "l":6,  "en":"⏫78Independente",      "ja":"フリー"  },
   0x8AA9F1: { "b":0x8AA9F1, "e":0x8AA9F7, "l":6,  "en":"⏫78Independente",      "ja":"フリー"  },
-  0x8AA985: { "b":0x8AA985, "e":0x8AA98B, "l":6,  "en":"⏫80N;vel",          "ja":"レベル"  },
+  0x8AA985: { "b":0x8AA985, "e":0x8AA98B, "l":6,  "en":"⏫80Nível",          "ja":"レベル"  },
   0x8AA98D: { "b":0x8AA98D, "e":0x8AA991, "l":4,  "en":"⏫88|Memo:",         "ja":"メモ"  },
 
   # Mr Yamamoto memo
   0x8AA9F9: { "en":[
-    "_General lend=rio que",
+    "_General lendário que",
     "_comanda um exercito de",
-    "_elite incompar=vel."
+    "_elite incomparável."
   ], "ja": [
     "　ふはいの　でんせつをもつ",
     "　めいしょうぐん　はいかの",
@@ -225,7 +225,7 @@ strings = {
 
   # Yuan Delta memo
   0x8AAA51: { "en":[
-    "_Um comandante s=bio e",
+    "_Um comandante sábio e",
     "_estrategista astuto."
   ], "ja": [
     "　めいしょうぐん",
@@ -243,8 +243,8 @@ strings = {
 
   # Rogenski memo
   0x8AAAB5: { "en":[
-    "General m&dio com",
-    "entendimento question=vel",
+    "General médio com",
+    "entendimento questionável",
     "do campo de batalha."
   ], "ja": [
     "　じつりょくはふつうだが",
@@ -255,7 +255,7 @@ strings = {
   0x8AAAE5: { "en":[
     "⏮1|[Das Volk, mein Schild]",
     "Protege seu povo, mas",
-    "& um verdadeiro covarde."
+    "é um verdadeiro covarde."
   ], "ja": [
     "　「じんみんはこっかのたて」",
     "　が　くちぐせ",
@@ -266,7 +266,7 @@ strings = {
   0x8AAB35: { "en":[
     "Apelidada de |[Garota",
     "Sortuda]. Ataca com",
-    "forca sem raz#o aparente."
+    "forca sem razão aparente."
   ], "ja": [
     "　なんかわからんが　つよい",
     "　あだなは「ラッキーガール」"
@@ -274,7 +274,7 @@ strings = {
 
   # Billy Gates memo
   0x8AAB71: { "en":[
-    "_Filho de um bilion=rio,",
+    "_Filho de um bilionário,",
     "_gastando seu dinheiro",
     "_em jogos de guerra."
   ], "ja": [
@@ -293,6 +293,6 @@ strings = {
   0x8BD44E: { "b":0x8BD44E, "e":0x8BD452, "l":4,  "en":"⏫20|Rival",        "ja":"敵対"  },
   0x8BD42C: { "b":0x8BD42C, "e":0x8BD436, "l":10, "en":"⏫28|Jogador",       "ja":"プレイヤー"  },
   0x8BD438: { "b":0x8BD438, "e":0x8BD446, "l":14, "en":"⏫30|Computador",     "ja":"コンピューター"  },
-  0x8BD422: { "b":0x8BD422, "e":0x8BD42A, "l":8,  "en":"⏫38|Exclu;do",     "ja":"ふさんか"  },
+  0x8BD422: { "b":0x8BD422, "e":0x8BD42A, "l":8,  "en":"⏫38|Excluído",     "ja":"ふさんか"  },
 
 }

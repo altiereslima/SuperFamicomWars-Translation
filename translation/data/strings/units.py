@@ -24,13 +24,13 @@ strings = {
 
   # Deploy unit alert messages
   0x8A818F: { "b":0x8A818F, "e":0x8A81A7, "l":24, "en":"⏫80|Fundos insuficientes!",   "ja":"　おかねがたりません！　"  },
-  0x8A81C5: { "b":0x8A81C5, "e":0x8A81DD, "l":24, "en":"⏫80Unidade indispon;vel!",     "ja":"　ひつようありません！　"  },
+  0x8A81C5: { "b":0x8A81C5, "e":0x8A81DD, "l":24, "en":"⏫80Unidade indisponível!",     "ja":"　ひつようありません！　"  },
   0x8A8171: { "b":0x8A8171, "e":0x8A818D, "l":28, "en":"⏫80Limite atingido!",     "ja":"　ユニット数６０オーバー！　"  },
-  0x8A81A9: { "b":0x8A81A9, "e":0x8A81C3, "l":26, "en":"⏫80Trem j= implantado!",  "ja":"　列車砲はせいさんずみ！　"  },
+  0x8A81A9: { "b":0x8A81A9, "e":0x8A81C3, "l":26, "en":"⏫80Trem já implantado!",  "ja":"　列車砲はせいさんずみ！　"  },
 
   # Unit info
   0x8AC52A: { "b":0x8AC52A, "e":0x8AC53A, "l":16, "en":"     Custo:",              "ja":"ユニットのねだん"  },
-  0x8AC53C: { "b":0x8AC53C, "e":0x8AC548, "l":12, "en":"C. muni@#o:",              "ja":"たまのねだん"  },
+  0x8AC53C: { "b":0x8AC53C, "e":0x8AC548, "l":12, "en":"C. munição:",              "ja":"たまのねだん"  },
   0x8AC54A: { "b":0x8AC54A, "e":0x8AC54E, "l":4,  "en":"_⏺8F",                    "ja":"なし"  },
 
   0x8AC796: { "b":0x8AC796, "e":0x8AC79C, "l":6,  "en":"_⏺8B_",                   "ja":"　−　"  },
@@ -73,7 +73,7 @@ strings = {
   0x8AD047: { "en":[
     "A unidade mais barata para implantar. Pode",
     "capturar bases, mas possui pouca poder de",
-    "fogo. O alcance de vis#o aumenta em 3 no",
+    "fogo. O alcance de visão aumenta em 3 no",
     "topo de montanhas."
   ], "ja": [
     "　いちばん安く、よわいユニットです。しかし占領で",
@@ -91,9 +91,9 @@ strings = {
   0x8BCC84: { "b":0x8BCC84, "e":0x8BCC90, "l":12, "en":"|Metralhadora",  "ja":"マシンガン　"  },
   0x8AD0E9: { "en":[
     "Unidade de infantaria com poder de fogo",
-    "aumentada. Devido ao seu lan@a-foguetes",
+    "aumentada. Devido ao seu lança-foguetes",
     "pesado, a mobilidade e reduzida em",
-    "compara@#o com a infantaria padr#o."
+    "comparação com a infantaria padrão."
   ], "ja": [
     "　ロケット砲をもち、攻撃力の上がった歩兵です。し",
     "かし、ロケット砲が重いせいか、歩兵よりさらに移動",
@@ -106,13 +106,13 @@ strings = {
   0x8BC71F: { "b":0x8BC71F, "e":0x8BC72F, "l":16, "en":"⏫0A_Tanque<pes.",   "ja":"　重戦車　　　　"  },
   0x8BC924: { "b":0x8BC924, "e":0x8BC932, "l":14, "en":"|Tanque<pes.",       "ja":"　　重戦車　　"  },
   0x83C049: { "b":0x83C049, "e":0x83C04F, "l":6,  "en":"$Tanque<pesado",     "ja":"重戦車"  },
-  0x8BCAF1: { "b":0x8BCAF1, "e":0x8BCAFD, "l":12, "en":"|Canh#o",            "ja":"　戦車砲　　"  },
+  0x8BCAF1: { "b":0x8BCAF1, "e":0x8BCAFD, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
   0x8BCC92: { "b":0x8BCC92, "e":0x8BCC9E, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD19D: { "en":[
     "Possui as capacidades ofensivas e",
-    "defensivas mais fortes entre as for@as",
-    "terrestres. No entanto, & caro, lento e",
-    "tem pouca muni@#o."
+    "defensivas mais fortes entre as forças",
+    "terrestres. No entanto, é caro, lento e",
+    "tem pouca munição."
   ], "ja": [
     "　買えるユニットの中では、地上さいきょうです。ほ",
     "とんどの攻撃をよせつけず、高い攻撃力をほこります。",
@@ -121,16 +121,16 @@ strings = {
 
   # Medium Tank
   0x8A8670: { "b":0x8A8670, "e":0x8A8674, "l":4,  "en":"⏺43",               "ja":"中戦"  },
-  0x8BC731: { "b":0x8BC731, "e":0x8BC741, "l":16, "en":"⏫12_Tanque<m&dio",  "ja":"　中戦車　　　　"  },
-  0x8BC934: { "b":0x8BC934, "e":0x8BC942, "l":14, "en":"<Tanque<m&dio",      "ja":"　　中戦車　　"  },
-  0x83C051: { "b":0x83C051, "e":0x83C057, "l":6,  "en":"$Tanque<m&dio",      "ja":"中戦車"  },
-  0x8BCAFF: { "b":0x8BCAFF, "e":0x8BCB0B, "l":12, "en":"|Canh#o",            "ja":"　戦車砲　　"  },
+  0x8BC731: { "b":0x8BC731, "e":0x8BC741, "l":16, "en":"⏫12_Tanque<médio",  "ja":"　中戦車　　　　"  },
+  0x8BC934: { "b":0x8BC934, "e":0x8BC942, "l":14, "en":"<Tanque<médio",      "ja":"　　中戦車　　"  },
+  0x83C051: { "b":0x83C051, "e":0x83C057, "l":6,  "en":"$Tanque<médio",      "ja":"中戦車"  },
+  0x8BCAFF: { "b":0x8BCAFF, "e":0x8BCB0B, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
   0x8BCCA0: { "b":0x8BCCA0, "e":0x8BCCAC, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD231: { "en":[
-    "Uma unidade vers=til que atinge um bom",
-    "equil;brio entre poder de fogo e mobilidade.",
+    "Uma unidade versátil que atinge um bom",
+    "equilíbrio entre poder de fogo e mobilidade.",
     "O bloqueador perfeito para infantaria e",
-    "ve;culos."
+    "veículos."
   ], "ja": [
     "　軽戦車と重戦車のあいだの力をもつユニットです。",
     "そこそこかたく、移動力もあるのでつかいやすいでし",
@@ -142,13 +142,13 @@ strings = {
   0x8BC743: { "b":0x8BC743, "e":0x8BC753, "l":16, "en":"⏫19_Tanque",   "ja":"　軽戦車　　　　"  },
   0x8BC944: { "b":0x8BC944, "e":0x8BC952, "l":14, "en":"|Tanque<leve",      "ja":"　　軽戦車　　"  },
   0x83C059: { "b":0x83C059, "e":0x83C05F, "l":6,  "en":"$Tanque<leve",       "ja":"軽戦車"  },
-  0x8BCB0D: { "b":0x8BCB0D, "e":0x8BCB19, "l":12, "en":"|Canh#o",            "ja":"　戦車砲　　"  },
+  0x8BCB0D: { "b":0x8BCB0D, "e":0x8BCB19, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
   0x8BCCAE: { "b":0x8BCCAE, "e":0x8BCCBA, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD2A5: { "en":[
-    "Um tanque vers=til com grande mobilidade, mas",
-    "poder de bloqueio med;ocre. O baixo custo e",
-    "alta capacidade de muni@#o o tornam uma",
-    "unidade confi=vel no in;cio das batalhas."
+    "Um tanque versátil com grande mobilidade, mas",
+    "poder de bloqueio medíocre. O baixo custo e",
+    "alta capacidade de munição o tornam uma",
+    "unidade confiável no início das batalhas."
   ], "ja": [
     "　ねだんも安く、移動力が高いので地上ではメインの",
     "戦力になるでしょう。しかし装甲はそれほどかたくな",
@@ -163,9 +163,9 @@ strings = {
   0x8BCB1B: { "b":0x8BCB1B, "e":0x8BCB27, "l":12, "en":"|~",             "ja":"　――――　"  },
   0x8BCCBC: { "b":0x8BCCBC, "e":0x8BCCC8, "l":12, "en":"|Metralhadora",  "ja":"マシンガン　"  },
   0x8AD343: { "en":[
-    "Excelente mobilidade e alcance de vis#o.",
-    "Uma boa unidade contra soldados a p& e",
-    "indispens=vel durante batalhas com",
+    "Excelente mobilidade e alcance de visão.",
+    "Uma boa unidade contra soldados a pé e",
+    "indispensável durante batalhas com",
     "Neblina de Guerra."
   ], "ja": [
     "　移動力が高く歩兵につよいので、敵の歩兵たいじに",
@@ -181,9 +181,9 @@ strings = {
   0x8BCB29: { "b":0x8BCB29, "e":0x8BCB35, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8BCCCA: { "b":0x8BCCCA, "e":0x8BCCD6, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD3D7: { "en":[
-    "O modo mais r=pido de mover uma unidade de",
+    "O modo mais rápido de mover uma unidade de",
     "infantaria por terra. Predominantemente um",
-    "ve;culo de transporte, o BTP tem habilidades",
+    "veículo de transporte, o BTP tem habilidades",
     "limitadas de ataque e pouca defesa."
   ], "ja": [
     "　歩兵、戦闘工兵を搭載してはこぶことができます。",
@@ -196,11 +196,11 @@ strings = {
   0x8BC779: { "b":0x8BC779, "e":0x8BC789, "l":16, "en":"⏫74_Prototanque",  "ja":"　新型戦車　　　"  },
   0x8BC974: { "b":0x8BC974, "e":0x8BC982, "l":14, "en":"Prototanque",      "ja":"　　新型戦車　"  },
   0x83C071: { "b":0x83C071, "e":0x83C079, "l":8,  "en":"$Prototanque",     "ja":"新型戦車"  },
-  0x8BCB37: { "b":0x8BCB37, "e":0x8BCB43, "l":12, "en":"|Canh#o",            "ja":"　戦車砲　　"  },
+  0x8BCB37: { "b":0x8BCB37, "e":0x8BCB43, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
   0x8BCCD8: { "b":0x8BCCD8, "e":0x8BCCE4, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD45D: { "en":[
-    "Desenvolvido em segredo, o Prototanque s+",
-    "pode ser adquirido ao capturar um laborat+rio",
+    "Desenvolvido em segredo, o Prototanque só",
+    "pode ser adquirido ao capturar um laboratório",
     "de pesquisa neutro. Possui poder de fogo superior",
     "ao Tanque Pesado, mas sem seus inconvenientes."
   ], "ja": [
@@ -218,8 +218,8 @@ strings = {
   0x8BCB45: { "b":0x8BCB45, "e":0x8BCB51, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8BCCE6: { "b":0x8BCCE6, "e":0x8BCCF2, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8AD515: { "en":[
-    "Capaz de fornecer combust;vel e muni@#o",
-    "para unidades terrestres e de helic+ptero",
+    "Capaz de fornecer combustível e munição",
+    "para unidades terrestres e de helicóptero",
     "Contudo, sem capacidades ofensivas ou",
     "defensivas, e impotente contra ataques."
   ], "ja": [
@@ -234,12 +234,12 @@ strings = {
   0x8BC79D: { "b":0x8BC79D, "e":0x8BC7AD, "l":16, "en":"⏫2A_Artilharia___", "ja":"　自走砲　　　　"  },
   0x8BC994: { "b":0x8BC994, "e":0x8BC9A2, "l":14, "en":"⏮1|  Artilharia",   "ja":"　　自走砲　　"  },
   0x83C083: { "b":0x83C083, "e":0x83C089, "l":6,  "en":"$Artilharia",        "ja":"自走砲"  },
-  0x8BCB53: { "b":0x8BCB53, "e":0x8BCB5F, "l":12, "en":"|Canh#o",            "ja":"　カノン砲　"  },
+  0x8BCB53: { "b":0x8BCB53, "e":0x8BCB5F, "l":12, "en":"|Canhão",            "ja":"　カノン砲　"  },
   0x8BCCF4: { "b":0x8BCCF4, "e":0x8BCD00, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8AD5DB: { "en":[
-    "Unidade b=sica de combate indireto. Embora",
-    "mais lenta do que o lan@ador de foguetes, suas",
-    "esteiras podem se mover por terrenos dif;ceis.",
+    "Unidade básica de combate indireto. Embora",
+    "mais lenta do que o lançador de foguetes, suas",
+    "esteiras podem se mover por terrenos difíceis.",
     "Sem defesa contra ataques diretos."
   ], "ja": [
     "　かんせつ攻撃ユニットです。ロケット砲よりしゃて",
@@ -270,11 +270,11 @@ strings = {
   0x8BC7C1: { "b":0x8BC7C1, "e":0x8BC7D1, "l":16, "en":"⏫7B_Trem_______",   "ja":"　列車砲　　　　"  },
   0x8BC9B4: { "b":0x8BC9B4, "e":0x8BC9C2, "l":14, "en":"__Trem",             "ja":"　　列車砲　　"  },
   0x83C097: { "b":0x83C097, "e":0x83C09D, "l":6,  "en":"$Trem",              "ja":"列車砲"  },
-  0x8BCB6F: { "b":0x8BCB6F, "e":0x8BCB7B, "l":12, "en":"|Canh#o",            "ja":"　カノン砲　"  },
+  0x8BCB6F: { "b":0x8BCB6F, "e":0x8BCB7B, "l":12, "en":"|Canhão",            "ja":"　カノン砲　"  },
   0x8BCD10: { "b":0x8BCD10, "e":0x8BCD1C, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD729: { "en":[
     "Uma verdadeira fortaleza sobre trilhos que pode",
-    "carregar duas unidades terrestres. O canh#o do",
+    "carregar duas unidades terrestres. O canhão do",
     "trem causa danos indiretos devastadores",
     "contra todas unidades terrestres e navais."
   ], "ja": [
@@ -287,15 +287,15 @@ strings = {
   # Flak Gun
   0x8A86A6: { "b":0x8A86A6, "e":0x8A86AA, "l":4,  "en":"⏺4c",               "ja":"空自"  },
   0x8BC7D3: { "b":0x8BC7D3, "e":0x8BC7E3, "l":16, "en":"⏫34_Flak",          "ja":"　対空自走砲　　"  },
-  0x8BC9C4: { "b":0x8BC9C4, "e":0x8BC9D2, "l":14, "en":"|Canh#o<Flak",       "ja":"　対空自走砲　"  },
-  0x83C09F: { "b":0x83C09F, "e":0x83C0A9, "l":10, "en":"$Canh#o<Flak",       "ja":"対空自走砲"  },
-  0x8BCB7D: { "b":0x8BCB7D, "e":0x8BCB89, "l":12, "en":"|Canh#o<Flak",       "ja":"　高射砲　　"  },
+  0x8BC9C4: { "b":0x8BC9C4, "e":0x8BC9D2, "l":14, "en":"|Canhão<Flak",       "ja":"　対空自走砲　"  },
+  0x83C09F: { "b":0x83C09F, "e":0x83C0A9, "l":10, "en":"$Canhão<Flak",       "ja":"対空自走砲"  },
+  0x8BCB7D: { "b":0x8BCB7D, "e":0x8BCB89, "l":12, "en":"|Canhão<Flak",       "ja":"　高射砲　　"  },
   0x8BCD1E: { "b":0x8BCD1E, "e":0x8BCD2A, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8AD7DD: { "en":[
-    "Flak e o equivalente antia&reo a unidade",
-    "padr#o de Artilharia. Uma unidade de",
+    "Flak e o equivalente antiaéreo a unidade",
+    "padrão de Artilharia. Uma unidade de",
     "combate indireto de baixo custo que pode",
-    "atacar qualquer alvo a&reo inimigo."
+    "atacar qualquer alvo aéreo inimigo."
   ], "ja": [
     "　かんせつ攻撃ユニットです。対空ミサイルよりしゃ",
     "ていはみじかいですが、あまり場所をえらばず移動で",
@@ -308,12 +308,12 @@ strings = {
   0x8BC7E5: { "b":0x8BC7E5, "e":0x8BC7F5, "l":16, "en":"⏫39_Tanque<AA__",   "ja":"　対空戦車　　　"  },
   0x8BC9D4: { "b":0x8BC9D4, "e":0x8BC9E2, "l":14, "en":"_Tanque<AA",         "ja":"　　対空戦車　"  },
   0x83C0AB: { "b":0x83C0AB, "e":0x83C0B3, "l":8,  "en":"$Tanque AA",         "ja":"対空戦車"  },
-  0x8BCB8B: { "b":0x8BCB8B, "e":0x8BCB97, "l":12, "en":"|Vulc#o",            "ja":"バルカン砲　"  },
+  0x8BCB8B: { "b":0x8BCB8B, "e":0x8BCB97, "l":12, "en":"|Vulcão",            "ja":"バルカン砲　"  },
   0x8BCD2C: { "b":0x8BCD2C, "e":0x8BCD38, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8AD887: { "en":[
-    "O tanque antia&reo & equipado com o exclusivo",
-    "canh#o Vulc#o, que pode causar danos contra",
-    "a maioria das unidades terrestres e a&reas."
+    "O tanque antiaéreo é equipado com o exclusivo",
+    "canhão Vulcão, que pode causar danos contra",
+    "a maioria das unidades terrestres e aéreas."
   ], "ja": [
     "　「対空」となまえがついているだけあって、航空ユ",
     "ニットにつよいですが、戦車ユニットをのぞく地上ユ",
@@ -322,10 +322,10 @@ strings = {
 
   # Missiles
   0x8A86B2: { "b":0x8A86B2, "e":0x8A86B6, "l":4,  "en":"⏺4e",               "ja":"空ミ"  },
-  0x8BC7F7: { "b":0x8BC7F7, "e":0x8BC807, "l":16, "en":"⏫3F_M;sseis____",   "ja":"　対空ミサイル　"  },
-  0x8BC9E4: { "b":0x8BC9E4, "e":0x8BC9F2, "l":14, "en":"_|M;sseis",          "ja":"　対空ミサイル"  },
-  0x83C0B5: { "b":0x83C0B5, "e":0x83C0C1, "l":12, "en":"$M;sseis",           "ja":"対空ミサイル"  },
-  0x8BCB99: { "b":0x8BCB99, "e":0x8BCBA5, "l":12, "en":"|M;sseis",           "ja":"対空ミサイル"  },
+  0x8BC7F7: { "b":0x8BC7F7, "e":0x8BC807, "l":16, "en":"⏫3F_Mísseis____",   "ja":"　対空ミサイル　"  },
+  0x8BC9E4: { "b":0x8BC9E4, "e":0x8BC9F2, "l":14, "en":"_|Mísseis",          "ja":"　対空ミサイル"  },
+  0x83C0B5: { "b":0x83C0B5, "e":0x83C0C1, "l":12, "en":"$Mísseis",           "ja":"対空ミサイル"  },
+  0x8BCB99: { "b":0x8BCB99, "e":0x8BCBA5, "l":12, "en":"|Mísseis",           "ja":"対空ミサイル"  },
   0x8BCD3A: { "b":0x8BCD3A, "e":0x8BCD46, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8AD917: { "en":[
     "An excellent weapon against airborne enemy",
@@ -341,10 +341,10 @@ strings = {
 
   # Fighter
   0x8A86B8: { "b":0x8A86B8, "e":0x8A86BC, "l":4,  "en":"⏺4f",               "ja":"戦闘"  },
-  0x8BC809: { "b":0x8BC809, "e":0x8BC819, "l":16, "en":"⏫44_Ca@a_____",  "ja":"　戦闘機　　　　"  },
-  0x8BC9F4: { "b":0x8BC9F4, "e":0x8BCA02, "l":14, "en":"_ Ca@a",          "ja":"　　戦闘機　　"  },
-  0x83C0C3: { "b":0x83C0C3, "e":0x83C0C9, "l":6,  "en":"$Ca@a",           "ja":"戦闘機"  },
-  0x8BCBA7: { "b":0x8BCBA7, "e":0x8BCBB3, "l":12, "en":" ⏮2AA|M;sseis",    "ja":"対空ミサイル"  },
+  0x8BC809: { "b":0x8BC809, "e":0x8BC819, "l":16, "en":"⏫44_Caça_____",  "ja":"　戦闘機　　　　"  },
+  0x8BC9F4: { "b":0x8BC9F4, "e":0x8BCA02, "l":14, "en":"_ Caça",          "ja":"　　戦闘機　　"  },
+  0x83C0C3: { "b":0x83C0C3, "e":0x83C0C9, "l":6,  "en":"$Caça",           "ja":"戦闘機"  },
+  0x8BCBA7: { "b":0x8BCBA7, "e":0x8BCBB3, "l":12, "en":" ⏮2AA|Mísseis",    "ja":"対空ミサイル"  },
   0x8BCD48: { "b":0x8BCD48, "e":0x8BCD54, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD9B1: { "en":[
     "Provides superior firepower and mobility",
@@ -401,7 +401,7 @@ strings = {
   0x8BC83F: { "b":0x8BC83F, "e":0x8BC84F, "l":16, "en":"⏫53_B-Copter___",   "ja":"　戦闘ヘリ　　　"  },
   0x8BCA24: { "b":0x8BCA24, "e":0x8BCA32, "l":14, "en":"  B-Copter",         "ja":"　　戦闘ヘリ　"  },
   0x83C0DB: { "b":0x83C0DB, "e":0x83C0E3, "l":8,  "en":"$B-Copter",          "ja":"戦闘ヘリ"  },
-  0x8BCBD1: { "b":0x8BCBD1, "e":0x8BCBDD, "l":12, "en":" M;sseis",          "ja":"対地ミサイル"  },
+  0x8BCBD1: { "b":0x8BCBD1, "e":0x8BCBDD, "l":12, "en":" Mísseis",          "ja":"対地ミサイル"  },
   0x8BCD72: { "b":0x8BCD72, "e":0x8BCD7E, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADBD5: { "en":[
     "Cheap, versatile and ultimately expendable",

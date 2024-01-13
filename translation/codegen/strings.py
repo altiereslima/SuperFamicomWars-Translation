@@ -11,8 +11,14 @@ from _data_ import strings
 def kern_string(s):
   # Sneak in some glyph replacements here
   s = s.replace("  ", ">")
-  s = s.replace("fi", "`")
-  s = s.replace("fl", "^")
+  s = s.replace("ê", "`")
+  s = s.replace("õ", "^")
+  s = s.replace("ç", "@")
+  s = s.replace("á", "=")
+  s = s.replace("é", "&")
+  s = s.replace("í", ";")
+  s = s.replace("ó", "+")
+  s = s.replace("ã", "#")
   kern = {}
   for p, n in kerning.pairs:
     for m in re.finditer(p, s):
