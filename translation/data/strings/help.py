@@ -341,7 +341,7 @@ strings = {
     " Se uma unidade se mover para o",
     " caminho de um inimigo oculto na",
     " Neblina de Guerra, o turno da unidade",
-    " será encerrado.|Neste modo, Submarinos",
+    " será encerrado.|Neste modo,|Submarinos",
     " {{<} não podem ser detectados, mesmo",
     " dentro do alcance de visão, a menos",
     " que estejam diretamente adjacentes",
@@ -365,7 +365,7 @@ strings = {
     " inimigas ou capturar o QG {}. Contudo,",
     " edificações aliadas são imunes à captura",
     " e não oferecem reparos ou fornecimento",
-    " de unidades. Em resumo, é uma guerra <-<,",
+    " de unidades. Em resumo, é uma guerra,",
     " não um chá da tarde!"
   ], "ja": [
     "　同盟をむすぶことができるモードです。　　　",
