@@ -536,7 +536,7 @@ sfw.icon_list("icons_a7", 0x91, [
   ICON.Mech,   0, 0x7f, 0x48,
   ICON.Inftry, 0, 0x77, 0x98,
   ICON.Mech,   0, 0xcd, 0x98,
-  ICON.HP,     0, 0x6b, 0xa8
+  ICON.HP,     0, 0x6c, 0xa8
 ])
 
 # Page A8
