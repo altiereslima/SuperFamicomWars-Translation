@@ -408,8 +408,8 @@ strings = {
     " unidades aumentem de nível após um",
     " confronto.",
     " Note que se a unidade sofrer dano e se",
-    " combinar a outra para aumentar  }, o",
-    " nível mais alto das duas unidades",
+    " combinar a outra para aumentar o  },",
+    " o maior dos níveis das duas unidades",
     " será mantido."
   ], "ja": [
     "　　　　　　　レベルと合流",
