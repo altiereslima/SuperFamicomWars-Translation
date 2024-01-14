@@ -275,7 +275,7 @@ strings = {
     " {|<}acima dele. A proximidade é crucial",
     " para a maioria das unidades ao atacar,",
     " enquanto a Artilharia {|} pode atacar",
-    " indiretamente. Após se mover <-<, as",
+    " indiretamente. Após se mover, as",
     " unidades de ataque indireto não podem",
     " atacar, portanto, mova-as com cautela."
   ], "ja": [
