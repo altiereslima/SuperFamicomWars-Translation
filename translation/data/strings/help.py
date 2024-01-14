@@ -205,7 +205,6 @@ strings = {
     " Pressionar{|<}sobre uma unidade",
     " destacará as áreas do mapa para as",
     " quais ela pode se mover.",
-    "",
     " Por exemplo, mova a Infantaria {} e",
     " Mecanizadas {} em direção as",
     " edificações antes de capturá-las.",
@@ -231,11 +230,11 @@ strings = {
     " para cobrir longas distancias,",
     " rapidamente use BTPs { }, Cargueiros",
     "  {} e Helicópteros { }. Por exemplo,",
-    " carregue uma Infantaria {} em um",
-    " Helicóptero {}. O carregamento consumirá",
+    " embarque uma Infantaria {} em um",
+    " Helicóptero {}. O embarque consumirá",
     " um turno. No dia seguinte, mova o",
     " helicóptero sobre terra ou mar e",
-    " desembarque o soldado no solo firme."
+    " desembarque o soldado em solo firme."
   ], "ja": [
     "　海などにはばまれて、そのユニットでは移動で",
     "きないとき、きょりがとおくて、移動するのに何",
