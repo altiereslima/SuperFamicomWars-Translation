@@ -380,14 +380,13 @@ strings = {
   0x91CC64: { "en":[
     " Capturando <-< Chamada por Reforços!",
     "",
-    " Unidades podem ser atacadas enquanto",
+	" Unidades podem ser atacadas enquanto",
     " capturam uma edificação. Se a unidade",
     " for eliminada, todo o progresso de",
-    " captura será perdido.",
-    " Isso pode ser evitado unindo outra",
-    " unidade a ferida. < A captura pode",
-    " então continuar até a edificação ser",
-    " tomada."
+    " captura será perdido. Isso pode ser",
+    " evitado unindo outra unidade a ferida.",
+    " A captura pode então continuar até a",
+    " edificação ser tomada."
   ], "ja": [
     "　　　　　占領中に合流できること　　　　　",
     "",
