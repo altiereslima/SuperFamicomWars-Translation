@@ -341,10 +341,10 @@ strings = {
     " Se uma unidade se mover para o",
     " caminho de um inimigo oculto na",
     " Neblina de Guerra, o turno da unidade",
-    " será encerrado. Neste modo,",
-    " Submarinos{{<} não podem ser detectados,",
-    " mesmo dentro do alcance de visão, a",
-    " menos que estejam diretamente adjacentes",
+    " será encerrado.|Neste modo, Submarinos",
+    " {{<} não podem ser detectados, mesmo",
+    " dentro do alcance de visão, a menos",
+    " que estejam diretamente adjacentes",
     " a uma de suas unidades ou ancorados",
     " dentro de um porto{} ."
   ], "ja": [
