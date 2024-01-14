@@ -579,7 +579,7 @@ sfw.icon_list("icons_a11", 0x91, [
 
 # Page A12
 sfw.icon_list("icons_a12", 0x91, [
-  ICON.HQ,     0, 0xbb, 0x57
+  ICON.HQ,     0, 0xba, 0x57
 ])
 
 # Page A13
@@ -594,8 +594,8 @@ sfw.icon_list("icons_a14", 0x91, [
 
 # Page A15
 sfw.icon_list("icons_a15", 0x91, [
-  ICON.Vision, 0, 0x61, 0x98,
-  ICON.Recon,  0, 0x49, 0xa8,
+  ICON.Vision, 0, 0x61, 0x8a,
+  ICON.Recon,  0, 0x49, 0x99,
   ICON.Cruisr, 0, 0x95, 0xa9
 ])
 
