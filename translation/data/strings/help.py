@@ -153,7 +153,7 @@ strings = {
   ]},
 
   # A3: Building An Army 1/2
-  0x9197F8: { "b":0x9197F8, "e":0x919814, "l":28, "en":"⏫20 A3: Criando um exército_|1⏮1|/|2_", "ja":"　　何を生産する？　その１　"  },
+  0x9197F8: { "b":0x9197F8, "e":0x919814, "l":28, "en":"⏫20 A3: Criando exército_|1⏮1|/|2_", "ja":"　　何を生産する？　その１　"  },
   0x91BF0E: { "en":[
     " Cada CO precisa de um exército. Para",
     " implantar sua primeira unidade, mova o",
@@ -178,7 +178,7 @@ strings = {
   ]},
 
   # A4: Building An Army 2/2
-  0x919816: { "b":0x919816, "e":0x919832, "l":28, "en":"⏫20 A4: Criando um exército_2⏮1|/|2_", "ja":"　　何を生産する？　その２　"  },
+  0x919816: { "b":0x919816, "e":0x919832, "l":28, "en":"⏫20 A4: Criando exército_2⏮1|/|2_", "ja":"　　何を生産する？　その２　"  },
   0x91C090: { "en":[
     " A Infantaria {} é barata, mas fraca.",
     " As Mecanizadas {} são mais caras e menos",
