@@ -179,7 +179,7 @@ strings = {
   0x919816: { "b":0x919816, "e":0x919832, "l":28, "en":"⏫20 A4: Criar exército_2⏮1|/|2_", "ja":"　　何を生産する？　その２　"  },
   0x91C090: { "en":[
     " A Infantaria {} é barata, mas fraca.",
-    " Mecanizadas {} são mais caras e menos",
+    " Mecanizadas{} são mais caras e menos",
     " móveis, porem fortes. Apenas esses",
     " dois tipos de unidades podem capturar",
     " edificações, então podem ser essenciais",
