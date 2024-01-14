@@ -136,7 +136,7 @@ strings = {
   0x91BDC4: { "en":[
     " O objetivo do jogo é ou destruir",
     " todas as forças inimigas, ou capturar",
-    " o QG{}inimigo. Alcance estes",
+    " o QG{{} inimigo. Alcance estes",
     " objetivos criando um exército e",
     " enfrentando o inimigo pelo mapa.",
     " Da mesma forma, você será derrotado",
@@ -233,8 +233,8 @@ strings = {
   0x91C376: { "en":[
     " Ao enfrentar terreno difícil, ou",
     " para cobrir longas distancias,",
-    " rapidamente use BTPs { }, Cargueiros {}",
-    " e Helicóptero { }. Por exemplo,",
+    " rapidamente use BTPs { }, Cargueiros",
+    "  {} e Helicópteros { }. Por exemplo,",
     " carregue uma Infantaria {} em um",
     " Helicóptero {}. O carregamento consumirá",
     " um turno. No dia seguinte, mova o",
