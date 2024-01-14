@@ -516,8 +516,8 @@ sfw.icon_list("icons_a4", 0x91, [
 # Page A5
 sfw.icon_list("icons_a5", 0x91, [
   ICON.ButtnA, 0, 0x7b, 0x3a,
-  ICON.Inftry, 0, 0xcb, 0x58,
-  ICON.Mech,   0, 0x85, 0x69
+  ICON.Inftry, 0, 0xca, 0x58,
+  ICON.Mech,   0, 0x87, 0x69
 ])
 
 # Page A6
