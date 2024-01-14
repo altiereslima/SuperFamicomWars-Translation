@@ -317,7 +317,7 @@ strings = {
   # A10: Fog of War 1/2
   0x9198CA: { "b":0x9198CA, "e":0x9198E6, "l":28, "en":"⏫20 A10: Neblina de guerra____|1⏮1|/|2_", "ja":"　　さくてきモード　その１　"  },
   0x91C8F2: { "en":[
-    " Na Neblina de Guerra, sua visão do mapa",
+    " Na Neblina de Guerra,|sua visão do mapa",
     " é limitada, sendo visíveis apenas as",
     " edificações do seu exército e aliados,",
     " além de áreas ao alcance { | } de suas",
