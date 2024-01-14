@@ -517,7 +517,6 @@ strings = {
     " COs bem-sucedidos frequentemente capturam",
     " Bases{|} desocupadas e inimigas,",
     " Aeroportos{|},|Portos{|} e Depósitos{|}.",
-    "",
     " Devido a falta de pessoal, as edificações",
     " capturadas não podem ser usadas para",
     " produzir novas unidades. No entanto, elas",
@@ -538,7 +537,6 @@ strings = {
     " permite visualizar todas as suas forças",
     " atualmente implantadas no campo de",
     " batalha.",
-    "",
     " Use{{   }}para ordenar unidades com",
     " base em seu Tipo, Nível, PV{  ,",
     " Combustível|{} ou Munição{}. Percorra",
@@ -606,7 +604,7 @@ strings = {
   # B7: Supply 3/3
   0x919A50: { "b":0x919A50, "e":0x919A6C, "l":28, "en":"⏫20 B7: Abastecer____3⏮1|/|3_", "ja":"　　全補コマンドの説明その３"  },
   0x91A654: { "en":[
-    " Enquanto a reparação só pode ocorrer em",
+    " Enquanto o reparo só pode ocorrer em",
     " edificações, algumas unidades podem ser",
     " reabastecidas com e{<} no campo de",
     " batalha. Estas são: Unidades Terrestres",
