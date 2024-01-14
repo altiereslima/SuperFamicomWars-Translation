@@ -376,7 +376,7 @@ strings = {
   ]},
 
   # A13: Advice 1/3
-  0x919924: { "b":0x919924, "e":0x919940, "l":28, "en":"⏫20 A13: Conselho______|1⏮1|/|3_", "ja":"　わんぽいんとあどばいす１　"  },
+  0x919924: { "b":0x919924, "e":0x919940, "l":28, "en":"⏫20 A13: Conselho___|1⏮1|/|3_", "ja":"　わんぽいんとあどばいす１　"  },
   0x91CC64: { "en":[
     " Capturando <-< Chamada por Reforços!",
     "",
@@ -400,7 +400,7 @@ strings = {
   ]},
 
   # A14: Advice 2/3
-  0x919942: { "b":0x919942, "e":0x91995E, "l":28, "en":"⏫20 A14: Conselho______2⏮1|/|3_", "ja":"　わんぽいんとあどばいす２　"  },
+  0x919942: { "b":0x919942, "e":0x91995E, "l":28, "en":"⏫20 A14: Conselho___2⏮1|/|3_", "ja":"　わんぽいんとあどばいす２　"  },
   0x91CDB8: { "en":[
     " Lembrando sua Patente:",
     "",
@@ -424,7 +424,7 @@ strings = {
   ]},
 
   # A15: Advice 3/3
-  0x919960: { "b":0x919960, "e":0x91997C, "l":28, "en":"⏫20 A15: Conselho______3⏮1|/|3_", "ja":"　わんぽいんとあどばいす３　"  },
+  0x919960: { "b":0x919960, "e":0x91997C, "l":28, "en":"⏫20 A15: Conselho___3⏮1|/|3_", "ja":"　わんぽいんとあどばいす３　"  },
   0x91CEFC: { "en":[
     " Exponha e destrua:",
     "",
@@ -453,7 +453,7 @@ strings = {
 # SECTION B: "Main Commands"
 
   # B0
-  0x91997E: { "b":0x91997E, "e":0x91999A, "l":28, "en":"⏫20 Comandos principais________", "ja":"　マップコマンドの説明　　　"  },
+  0x91997E: { "b":0x91997E, "e":0x91999A, "l":28, "en":"⏫20 Comandos principais", "ja":"　マップコマンドの説明　　　"  },
   0x919D3A: { "en":[
     " Na Seção B, vamos explorar os",
     " comandos disponíveis nos menus de alto",
@@ -471,7 +471,7 @@ strings = {
   ]},
 
   # B1: Deploy 1/3
-  0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Produção_______|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
+  0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Produção____|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
   0x919F42: { "en":[
     " Se possuído desde o início de uma",
     " batalha, pressione{|<}sobre essas",
@@ -495,7 +495,7 @@ strings = {
   ]},
 
   # B2: Deploy 2/3
-  0x9199BA: { "b":0x9199BA, "e":0x9199D6, "l":28, "en":"⏫20 B2: Produção_______2⏮1|/|3_", "ja":"　　生産コマンドの説明その２"  },
+  0x9199BA: { "b":0x9199BA, "e":0x9199D6, "l":28, "en":"⏫20 B2: Produção____2⏮1|/|3_", "ja":"　　生産コマンドの説明その２"  },
   0x91A08C: { "en":[
     " Todo bom CO, em algum momento, se",
     " imaginou com um numero ilimitado de",
@@ -515,7 +515,7 @@ strings = {
   ]},
 
   # B3: Deploy 3/3
-  0x9199D8: { "b":0x9199D8, "e":0x9199F4, "l":28, "en":"⏫20 B3: Produção_______3⏮1|/|3_", "ja":"　　説明コマンドの説明　　　"  },
+  0x9199D8: { "b":0x9199D8, "e":0x9199F4, "l":28, "en":"⏫20 B3: Produção____3⏮1|/|3_", "ja":"　　説明コマンドの説明　　　"  },
   0x91A182: { "en":[
     " COs bem-sucedidos frequentemente capturam",
     " Bases{|} desocupadas e inimigas,",
@@ -535,7 +535,7 @@ strings = {
   ]},
 
   # B4: Units
-  0x9199F6: { "b":0x9199F6, "e":0x919A12, "l":28, "en":"⏫20 B4: Unidades___________", "ja":"　　部隊コマンドの説明　　　"  },
+  0x9199F6: { "b":0x9199F6, "e":0x919A12, "l":28, "en":"⏫20 B4: Unidades_____", "ja":"　　部隊コマンドの説明　　　"  },
   0x91A242: { "en":[
     " A opção Unidades no menu principal",
     " permite visualizar todas as suas forças",
@@ -559,7 +559,7 @@ strings = {
   ]},
 
   # B5: Supply 1/3
-  0x919A14: { "b":0x919A14, "e":0x919A30, "l":28, "en":"⏫20 B5: Abastecer_______|1⏮1|/|3_", "ja":"　　全補コマンドの説明その１"  },
+  0x919A14: { "b":0x919A14, "e":0x919A30, "l":28, "en":"⏫20 B5: Abastecer____|1⏮1|/|3_", "ja":"　　全補コマンドの説明その１"  },
   0x91A36E: { "en":[
     " Com o Autoabastecer ativado, unidades em",
     " edificações sob seu controle no início",
@@ -583,7 +583,7 @@ strings = {
   ]},
 
   # B6: Supply 2/3
-  0x919A32: { "b":0x919A32, "e":0x919A4E, "l":28, "en":"⏫20 B6: Abastecer_______2⏮1|/|3_", "ja":"　　全補コマンドの説明その２"  },
+  0x919A32: { "b":0x919A32, "e":0x919A4E, "l":28, "en":"⏫20 B6: Abastecer____2⏮1|/|3_", "ja":"　　全補コマンドの説明その２"  },
   0x91A51E: { "en":[
     " Claro, os contadores de feijão no QG",
     " (resmunga baixinho..<) não nos permitem",
@@ -607,7 +607,7 @@ strings = {
   ]},
 
   # B7: Supply 3/3
-  0x919A50: { "b":0x919A50, "e":0x919A6C, "l":28, "en":"⏫20 B7: Abastecer_______3⏮1|/|3_", "ja":"　　全補コマンドの説明その３"  },
+  0x919A50: { "b":0x919A50, "e":0x919A6C, "l":28, "en":"⏫20 B7: Abastecer____3⏮1|/|3_", "ja":"　　全補コマンドの説明その３"  },
   0x91A654: { "en":[
     " Enquanto a reparação só pode ocorrer em",
     " edificações, algumas unidades podem ser",
@@ -633,7 +633,7 @@ strings = {
   ]},
 
   # B8: Intel
-  0x919A6E: { "b":0x919A6E, "e":0x919A8A, "l":28, "en":"⏫20 B8: Inteligencia____________", "ja":"　　状況コマンドの説明　　　"  },
+  0x919A6E: { "b":0x919A6E, "e":0x919A8A, "l":28, "en":"⏫20 B8: Inteligencia", "ja":"　　状況コマンドの説明　　　"  },
   0x91A7E0: { "en":[
     " A Inteligencia oferece dados sobre a",
     " batalha atual. A primeira página exibe",
@@ -658,7 +658,7 @@ strings = {
   ]},
 
   # B9: Options
-  0x919A8C: { "b":0x919A8C, "e":0x919AA8, "l":28, "en":"⏫20 B9: Opções___________", "ja":"　　設定コマンドの説明　　　"  },
+  0x919A8C: { "b":0x919A8C, "e":0x919AA8, "l":28, "en":"⏫20 B9: Opções________", "ja":"　　設定コマンドの説明　　　"  },
   0x91A8F0: { "en":[
     " As seguintes opções ainda podem ser",
     " ajustadas com uma batalha em andamento:",
@@ -681,7 +681,7 @@ strings = {
   ]},
 
   # B10: Disband
-  0x919AAA: { "b":0x919AAA, "e":0x919AC6, "l":28, "en":"⏫20 B10: Dispensar__________", "ja":"　　処分コマンドの説明　　　"  },
+  0x919AAA: { "b":0x919AAA, "e":0x919AC6, "l":28, "en":"⏫20 B10: Dispensar_______", "ja":"　　処分コマンドの説明　　　"  },
   0x91AA2A: { "en":[
     " Pode haver momentos em que, por",
     " razões estratégicas, seja necessário",
@@ -703,7 +703,7 @@ strings = {
   ]},
 
   # B11: Retreat
-  0x919AC8: { "b":0x919AC8, "e":0x919AE4, "l":28, "en":"⏫20 B11: Render-se__________", "ja":"　　降伏コマンドの説明　　　"  },
+  0x919AC8: { "b":0x919AC8, "e":0x919AE4, "l":28, "en":"⏫20 B11: Render-se_______", "ja":"　　降伏コマンドの説明　　　"  },
   0x91AAE0: { "en":[
     " P<) Qual é o resultado melhor:| Perder",
     " uma batalha ou se render primeiro<?",
@@ -722,7 +722,7 @@ strings = {
   ]},
 
   # B12: Load
-  0x919AE6: { "b":0x919AE6, "e":0x919B02, "l":28, "en":"⏫20 B12: Carregar___________", "ja":"　　再戦コマンドの説明　　　"  },
+  0x919AE6: { "b":0x919AE6, "e":0x919B02, "l":28, "en":"⏫20 B12: Carregar________", "ja":"　　再戦コマンドの説明　　　"  },
   0x91AB70: { "en":[
     " Carregar irá carregar rapidamente do seu",
     " ponto de salvamento mais recente dentro",
@@ -740,7 +740,7 @@ strings = {
   ]},
 
   # B13: Save
-  0x919B04: { "b":0x919B04, "e":0x919B20, "l":28, "en":"⏫20 B13: Salvar___________", "ja":"　　休戦コマンドの説明　　　"  },
+  0x919B04: { "b":0x919B04, "e":0x919B20, "l":28, "en":"⏫20 B13: Salvar________", "ja":"　　休戦コマンドの説明　　　"  },
   0x91AC00: { "en":[
     " Mesmo o CO mais dedicado precisa",
     " deixar temporariamente o campo de",
@@ -759,7 +759,7 @@ strings = {
   ]},
 
   # B14: End Day
-  0x919B22: { "b":0x919B22, "e":0x919B3E, "l":28, "en":"⏫20 B14: Finalizar__________", "ja":"　　終了コマンドの説明　　　"  },
+  0x919B22: { "b":0x919B22, "e":0x919B3E, "l":28, "en":"⏫20 B14: Finalizar_______", "ja":"　　終了コマンドの説明　　　"  },
   0x91AC50: { "en":[
     " Se você terminou de implantar, mover,",
     " capturar, carregar, descarregar e",
@@ -781,7 +781,7 @@ strings = {
 # SECTION C: "Unit Commands"
 
   # C0
-  0x919B40: { "b":0x919B40, "e":0x919B5C, "l":28, "en":"⏫20 Comandos de unidade________", "ja":"　　部隊コマンドの説明　　　"  },
+  0x919B40: { "b":0x919B40, "e":0x919B5C, "l":28, "en":"⏫20 Comandos de unidade", "ja":"　　部隊コマンドの説明　　　"  },
   0x919DA0: { "en":[
     " Finalmente, a Seção C abordará talvez",
     " os comandos mais importantes: aqueles",
@@ -799,7 +799,7 @@ strings = {
   ]},
 
   # C1: Attack 1/2
-  0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Ataque_______|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
+  0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Ataque____|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
   0x91ACCC: { "en":[
     " Alguns COs já foram ouvidos dizendo que",
     " ⏮1[Ataque] é a palavra favorita deles.",
@@ -822,7 +822,7 @@ strings = {
   ]},
 
   # C2: Attack 2/2
-  0x919B7C: { "b":0x919B7C, "e":0x919B98, "l":28, "en":"⏫20 C2: Ataque_______2⏮1|/|2_", "ja":"　　攻撃コマンドの説明その２"  },
+  0x919B7C: { "b":0x919B7C, "e":0x919B98, "l":28, "en":"⏫20 C2: Ataque____2⏮1|/|2_", "ja":"　　攻撃コマンドの説明その２"  },
   0x91AE00: { "en":[
     " Armas Indiretas podem causar dano",
     " pesado, mas tem outra vantagem:",
@@ -847,7 +847,7 @@ strings = {
   ]},
 
   # C3: Capture 1/2
-  0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capturar______|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
+  0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capturar___|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
   0x91AF7A: { "en":[
     " Você esteve prestando atenção, CO?",
     " Se sim, você já entenderá a",
@@ -864,7 +864,7 @@ strings = {
   ]},
 
   # C4: Capture 2/2
-  0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Capturar______2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
+  0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Capturar___2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
   0x91AFD8: { "en":[
     " A ciência nos ensinou muitas coisas",
     " maravilhosas <-< mas, com a pesquisa",
@@ -890,7 +890,7 @@ strings = {
   ]},
 
   # C5: Join
-  0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Combinar____________", "ja":"　　占領コマンドの説明その２"  },
+  0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Combinar_________", "ja":"　　占領コマンドの説明その２"  },
   0x91B172: { "en":[
     " Uma ultima explicação sobre o comando",
     " Combinar:",
@@ -915,7 +915,7 @@ strings = {
   ]},
 
   # C6: Supply 1/2
-  0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Abastercer_______|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
+  0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Abastercer____|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
   0x91B300: { "en":[
     " O comando [Abastecer] é exclusivo para",
     " Caminhões de Suprimento {}. Isso irá",
@@ -938,7 +938,7 @@ strings = {
   ]},
 
   # C7: Supply 2/2
-  0x919C12: { "b":0x919C12, "e":0x919C2E, "l":28, "en":"⏫20 C7: Abastercer_______2⏮1|/|2_", "ja":"　　補給コマンドの説明その１"  },
+  0x919C12: { "b":0x919C12, "e":0x919C2E, "l":28, "en":"⏫20 C7: Abastercer____2⏮1|/|2_", "ja":"　　補給コマンドの説明その１"  },
   0x91B4B0: { "en":[
     " Suas unidades irão consumir {} durante",
     " o movimento pelo campo de batalha.",
@@ -959,7 +959,7 @@ strings = {
   ]},
 
   # C8: Load 1/3
-  0x919C30: { "b":0x919C30, "e":0x919C4C, "l":28, "en":"⏫20 C8: Embarcar________|1⏮1|/|3_", "ja":"　　補給コマンドの説明その２"  },
+  0x919C30: { "b":0x919C30, "e":0x919C4C, "l":28, "en":"⏫20 C8: Embarcar_____|1⏮1|/|3_", "ja":"　　補給コマンドの説明その２"  },
   0x91B59E: { "en":[
     " Cada tipo de transporte tem uma",
     " capacidade de embarque diferente.",
@@ -984,7 +984,7 @@ strings = {
   ]},
 
   # C9: Load 2/2
-  0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Embarcar________2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
+  0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Embarcar_____2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
   0x91B70A: { "en":[
     " De acordo, cada transporte pode ser",
     " ordenado a embarcar e desembarcar sua",
@@ -1009,7 +1009,7 @@ strings = {
   ]},
 
   # C10: Load 3/3
-  0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Embarcar_______3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
+  0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Embarcar____3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
   0x91B84E: { "en":[
     " A{||}de qualquer unidade carregada irá",
     " se ajustar para corresponder a{||}de",
@@ -1030,7 +1030,7 @@ strings = {
   ]},
 
   # C11: Drop
-  0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Desembarcar____________", "ja":"　　搭載コマンドの説明その３"  },
+  0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Desembarcar_________", "ja":"　　搭載コマンドの説明その３"  },
   0x91B952: { "en":[
     " Usando o comando Descarregar, sua(s)",
     " unidade(s) pode(m) ser desembarcada(s)",
@@ -1057,7 +1057,7 @@ strings = {
   ]},
 
   # C12: Wait
-  0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Aguardar____________", "ja":"　　降車コマンドの説明　　　"  },
+  0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Aguardar_________", "ja":"　　降車コマンドの説明　　　"  },
   0x91BAFC: { "en":[
     " Embora toda unidade espere que seu",
     " próximo movimento seja o golpe vencedor,",
