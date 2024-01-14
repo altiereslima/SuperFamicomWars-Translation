@@ -595,7 +595,7 @@ sfw.icon_list("icons_a14", 0x91, [
 # Page A15
 sfw.icon_list("icons_a15", 0x91, [
   ICON.Vision, 0, 0xcb, 0x8a,
-  ICON.Recon,  0, 0xc7, 0x99,
+  ICON.Recon,  0, 0xc9, 0x99,
   ICON.Cruisr, 0, 0x82, 0xa9
 ])
 
