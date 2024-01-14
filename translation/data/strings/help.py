@@ -249,14 +249,14 @@ strings = {
   0x919870: { "b":0x919870, "e":0x91988C, "l":28, "en":"⏫20 A7: Capturando edificações___", "ja":"　　　　占領しよう！　　　　"  },
   0x91C4E0: { "en":[
     " Ao mover sua Infantaria {} ou",
-    " Mecanizadas {} para uma edificação não",
+    " Mecanizada {}para uma edificação não",
     " controlada atualmente pelo seu exército,",
     " vice terá a opção de Capturá-la.",
-    "",
-    " As edificações tem 20 pontos de captura,",
-    " então uma unidade de Infantaria {} ou",
-    " Mecanizadas {} com seus 10{}|completos ",
-    " pode capturá-la em dois dias consecutivos."
+    " As edificações tem 20 pontos de",
+    " captura, então uma unidade de",
+    " Infantaria {} ou Mecanizada {} com",
+    " seus 10{}|completos pode capturá-la",
+    " em dois dias consecutivos."
   ], "ja": [
     "　歩兵　　や戦闘工兵　　を自分の色以外の占領",
     "ポイントに移動させてください。「占領」という",
