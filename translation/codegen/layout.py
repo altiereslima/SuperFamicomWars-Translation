@@ -491,13 +491,13 @@ sfw.icon_list("icons_a1", 0x91, [
 # Page A2
 sfw.icon_list("icons_a2", 0x91, [
   ICON.HQ,     0, 0x66, 0x56,
-  ICON.HQ,     0, 0xc6, 0xa6
+  ICON.HQ,     0, 0xc4, 0xa6
 ])
 
 # Page A3
 sfw.icon_list("icons_a3", 0x91, [
-  ICON.HQ,     0, 0xad, 0x57,
-  ICON.ButtnA, 0, 0xf4, 0x5a,
+  ICON.HQ,     0, 0xa5, 0x57,
+  ICON.ButtnA, 0, 0xf0, 0x5a,
   ICON.Wrench, 0, 0xa0, 0x69,
   ICON.CursrG, 0, 0x9f, 0x69,
   ICON.Gold,   0, 0xe1, 0x7a,
