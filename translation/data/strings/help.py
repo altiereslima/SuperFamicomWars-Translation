@@ -277,7 +277,7 @@ strings = {
     " enquanto a Artilharia {|} pode atacar",
     " indiretamente. Após se mover <-<, as",
     " unidades de ataque indireto não podem",
-    " atacar, portanto, mova-as com sabedoria."
+    " atacar, portanto, mova-as com cautela."
   ], "ja": [
     "　敵がじゃまな所にいたり、こちらのじゃまをし",
     "てきたら戦闘をしましょう。戦闘をしかけるとき",
