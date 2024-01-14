@@ -603,7 +603,7 @@ sfw.icon_list("icons_a15", 0x91, [
 
 # Page B0
 sfw.icon_list("icons_b0", 0x91, [
-  ICON.DPad,   0, 0x95, 0xa9
+  ICON.DPad,   0, 0x94, 0x99
 ])
 
 # Page B1
