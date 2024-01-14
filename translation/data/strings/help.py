@@ -269,17 +269,15 @@ strings = {
   # A8: Engage The Enemy!
   0x91988E: { "b":0x91988E, "e":0x9198AA, "l":28, "en":"⏫20 A8: Enfrentar o inimigo!___", "ja":"　　　　さあ攻撃だ！　　　　"  },
   0x91C60A: { "en":[
-    " Ao atacar, é aconselhável usar",
-    " unidades mais fortes e o terreno a seu",
-    " favor. As informações sobre o terreno",
-    " podem ser vistas pressionando{|<}acima",
-    " dele. A maioria das unidades deve estar",
-    " próxima de inimigos para atacar, mas",
-    " outras, como a Artilharia {|}, podem",
-    " atacar indiretamente. Os ataques",
-    " indiretos são poderosos, mas não podem",
-    " ser realizados após se mover <-<, então",
-    " mova essas unidades com sabedoria."
+    " Ao atacar, use unidades mais fortes e",
+    " tire vantagem do terreno. Consulte as",
+    " informações sobre o terreno pressionando",
+    " {|<}acima dele. A proximidade é crucial",
+    " para a maioria das unidades ao atacar,",
+    " enquanto a Artilharia {|} pode atacar",
+    " indiretamente. Após se mover <-<, as",
+    " unidades de ataque indireto não podem",
+    " atacar, portanto, mova-as com sabedoria."
   ], "ja": [
     "　敵がじゃまな所にいたり、こちらのじゃまをし",
     "てきたら戦闘をしましょう。戦闘をしかけるとき",
