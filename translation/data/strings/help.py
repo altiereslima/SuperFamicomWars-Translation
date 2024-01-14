@@ -431,11 +431,10 @@ strings = {
     " Durante a Neblina de Guerra, unidades",
     " indiretas não podem atacar áreas",
     " ocultas - mesmo sabendo que há um",
-    " inimigo.",
-    " Unidades com alcance amplo {|| }, como",
-    " Reconhecimento {} e Cruzadores{} , podem",
-    " ser enviadas primeiro para expor um",
-    " alvo ao ataque."
+    " inimigo. Unidades com alcance {|| }amplo,",
+    " como Reconhecimento {} e Cruzadores{} ,",
+    " podem ser enviadas primeiro para expor",
+    " um alvo ao ataque."
   ], "ja": [
     "　　　　　　偵察車　　と護衛艦",
     "",
