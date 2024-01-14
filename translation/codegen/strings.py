@@ -19,6 +19,10 @@ def kern_string(s):
   s = s.replace("í", ";")
   s = s.replace("ó", "+")
   s = s.replace("ã", "#")
+  s = s.replace("à", "a")
+  s = s.replace("â", "a")
+  s = s.replace("ô", "o")
+  s = s.replace("ú", "u") 
   kern = {}
   for p, n in kerning.pairs:
     for m in re.finditer(p, s):
