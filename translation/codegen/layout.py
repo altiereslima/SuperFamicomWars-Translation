@@ -579,7 +579,7 @@ sfw.icon_list("icons_a11", 0x91, [
 
 # Page A12
 sfw.icon_list("icons_a12", 0x91, [
-  ICON.HQ,     0, 0xbf, 0x57
+  ICON.HQ,     0, 0xbe, 0x57
 ])
 
 # Page A13
