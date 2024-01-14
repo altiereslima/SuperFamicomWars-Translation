@@ -225,10 +225,10 @@ strings = {
   # A6: Moving Out! 2/2
   0x919852: { "b":0x919852, "e":0x91986E, "l":28, "en":"⏫20 A6: Movendo-se!_2⏮1|/|2_", "ja":"　　どう行動する？　その２　"  },
   0x91C376: { "en":[
-    " Ao enfrentar terreno difícil, ou",
-    " para cobrir longas distancias,",
-    " rapidamente use BTPs { }, Cargueiros",
-    "  {} e Helicópteros { }. Por exemplo,",
+    " Ao enfrentar terreno difícil, ou para",
+    " cobrir longas distancias rapidamente,",
+    " use BTPs { }, Cargueiros {} e",
+    " Helicópteros { }. Por exemplo,",
     " embarque uma Infantaria {} em um",
     " Helicóptero {}. O embarque consumirá",
     " um turno. No dia seguinte, mova o",
