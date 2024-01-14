@@ -471,15 +471,15 @@ strings = {
   # B1: Deploy 1/3
   0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Produção____|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
   0x919F42: { "en":[
-    " Se possuído desde o início de uma",
+    " Se possuídas desde o início de uma",
     " batalha, pressione{|<}sobre essas",
     " edificações para produzir os seguintes",
     " tipos de unidades:",
-    "___QG______Unidades terrestres",
-    "___Bases____Unidades terrestres",
-    "___Aeroportos___Unidades aéreas",
-    "___Portos____Unidades navais",
-    "___Depósitos____Trens"
+    "___QG______ Unidades terrestres",
+    "___Bases____ Unidades terrestres",
+    "___Aeroportos__Unidades aéreas",
+    "___Portos____ Unidades navais",
+    "___Depósitos__Trens"
   ], "ja": [
     "　ユニットの生産を行うコマンドです。　　　　",
     "　生産ができる場所とは、　　　が　　　のよう",
