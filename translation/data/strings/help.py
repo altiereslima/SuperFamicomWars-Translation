@@ -232,7 +232,7 @@ strings = {
     " embarque uma Infantaria {} em um",
     " Helicóptero {}. O embarque consumirá",
     " um turno. No dia seguinte, mova o",
-    " helicóptero sobre terra ou mar e",
+    " Helicóptero { } sobre terra ou mar e",
     " desembarque o soldado em solo firme."
   ], "ja": [
     "　海などにはばまれて、そのユニットでは移動で",
