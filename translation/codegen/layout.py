@@ -565,7 +565,7 @@ sfw.icon_list("icons_a9", 0x91, [
 
 # Page A10
 sfw.icon_list("icons_a10", 0x91, [
-  ICON.Vision, 0, 0xb0, 0x68,
+  ICON.Vision, 0, 0xb9, 0x68,
   ICON.Inftry, 0, 0xe9, 0x89,
   ICON.Mech,   0, 0x89, 0x98,
   ICON.Mountn, 0, 0xcb, 0xa8
@@ -573,8 +573,8 @@ sfw.icon_list("icons_a10", 0x91, [
 
 # Page A11
 sfw.icon_list("icons_a11", 0x91, [
-  ICON.Sub,    0, 0x9f, 0x79,
-  ICON.Port,   0, 0xd1, 0xb8
+  ICON.Sub,    0, 0x4b, 0x79,
+  ICON.Port,   0, 0x9f, 0xb8
 ])
 
 # Page A12
