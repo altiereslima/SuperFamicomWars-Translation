@@ -480,7 +480,7 @@ sfw.icon_list("icons_null", 0x91, [])
 sfw.icon_list("icons_a0", 0x91, [
   ICON.Mech,   0, 0x4b, 0x68,
   ICON.Missil, 0, 0xe0, 0x68,
-  ICON.DPad,   0, 0x91, 0x99
+  ICON.DPad,   0, 0x94, 0x99
 ])
 
 # Page A1
@@ -490,8 +490,8 @@ sfw.icon_list("icons_a1", 0x91, [
 
 # Page A2
 sfw.icon_list("icons_a2", 0x91, [
-  ICON.HQ,     0, 0x90, 0x58,
-  ICON.HQ,     0, 0x90, 0xb8
+  ICON.HQ,     0, 0x64, 0x58,
+  ICON.HQ,     0, 0x59, 0xa9
 ])
 
 # Page A3
