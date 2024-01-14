@@ -1011,7 +1011,7 @@ strings = {
   # C10: Load 3/3
   0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Embarcar____3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
   0x91B84E: { "en":[
-    " A{||}de qualquer unidade carregada irá",
+    " A{||}de qualquer unidade embarcada irá",
     " se ajustar para corresponder a{||}de",
     " seu transporte se for atacada. Isso",
     " ocorre mesmo que nenhum dano real",
@@ -1032,7 +1032,7 @@ strings = {
   # C11: Drop
   0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Desembarcar_________", "ja":"　　搭載コマンドの説明その３"  },
   0x91B952: { "en":[
-    " Usando o comando Descarregar, sua(s)",
+    " Usando o comando Desembarcar, sua(s)",
     " unidade(s) pode(m) ser desembarcada(s)",
     " em qualquer área disponível",
     " imediatamente ao lado do transporte.",
