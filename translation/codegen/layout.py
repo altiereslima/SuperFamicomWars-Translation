@@ -608,7 +608,7 @@ sfw.icon_list("icons_b0", 0x91, [
 
 # Page B1
 sfw.icon_list("icons_b1", 0x91, [
-  ICON.ButtnA, 0, 0x64, 0x4a,
+  ICON.ButtnA, 0, 0x9c, 0x4a,
   ICON.HQ,     0, 0x4b, 0x78,
   ICON.Base,   0, 0x4b, 0x88,
   ICON.Airprt, 0, 0x4b, 0x98,
