@@ -200,18 +200,17 @@ strings = {
   ]},
 
   # A5: Moving Out! 1/2
-  0x919834: { "b":0x919834, "e":0x919850, "l":28, "en":"⏫20 A5: Movendo-se!____|1⏮1|/|2_", "ja":"　　どう行動する？　その１　"  },
+  0x919834: { "b":0x919834, "e":0x919850, "l":28, "en":"⏫20 A5: Movendo-se!_|1⏮1|/|2_", "ja":"　　どう行動する？　その１　"  },
   0x91C214: { "en":[
-    " Pressionar{|<}sobre uma unidade",
-    " destacará as áreas do mapa para as",
-    " quais ela pode se mover.",
-    " Por exemplo, mova a Infantaria {} e",
-    " Mecanizadas {} em direção as",
+    " Pressionar{|<}em uma unidade",
+    " destacará as áreas onde ela pode se",
+    " mover. Ex: mova a Infantaria {} e",
+    " a Mecanizada {} em direção as",
     " edificações antes de capturá-las.",
-    " |Em seguida, implante mais unidades",
-    " fortes, como tanques, e mova-os",
-    " para perto como proteção. Ou, para",
-    " lançar ataques no inimigo."
+    " Então implante mais unidades fortes,",
+    " como tanques, e mova-os para perto",
+    " como proteção. Ou para atacar o",
+    " inimigo."
   ], "ja": [
     "　さきほど生産したユニットの上で　　をおして",
     "ください。ユニットを中心にマップの色がかわり",
@@ -224,7 +223,7 @@ strings = {
   ]},
 
   # A6: Moving Out! 2/2
-  0x919852: { "b":0x919852, "e":0x91986E, "l":28, "en":"⏫20 A6: Movendo-se!____2⏮1|/|2_", "ja":"　　どう行動する？　その２　"  },
+  0x919852: { "b":0x919852, "e":0x91986E, "l":28, "en":"⏫20 A6: Movendo-se!_2⏮1|/|2_", "ja":"　　どう行動する？　その２　"  },
   0x91C376: { "en":[
     " Ao enfrentar terreno difícil, ou",
     " para cobrir longas distancias,",
