@@ -271,7 +271,7 @@ strings = {
   0x91C60A: { "en":[
     " Ao atacar, use unidades mais fortes e",
     " tire vantagem do terreno. Consulte as",
-    " informações sobre o terreno pressionando",
+    " informações do terreno pressionando",
     " {|<}acima dele. A proximidade é crucial",
     " para a maioria das unidades ao atacar,",
     " enquanto a Artilharia {|} pode atacar",
