@@ -534,14 +534,14 @@ sfw.icon_list("icons_a6", 0x91, [
 sfw.icon_list("icons_a7", 0x91, [
   ICON.Inftry, 0, 0xb6, 0x38,
   ICON.Mech,   0, 0x7f, 0x48,
-  ICON.Inftry, 0, 0x77, 0x98,
+  ICON.Inftry, 0, 0x5b, 0x98,
   ICON.Mech,   0, 0xcd, 0x98,
   ICON.HP,     0, 0x6c, 0xa8
 ])
 
 # Page A8
 sfw.icon_list("icons_a8", 0x91, [
-  ICON.ButtnX, 0, 0x94, 0x6a,
+  ICON.ButtnX, 0, 0x4d, 0x6a,
   ICON.Artly,  0, 0xc6, 0x88
 ])
 
