@@ -153,7 +153,7 @@ strings = {
   ]},
 
   # A3: Building An Army 1/2
-  0x9197F8: { "b":0x9197F8, "e":0x919814, "l":28, "en":"⏫20 A3: Criando exército_|1⏮1|/|2_", "ja":"　　何を生産する？　その１　"  },
+  0x9197F8: { "b":0x9197F8, "e":0x919814, "l":28, "en":"⏫20 A3: Criar exército_|1⏮1|/|2_", "ja":"　　何を生産する？　その１　"  },
   0x91BF0E: { "en":[
     " Cada CO precisa de um exército. Para",
     " implantar sua primeira unidade, mova o",
@@ -178,19 +178,17 @@ strings = {
   ]},
 
   # A4: Building An Army 2/2
-  0x919816: { "b":0x919816, "e":0x919832, "l":28, "en":"⏫20 A4: Criando exército_2⏮1|/|2_", "ja":"　　何を生産する？　その２　"  },
+  0x919816: { "b":0x919816, "e":0x919832, "l":28, "en":"⏫20 A4: Criar exército_2⏮1|/|2_", "ja":"　　何を生産する？　その２　"  },
   0x91C090: { "en":[
     " A Infantaria {} é barata, mas fraca.",
-    " As Mecanizadas {} são mais caras e menos",
-    " móveis, mas mais poderosas. Apenas esses",
+    " Mecanizadas {} são mais caras e menos",
+    " móveis, porem fortes. Apenas esses",
     " dois tipos de unidades podem capturar",
     " edificações, então podem ser essenciais",
-    " para a vitória. Aperte{|<}sobre",
-    " qualquer unidade para ver suas estatísticas",
-    " de combate. Quando terminar de construir,",
-    " selecione [Finalizar] no menu para",
-    " continuar. Você pode mover as novas",
-    " unidades no dia seguinte."
+    " para a vitória. Aperte{|<}sobre uma",
+    " unidade para ver suas estatísticas",
+    " de combate. Ao terminar de construir,",
+    " selecione [Finalizar] para continuar."
   ], "ja": [
     "　歩兵　　は安いがよわい、戦闘工兵　　は高く",
     "移動力も少ないがそこそこつよい、という個性が",
