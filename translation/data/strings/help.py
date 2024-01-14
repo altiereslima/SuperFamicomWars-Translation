@@ -136,10 +136,9 @@ strings = {
   0x91BDC4: { "en":[
     " O objetivo do jogo é ou destruir",
     " todas as forças inimigas, ou capturar",
-    " o QG inimigo{}. Alcance estes",
+    " o QG{}inimigo. Alcance estes",
     " objetivos criando um exército e",
     " enfrentando o inimigo pelo mapa.",
-    "",
     " Da mesma forma, você será derrotado",
     " se todas as suas unidades forem",
     " destruídas ou se o seu QG{{} for",
