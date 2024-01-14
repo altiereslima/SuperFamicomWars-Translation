@@ -159,12 +159,10 @@ strings = {
     " implantar sua primeira unidade, mova o",
     " cursor para seu QG{{}e pressione{|<}",
     " quando o cursor mudar para {{}. Seus",
-    " fundos para construir são exibidos ao",
-    " lado do ícone. Se uma unidade exceder",
-    " seus fundos, ela ficará esmaecida e não",
-    " poderá ser implantada. Comece",
-    " implantando uma unidade básica, como",
-    " uma Infantaria {} ou Mecanizada{} ."
+    " fundos{}para construir são exibidos ao",
+    " lado do ícone. Comece implantando uma",
+    " unidade básica, como uma Infantaria {}",
+    " ou Mecanizada{}."
   ], "ja": [
     "　はじめにすることは生産です。カーソル　　が",
     "　　　にかわるところで　　をおしてください。",
