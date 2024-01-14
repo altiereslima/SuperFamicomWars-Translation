@@ -317,16 +317,15 @@ strings = {
   # A10: Fog of War 1/2
   0x9198CA: { "b":0x9198CA, "e":0x9198E6, "l":28, "en":"⏫20 A10: Neblina de guerra____|1⏮1|/|2_", "ja":"　　さくてきモード　その１　"  },
   0x91C8F2: { "en":[
-    " Durante a Neblina de Guerra, sua visão",
-    " do mapa será limitada. Apenas as",
-    " edificações de seu exército e aliados,",
-    " e áreas dentro do alcance de suas",
-    " unidades, serão completamente",
-    " visíveis. Fora disso, qualquer",
-    " movimento inimigo será indetectável.",
-    " A Infantaria {} e a Mecanizada {} tem",
-    " uma habilidade util <-< ao subir",
-    " montanhas __<|, sua visão aumenta em 3."
+    " Na Neblina de Guerra, sua visão do mapa",
+    " é limitada, sendo visíveis apenas as",
+    " edificações do seu exército e aliados,",
+    " além de áreas ao alcance de suas",
+    " unidades. Movimentos inimigos fora desse",
+    " alcance são indetectáveis. Infantaria {}",
+    " e Mecanizada {} ganham uma util",
+    " habilidade ao subir montanhas __<|,",
+    " aumentando sua visão em 3."
   ], "ja": [
     "　索敵はんい外はみえなくなるモードです。",
     "　索敵はんいは、自軍と同盟軍の占領ポイントの",
@@ -343,7 +342,6 @@ strings = {
     " caminho de um inimigo oculto pela",
     " Neblina de Guerra, o turno dessa",
     " unidade será encerrado.",
-    "",
     " Neste modo, Submarinos{{<}não podem",
     " ser detectados, mesmo que estejam",
     " dentro do seu alcance de visão, a",
@@ -369,7 +367,6 @@ strings = {
     " inimigo. Os aliados podem ajudar a",
     " destruir as unidades do inimigo ou",
     " capturar o QG {} deles.",
-    "",
     " No entanto, as edificações dos aliados",
     " não podem ser capturadas, e elas não",
     " fornecerão nem repararão suas unidades.",
@@ -392,7 +389,6 @@ strings = {
     " capturam uma edificação. Se a unidade",
     " for eliminada, todo o progresso de",
     " captura será perdido.",
-    "",
     " Isso pode ser evitado unindo outra",
     " unidade a ferida. < A captura pode",
     " então continuar até a edificação ser",
@@ -412,12 +408,11 @@ strings = {
   # A14: Advice 2/3
   0x919942: { "b":0x919942, "e":0x91995E, "l":28, "en":"⏫20 A14: Conselho______2⏮1|/|3_", "ja":"　わんぽいんとあどばいす２　"  },
   0x91CDB8: { "en":[
-    " Lembrando sua Patente",
+    " Lembrando sua Patente:",
     "",
     " Ativar [Subir de nível] permite que as",
     " unidades aumentem de nível após um",
     " confronto.",
-    "",
     " Note que se a unidade sofrer dano e se",
     " combinar a outra para aumentar  }, o",
     " nível mais alto das duas unidades",
@@ -437,13 +432,12 @@ strings = {
   # A15: Advice 3/3
   0x919960: { "b":0x919960, "e":0x91997C, "l":28, "en":"⏫20 A15: Conselho______3⏮1|/|3_", "ja":"　わんぽいんとあどばいす３　"  },
   0x91CEFC: { "en":[
-    " Exponha e destrua",
+    " Exponha e destrua:",
     "",
     " Durante a Neblina de Guerra, unidades",
     " indiretas não podem atacar áreas",
     " ocultas - mesmo sabendo que há um",
     " inimigo.",
-    "",
     " Unidades com alcance amplo {|| }, como",
     " Reconhecimento {} e Cruzadores{} , podem",
     " ser enviadas primeiro para expor um",
