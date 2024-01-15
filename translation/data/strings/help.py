@@ -477,7 +477,7 @@ strings = {
     " tipos de unidades:",
     "___QG______ Unidades terrestres",
     "___Bases____ Unidades terrestres",
-    "___Aeroportos__Unidades aéreas",
+    "___Aeroportos_Unidades aéreas",
     "___Portos____ Unidades navais",
     "___Depósitos__Trens"
   ], "ja": [
