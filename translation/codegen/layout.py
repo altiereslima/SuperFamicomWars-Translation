@@ -673,7 +673,7 @@ sfw.icon_list("icons_b7", 0x91, [
   ICON.TCoptr, 0, 0x98, 0x69,
   ICON.BCoptr, 0, 0xc0, 0x79,
   ICON.TCoptr, 0, 0xd1, 0x79,
-  ICON.Cruisr, 0, 0xc6b, 0x89
+  ICON.Cruisr, 0, 0xc6, 0x89
 ])
 
 # Page B8
