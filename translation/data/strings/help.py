@@ -477,9 +477,9 @@ strings = {
     " tipos de unidades:",
     "___QG______ Unidades terrestres",
     "___Bases____ Unidades terrestres",
-    "___Aeroportos_Unidades aéreas",
+    "___Aeroportos_<<<Unidades aéreas",
     "___Portos____ Unidades navais",
-    "___Depósitos__Trens"
+    "___Depósitos__<<<Trens"
   ], "ja": [
     "　ユニットの生産を行うコマンドです。　　　　",
     "　生産ができる場所とは、　　　が　　　のよう",
