@@ -555,7 +555,7 @@ strings = {
     " Com o Autoabastecer ativado, unidades",
     " em edificações sob seu controle no",
     " início de um novo dia ganharão 2{|}e",
-    " terão seus <{}e<{} reabastecidos nestes",
+    " terão seu<{}e<{}reabastecidos nestes",
     " locais:",
     "__________Unidades terrestres",
     "__________Unidades aéreas",
