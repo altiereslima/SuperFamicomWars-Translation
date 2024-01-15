@@ -576,15 +576,15 @@ strings = {
   # B6: Supply 2/3
   0x919A32: { "b":0x919A32, "e":0x919A4E, "l":28, "en":"⏫20 B6: Abastecer____2⏮1|/|3_", "ja":"　　全補コマンドの説明その２"  },
   0x91A51E: { "en":[
-    " Claro, os contadores de feijão no QG",
-    " (resmunga baixinho..<) não nos permitem",
+    " Claro, o pessoal do financeiro no QG",
+    " (resmunga baixinho...) não nos permitem",
     " abastecer e reparar nossas forças de",
     " graça, Os custos em{|<}estão abaixo:",
     "",
-    "____1/<10 do preço da unidade para reparar",
-    "____1{|}por ponto de combustível recarregado",
-    "____Depende do tipo de arma. Aperte",
-    "____{<  enquanto sobre uma unidade para ver."
+    "__1/<10 do preço da unid. para reparar",
+    "__1{|}por ponto de combust. recarregado",
+    "__Depende do tipo de arma. Aperte",
+    "__enquanto sobre uma unidade para ver."
   ], "ja": [
     "　なお、つぎのじょうけんのユニットは　　　　",
     "の補給はされますが、補充はされません。　　　",
