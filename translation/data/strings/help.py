@@ -675,7 +675,7 @@ strings = {
     " remover uma unidade do campo de",
     " batalha.",
     "",
-    " O comando Desmantelar mudará",
+    " O comando Dispensar mudará",
     " o< cursor< de{{<}  para< este{{|} ,",
     " permitindo que você remova",
     " permanentemente a unidade selecionada",
