@@ -535,10 +535,10 @@ strings = {
     " Na opção Unidades, veja todas as",
     " forças no campo de batalha. Use{{   }}",
     " para ordenar por Tipo, Nível, PV{  ,",
-    " Combustível|{} ou Munição{}. Navegue",
-    " pela lista com cima ou baixo{|} e",
-    " pressione{|<}sobre uma unidade para",
-    " localizá-la no mapa."
+    " Combustível|{} ou Munição{}.",
+    " Navegue pela lista com cima ou baixo{|}",
+    " e pressione{|<}sobre uma unidade",
+    " para localizá-la no mapa."
   ], "ja": [
     "　部隊いちらんを表示するコマンドです。　　　",
     "　　の左右でへいしゅ、レベル、ＨＰ　　、ねん",
