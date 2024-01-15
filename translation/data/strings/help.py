@@ -600,14 +600,14 @@ strings = {
   # B7: Supply 3/3
   0x919A50: { "b":0x919A50, "e":0x919A6C, "l":28, "en":"⏫20 B7: Abastecer____3⏮1|/|3_", "ja":"　　全補コマンドの説明その３"  },
   0x91A654: { "en":[
-    " Reparos ocorrem em edificações,",
-    " mas algumas unidades podem ser",
-    " reabastecidas com{<}e{<} no campo,",
-    " como Unidades Terrestres próximas a",
-    " um Caminhão de Suprimento e{{}{}|",
+    " Reparos ocorrem em edificações, mas",
+    " algumas unidades podem ser abastecidas",
+    " com{<}e{<} no campo, como as Unidades",
+    " Terrestres e {{}{}|próximas a um",
+    " Caminhão de Suprimento e{{}{}",
     " embarcadas em um Cruzador{|}. Se o",
-    " Autoabastecer estiver desativado,",
-    " use Suprir no menu para reabastecer",
+    " Autoabastecer estiver desativado, use",
+    " Suprir no menu para reabastecer",
     " unidades não movidas."
   ], "ja": [
     "　補充、補給にはお金がかかります。",
