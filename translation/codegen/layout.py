@@ -624,10 +624,10 @@ sfw.icon_list("icons_b2", 0x91, [
 
 # Page B3
 sfw.icon_list("icons_b3", 0x91, [
-  ICON.Base,   0, 0xc9, 0x3a,
-  ICON.Airprt, 0, 0xa2, 0x48,
-  ICON.Port,   0, 0xe1, 0x48,
-  ICON.Depot,  0, 0x71, 0x58
+  ICON.Base,   0, 0xe7, 0x37,
+  ICON.Airprt, 0, 0xa5, 0x47,
+  ICON.Port,   0, 0xdc, 0x47,
+  ICON.Depot,  0, 0x77, 0x57
 ])
 
 # Page B4
