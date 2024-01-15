@@ -515,7 +515,7 @@ strings = {
   0x9199D8: { "b":0x9199D8, "e":0x9199F4, "l":28, "en":"⏫20 B3: Produção____3⏮1|/|3_", "ja":"　　説明コマンドの説明　　　"  },
   0x91A182: { "en":[
     " Bons COs capturam Bases{|} inimigas,",
-    " Aeroportos{|},|Portos{|}, e Depósitos{|}.",
+    " Aeroportos{|},|Portos{|} e Depósitos{|}.",
     " Edificações capturadas não produzem",
     " unidades, mas oferecem reparos e",
     " suprimentos às unidades correspondentes",
