@@ -582,8 +582,8 @@ strings = {
     " graça, Os custos em{|<}estão abaixo:",
     "",
     "__1/<10 do preço da unid. para reparar",
-    "__1{|}por ponto de combust. recarregado",
-    "__Depende do tipo de arma. Aperte",
+    "__1{|por ponto de combust. recarregado",
+    "__Depende do tipo de arma.  Aperte",
     "__enquanto sobre uma unidade para ver."
   ], "ja": [
     "　なお、つぎのじょうけんのユニットは　　　　",
