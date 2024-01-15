@@ -469,7 +469,7 @@ strings = {
   ]},
 
   # B1: Deploy 1/3
-  0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Produção____|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
+  0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Produção_____|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
   0x919F42: { "en":[
     " Se possuídas desde o início de uma",
     " batalha, pressione{|<}sobre essas",
@@ -602,7 +602,7 @@ strings = {
   0x91A654: { "en":[
     " Reparos ocorrem em edificações, mas",
     " algumas unidades podem ser abastecidas",
-    " com{<}<e{<} no campo, como Unidades",
+    " com{<}<<<e{<} no campo, como Unidades",
     " Terrestres e {{}{}|próximas a um",
     " Caminhão de Suprimento e{{}{}",
     " embarcadas em um Cruzador{|}. Se o",
