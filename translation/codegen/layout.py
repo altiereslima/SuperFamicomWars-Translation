@@ -667,7 +667,7 @@ sfw.icon_list("icons_b6", 0x91, [
 
 # Page B7
 sfw.icon_list("icons_b7", 0x91, [
-  ICON.Fuel,   0, 0x5c, 0x58,
+  ICON.Fuel,   0, 0x5d, 0x58,
   ICON.Rounds, 0, 0x74, 0x58,
   ICON.BCoptr, 0, 0x87, 0x69,
   ICON.TCoptr, 0, 0x98, 0x69,
