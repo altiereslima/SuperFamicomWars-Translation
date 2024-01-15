@@ -532,9 +532,9 @@ strings = {
   # B4: Units
   0x9199F6: { "b":0x9199F6, "e":0x919A12, "l":28, "en":"⏫20 B4: Unidades_____", "ja":"　　部隊コマンドの説明　　　"  },
   0x91A242: { "en":[
-    " Na opção Unidades, veja todas as forças",
-    " no campo de batalha. Use{{   }} para",
-    " ordenar por Tipo, Nível, PV{  ,",
+    " Na opção Unidades, veja todas as",
+    " forças no campo de batalha. Use{{   }}",
+    " para ordenar por Tipo, Nível, PV{  ,",
     " Combustível|{} ou Munição{}. Navegue",
     " pela lista com cima ou baixo{|} e",
     " pressione{|<}sobre uma unidade para",
