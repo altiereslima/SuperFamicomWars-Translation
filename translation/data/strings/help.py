@@ -532,16 +532,13 @@ strings = {
   # B4: Units
   0x9199F6: { "b":0x9199F6, "e":0x919A12, "l":28, "en":"⏫20 B4: Unidades_____", "ja":"　　部隊コマンドの説明　　　"  },
   0x91A242: { "en":[
-    " A opção Unidades no menu principal",
-    " permite visualizar todas as suas forças",
-    " atualmente implantadas no campo de",
-    " batalha.",
-    " Use{{   }}para ordenar unidades com",
-    " base em seu Tipo, Nível, PV{  ,",
-    " Combustível|{} ou Munição{}. Percorra",
-    " a lista com cima ou baixo{|} e",
-    " pressione{|<}sobre uma unidade para ir",
-    " diretamente a ela no mapa."
+    " Na opção Unidades, veja todas as forças",
+    " no campo de batalha. Use{{   }} para",
+    " ordenar por Tipo, Nível, PV{  ,",
+    " Combustível|{} ou Munição{}. Navegue",
+    " pela lista com cima ou baixo{|} e",
+    " pressione{|<}sobre uma unidade para",
+    " localizá-la no mapa."
   ], "ja": [
     "　部隊いちらんを表示するコマンドです。　　　",
     "　　の左右でへいしゅ、レベル、ＨＰ　　、ねん",
