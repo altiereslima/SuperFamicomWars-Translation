@@ -555,7 +555,7 @@ strings = {
     " Com o Autoabastecer ativado, unidades",
     " em edificações sob seu controle no",
     " início de um novo dia ganharão 2{|}e",
-    " terão seu<{}e<{}reabastecidos nestes",
+    " terão seu<{}<e<{}reabastecidos nestes",
     " locais:",
     "__________Unidades terrestres",
     "__________Unidades aéreas",
@@ -582,7 +582,7 @@ strings = {
     " graça, Os custos em{|<}estão abaixo:",
     "",
     "__1/<10 do preço da unid. para reparar",
-    "__1{|por ponto de combust. abastecido",
+    "__1{|<<por ponto de combust. abastecido",
     "__Depende do tipo de arma.  Aperte",
     "__enquanto sobre uma unidade para ver."
   ], "ja": [
