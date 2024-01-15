@@ -628,10 +628,8 @@ strings = {
     " batalha atual. A primeira página exibe",
     " as edificações, fundos, renda e",
     " unidades para cada exército.",
-    "",
     "____Fundos disponíveis",
     "____Renda diária",
-    "",
     " A segunda mostra informações de",
     " implantação. Use{|} para mudar o",
     " exército exibido."
