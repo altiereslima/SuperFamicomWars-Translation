@@ -516,11 +516,12 @@ strings = {
   0x91A182: { "en":[
     " COs bem-sucedidos capturam Bases{|}",
     " inimigas, Aeroportos{|},|Portos{|} e",
-    " Depósitos{|}. Edificações capturadas não",
-    " produzem unidades,|mas oferecem reparos e",
-    " suprimentos às unidades correspondentes",
-    " devido à falta de pessoal. Para mais",
-    " informações sobre isso, consulte B5."
+    " Depósitos{|}. Edificações capturadas",
+    " não produzem unidades,|mas oferecem",
+    " reparos e suprimentos às unidades",
+    " correspondentes devido à falta de",
+    " pessoal. Para mais informações",
+    " sobre isso, consulte B5."
   ], "ja": [
     "　このがめんをみることができるコマンドです。",
     "　各コマンドのかいせつやあそびかたを説明して",
