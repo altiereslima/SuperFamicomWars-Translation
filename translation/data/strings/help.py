@@ -500,7 +500,7 @@ strings = {
     "",
     " A realidade da guerra, no entanto,",
     " limita você a um máximo de 60 unidades",
-    " sob seu comando de cada vez. Isso inclui",
+    " sob seu comando de cada vez.|Isso inclui",
     " no máximo um trem por vez por CO. Não",
     " tente ultrapassar seus limites."
   ], "ja": [
@@ -514,15 +514,13 @@ strings = {
   # B3: Deploy 3/3
   0x9199D8: { "b":0x9199D8, "e":0x9199F4, "l":28, "en":"⏫20 B3: Produção____3⏮1|/|3_", "ja":"　　説明コマンドの説明　　　"  },
   0x91A182: { "en":[
-    " COs bem-sucedidos frequentemente capturam",
-    " Bases{|} desocupadas e inimigas,",
-    " Aeroportos{|},|Portos{|} e Depósitos{|}.",
-    " Devido a falta de pessoal, as edificações",
-    " capturadas não podem ser usadas para",
-    " produzir novas unidades. No entanto, elas",
-    " podem consertar e fornecer suprimentos as",
-    " unidades correspondentes.| Para mais",
-    " informações sobre isso, estude B5."
+    " Bons COs capturam Bases{|} inimigas,",
+    " Aeroportos{|},|Portos{|}, e Depósitos{|}.",
+    " Edificações capturadas não produzem",
+    " unidades, mas oferecem reparos e",
+    " suprimentos às unidades correspondentes",
+    " devido à falta de pessoal. Para mais",
+    " informações sobre isso, consulte B5."
   ], "ja": [
     "　このがめんをみることができるコマンドです。",
     "　各コマンドのかいせつやあそびかたを説明して",
