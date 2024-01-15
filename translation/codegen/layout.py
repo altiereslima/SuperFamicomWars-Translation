@@ -657,12 +657,12 @@ sfw.icon_list("icons_b5", 0x91, [
 
 # Page B6
 sfw.icon_list("icons_b6", 0x91, [
-  ICON.Gold,   0, 0x9d, 0x6a,
+  ICON.Gold,   0, 0xa6, 0x6a,
   ICON.HP,     0, 0x48, 0x88,
   ICON.Fuel,   0, 0x48, 0x98,
   ICON.Gold,   0, 0x6c, 0x9a,
   ICON.Rounds, 0, 0x48, 0xa8,
-  ICON.ButtnX, 0, 0x65, 0xba
+  ICON.ButtnX, 0, 0x48, 0xba
 ])
 
 # Page B7
