@@ -552,11 +552,11 @@ strings = {
   # B5: Supply 1/3
   0x919A14: { "b":0x919A14, "e":0x919A30, "l":28, "en":"⏫20 B5: Abastecer____|1⏮1|/|3_", "ja":"　　全補コマンドの説明その１"  },
   0x91A36E: { "en":[
-    " Com o Autoabastecer ativado, unidades em",
-    " edificações sob seu controle no início",
-    " de um novo dia ganharão 2{|}e terão seus",
-    " <{}e<{} reabastecidos nestes locais:",
-    "",
+    " Com o Autoabastecer ativado, unidades",
+    " em edificações sob seu controle no",
+    " início de um novo dia ganharão 2{|}e",
+    " terão seus <{}e<{} reabastecidos nestes",
+    " locais:",
     "__________Unidades terrestres",
     "__________Unidades aéreas",
     "__________Unidades navais",
