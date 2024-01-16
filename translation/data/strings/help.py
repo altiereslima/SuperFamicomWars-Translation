@@ -791,7 +791,7 @@ strings = {
     " enquanto {{} de 2 ou mais indicam",
     " ataques Indiretos à distância.",
     " Pressione{|<} em uma unidade para",
-    " ver seus{{}|."
+    " ver o seu{{}|."
   ], "ja": [
     "　敵に攻撃をしかけるコマンドです。　　　　　",
     "　攻撃はおおきくわけて、ちょくせつ攻撃とかん",
@@ -829,15 +829,14 @@ strings = {
   # C3: Capture 1/2
   0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capturar___|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
   0x91AF7A: { "en":[
-    " Você esteve prestando atenção, CO?",
-    " Se sim, você já entenderá a",
-    " importância da captura. Se não, revise",
-    " imediatamente as seções A7, A13 e B5!",
+    " Você prestou atenção, CO? Se sim, você",
+    " já entendeu a importância da captura.",
+    " Se não, revise as seções A7, A13 e B5!",
     "",
     " Aqueles que estudaram serão devidamente",
-    " recompensados: Exceto pelo QG {}, todas",
-    " as edificações capturadas geram uma",
-    " renda {}de 1|000{|}por dia."
+    " recompensados: Todas as edificações",
+    " capturadas, exceto o QG {}, geram uma",
+    " renda {} de 1|000{|} por dia."
   ], "ja": [
     "　ユニットの行動を終わらせるコマンドです。　",
     "　　　　　　　　　　　　　　　　　　　　　　"
