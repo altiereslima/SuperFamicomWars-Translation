@@ -650,8 +650,8 @@ strings = {
     " Durante uma batalha, ainda é",
     " possível ajustar as seguintes opções:",
     "",
-    " Autoabastecer______<<⏺C0/⏺C1",
-    " Batalha rápida</|Mapa__<<⏺C0/⏺C1",
+    " Autoabastecer______⏺C0/⏺C1",
+    " Batalha rápida</|Mapa__⏺C0/⏺C1",
     " Som___________ Mono</|Estéreo",
     "",
     " No modo 4J, é possível visualizar",
@@ -693,7 +693,6 @@ strings = {
   0x91AAE0: { "en":[
     " P<) Qual é o resultado melhor:| Perder",
     " uma batalha ou se render primeiro<?",
-    "",
     " R) V<E<N<C<E<R.",
     "",
     " No entanto, se você TIVER que deixar",
