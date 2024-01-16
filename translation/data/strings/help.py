@@ -731,7 +731,6 @@ strings = {
     " deixar temporariamente o campo de",
     " batalha para rever suas estratégias",
     " ou talvez preparar um sanduíche.",
-    "",
     " Escolher Salvar no menu salvará o",
     " estado atual da batalha para que você",
     " possa retornar mais tarde. Observe",
