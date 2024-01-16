@@ -691,8 +691,8 @@ sfw.icon_list("icons_b9", 0x91, [
 # Page B10
 sfw.icon_list("icons_b10", 0x91, [
   ICON.CursrR, 0, 0x86, 0x88,
-  ICON.Hammer, 0, 0xcd, 0x83,
-  ICON.CursrG, 0, 0xcd, 0x88,
+  ICON.Hammer, 0, 0xcb, 0x83,
+  ICON.CursrG, 0, 0xcb, 0x88,
   ICON.ButtnA, 0, 0x84, 0xb8
 
 ])
