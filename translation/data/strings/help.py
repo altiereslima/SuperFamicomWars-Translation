@@ -783,16 +783,15 @@ strings = {
   # C1: Attack 1/2
   0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Ataque____|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
   0x91ACCC: { "en":[
-    " Alguns COs já foram ouvidos dizendo que",
-    " ⏮1[Ataque] é a palavra favorita deles.",
-    "",
-    " Ataques são Diretos ou Indiretos.",
-    " Armas de unidade com um{{} de 1 devem",
-    " ser usadas ao lado de uma unidade",
-    " inimiga para causar dano. Um{{} de 2",
-    " ou mais significa um ataque Indireto",
-    " a distancia. Pressione{|<}em uma",
-    " unidade para ver seu{{}|."
+    " Alguns COs expressaram que ⏮1[Ataque]",
+    " é sua palavra favorita. Ataques podem",
+    " ser Diretos ou Indiretos. Armas de",
+    " unidades com {{} de 1 causam dano",
+    " próximo a uma unidade inimiga,",
+    " enquanto {{} de 2 ou mais indicam",
+    " ataques Indiretos à distância.",
+    " Pressione{|<} em uma unidade para",
+    " ver seus{{}|."
   ], "ja": [
     "　敵に攻撃をしかけるコマンドです。　　　　　",
     "　攻撃はおおきくわけて、ちょくせつ攻撃とかん",
@@ -810,7 +809,6 @@ strings = {
     " pesado, mas tem outra vantagem:",
     " Ataques Indiretos não permitem ao",
     " inimigo contra-atacar naquele turno.",
-    "",
     " No entanto, lembre-se de que uma",
     " unidade não pode se mover e disparar",
     " uma arma Indireta no mesmo dia. Além",
@@ -833,7 +831,7 @@ strings = {
   0x91AF7A: { "en":[
     " Você esteve prestando atenção, CO?",
     " Se sim, você já entenderá a",
-    " importancia da captura. Se não, revise",
+    " importância da captura. Se não, revise",
     " imediatamente as seções A7, A13 e B5!",
     "",
     " Aqueles que estudaram serão devidamente",
