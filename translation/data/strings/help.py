@@ -674,7 +674,6 @@ strings = {
     " razões estratégicas, seja necessário",
     " remover uma unidade do campo de",
     " batalha.",
-    "",
     " O comando Dispensar mudará",
     " o< cursor< de{{<}  para< este{{|} ,",
     " permitindo que você remova",
