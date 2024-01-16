@@ -647,14 +647,14 @@ strings = {
   # B9: Options
   0x919A8C: { "b":0x919A8C, "e":0x919AA8, "l":28, "en":"⏫20 B9: Opções________", "ja":"　　設定コマンドの説明　　　"  },
   0x91A8F0: { "en":[
-    " As seguintes opções ainda podem ser",
-    " ajustadas com uma batalha em andamento:",
+    " Durante uma batalha, ainda é ",
+    " possível ajustar as seguintes opções:",
     "",
-    " Autoabastecer_____⏺C0/⏺C1",
+    " Autoabastecer______⏺C0/⏺C1",
     " Batalha rápida</|Mapa__⏺C0/⏺C1",
-    " Som_________ Mono</|Estéreo",
+    " Som___________Mono</|Estéreo",
     "",
-    " No modo 4J, você também pode visualizar",
+    " No modo 4J, é possível visualizar",
     " as Relações Diplomáticas entre COs."
   ], "ja": [
     "　ゲームの設定をみるコマンドです。",
