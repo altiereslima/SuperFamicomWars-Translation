@@ -829,14 +829,15 @@ strings = {
   # C3: Capture 1/2
   0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capturar___|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
   0x91AF7A: { "en":[
-    " Você prestou atenção, CO? Se sim, você",
-    " já entendeu a importância da captura.",
-    " Se não, revise as seções A7, A13 e B5!",
-    "",
-    " Aqueles que estudaram serão devidamente",
-    " recompensados: Todas as edificações",
-    " capturadas, exceto o QG {}, geram uma",
-    " renda {} de 1|000{|} por dia."
+    " Você prestou atenção, CO? Se sim,",
+    " você já entendeu a importância da",
+    " captura. Se não, revise as seções",
+    " A7, A13 e B5!",
+    " Aqueles que estudaram serão",
+    " devidamente recompensados: Todas",
+    " as edificações capturadas, exceto",
+    " o QG {}, geram uma renda {}",
+    " de 1|000{|} por dia."
   ], "ja": [
     "　ユニットの行動を終わらせるコマンドです。　",
     "　　　　　　　　　　　　　　　　　　　　　　"
