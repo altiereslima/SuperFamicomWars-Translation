@@ -679,7 +679,7 @@ sfw.icon_list("icons_b7", 0x91, [
 # Page B8
 sfw.icon_list("icons_b8", 0x91, [
   ICON.Gold,   0, 0x49, 0x7a,
-  ICON.Income, 0, 0x49, 0x8a,
+  ICON.Income, 0, 0x44, 0xa9,
   ICON.DPad,   0, 0x9c, 0x99,
 ])
 
