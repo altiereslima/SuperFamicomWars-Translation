@@ -721,7 +721,7 @@ sfw.icon_list("icons_b14", 0x91, [
 
 # Page C0
 sfw.icon_list("icons_c0", 0x91, [
-  ICON.DPad,   0, 0x95, 0xa9
+  ICON.DPad,   0, 0x95, 0x99
 ])
 
 # Page C1
