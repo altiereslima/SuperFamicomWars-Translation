@@ -726,10 +726,10 @@ sfw.icon_list("icons_c0", 0x91, [
 
 # Page C1
 sfw.icon_list("icons_c1", 0x91, [
-  ICON.WRange, 0, 0x86, 0x78,
-  ICON.WRange, 0, 0x75, 0x78,
-  ICON.ButtnX, 0, 0x78, 0x98,
-  ICON.WRange, 0, 0x5c, 0xb8
+  ICON.WRange, 0, 0x86, 0x68,
+  ICON.WRange, 0, 0x75, 0x8a,
+  ICON.ButtnX, 0, 0x78, 0xa8,
+  ICON.WRange, 0, 0x76, 0xb8
 ])
 
 # Page C2
