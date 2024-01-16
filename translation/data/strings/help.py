@@ -709,11 +709,11 @@ strings = {
   # B12: Load
   0x919AE6: { "b":0x919AE6, "e":0x919B02, "l":28, "en":"⏫20 B12: Carregar________", "ja":"　　再戦コマンドの説明　　　"  },
   0x91AB70: { "en":[
-    " Carregar irá carregar rapidamente do seu",
-    " ponto de salvamento mais recente dentro",
-    " do atual jogo. Isso, é claro, perderá",
-    " qualquer progresso além do momento em",
-    " que o salvamento foi feito.",
+    " Carregar irá carregar rapidamente do",
+    " seu ponto de salvamento mais recente",
+    " dentro do atual jogo. Isso, é claro,",
+    " perderá qualquer progresso além do",
+    " momento em que o salvamento foi feito.",
     "",
     " (<Se você começou um novo jogo, mas",
     " ainda não fez nenhum salvamento, esta",
@@ -747,15 +747,14 @@ strings = {
   0x919B22: { "b":0x919B22, "e":0x919B3E, "l":28, "en":"⏫20 B14: Finalizar_______", "ja":"　　終了コマンドの説明　　　"  },
   0x91AC50: { "en":[
     " Se você terminou de implantar, mover,",
-    " capturar, carregar, descarregar e",
+    " capturar, embarcar, desembarcar e",
     " atacar, selecione a opção [Finalizar]",
     " no menu.",
-    "",
     " Isso permitirá que todos os outros COs",
-    " comandem seus exércitos. Você retomará",
-    " o comando do seu próprio quando todos",
-    " os outros COs terminarem e um novo dia",
-    " começar."
+    " comandem seus exércitos. Você",
+    " retomará o comando do seu próprio",
+    " quando todos os outros COs terminarem",
+    " e um novo dia começar."
   ], "ja": [
     "　その日の行動を終了するコマンドです。　　　",
     "　　　　　　"
@@ -772,7 +771,6 @@ strings = {
     " os comandos mais importantes: aqueles",
     " que permitem dar ordens diretas as",
     " suas unidades.",
-    "",
     " Descubra informações uteis para COs",
     " novatos e experientes. Atenção!",
     " Use cima/baixo {|} para virar",
