@@ -846,17 +846,15 @@ strings = {
   # C4: Capture 2/2
   0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Capturar___2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
   0x91AFD8: { "en":[
-    " A ciência nos ensinou muitas coisas",
-    " maravilhosas <-< mas, com a pesquisa",
-    " militar, somos capazes de fazer",
-    " explosões ainda maiores.",
-    "",
-    " Uma vez que um laboratório{<  }tenha",
-    " sido capturado, você pode implantar o",
-    " Prototanque{ }.  Como também gera",
-    " 1|000{|}por dia, e o{{}é extremamente",
-    "  poderoso, você é aconselhado a",
-    "  capturá-los quando possível."
+    " A ciência trouxe descobertas",
+    " incríveis, mas a pesquisa militar",
+    " permite explosões ainda maiores.",
+    " Capture um laboratório{<  } para",
+    " desbloquear o poderoso Prototanque{ },",
+    " que gera 1|000{|} por dia. O{{} é",
+    " extremamente poderoso, sendo",
+    " aconselhável capturar esses",
+    " laboratórios sempre que possível."
   ], "ja": [
     "　占領ポイントを占領するコマンドです。　　　",
     "　自軍の色以外の首都　　工場　　都市　　研究",
