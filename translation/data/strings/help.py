@@ -870,7 +870,7 @@ strings = {
   # C5: Join
   0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Combinar_________", "ja":"　　占領コマンドの説明その２"  },
   0x91B172: { "en":[
-    " Última explicação sobre o comando",
+    " Ultima explicação sobre o comando",
     " Combinar:",
     " Duas unidades do mesmo tipo podem se",
     " combinar ao ocuparem a mesma casa, a",
