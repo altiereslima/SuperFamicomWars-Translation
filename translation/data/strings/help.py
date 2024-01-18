@@ -1006,18 +1006,15 @@ strings = {
   # C11: Drop
   0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Desembarcar_________", "ja":"　　搭載コマンドの説明その３"  },
   0x91B952: { "en":[
-    " Usando o comando Desembarcar, sua(s)",
+    " Com o comando Desembarcar, sua(s)",
     " unidade(s) pode(m) ser desembarcada(s)",
-    " em qualquer área disponível",
-    " imediatamente ao lado do transporte.",
-    "",
-    " No entanto, enquanto os transportes",
-    " podem mover suas forças por grandes",
-    " distancias, uma unidade só pode ser",
-    " desembarcada nos mesmos tipos de",
-    " terreno que ela pode percorrer ao",
-    " atravessar o campo de batalha por si",
-    " só."
+    " em área imediatamente ao lado do",
+    " transporte. Contudo, a unidade só",
+    " pode desembarcar em terrenos que pode",
+    " atravessar independentemente no campo",
+    " de batalha, apesar da capacidade de",
+    " movimento do transporte por longas",
+    " distâncias."
   ], "ja": [
     "　搭載するがわのユニットの　　がいくつでも搭",
     "載されるがわにえいきょうはありませんが、戦闘",
