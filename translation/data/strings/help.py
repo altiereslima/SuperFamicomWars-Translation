@@ -919,7 +919,6 @@ strings = {
   0x91B4B0: { "en":[
     " Suas unidades irão consumir {} durante",
     " o movimento pelo campo de batalha.",
-    "",
     " No entanto, unidades Aéreas e Navais",
     " consomem {|}por dia, mesmo que não se",
     " movam. Se essas unidades ficarem sem {},",
@@ -942,7 +941,6 @@ strings = {
     " capacidade de embarque diferente.",
     " Estude o que cada um pode embarcar",
     " abaixo:",
-    "_",
     "__  BTP_____⏮1|1_*___| ou",
     "__ |Helicóptero___⏮1|1_*___| ou",
     "__  Cargueiro____2_*_ Unid. terrestres",
@@ -967,7 +965,6 @@ strings = {
     " ordenado a embarcar e desembarcar sua",
     " carga quando sobre tipos específicos",
     " de terreno:",
-    "",
     "____ Em qualquer lugar { } pode percorrer",  # BTP
     "____ Não em__________ ou",                   # Helicóptero
     "____ Bancos de areia e Portos",              # Cargueiro
