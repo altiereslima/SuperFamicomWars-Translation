@@ -739,9 +739,9 @@ sfw.icon_list("icons_c2", 0x91, [
 
 # Page C3
 sfw.icon_list("icons_c3", 0x91, [
-  ICON.HQ,     0, 0xbf, 0xa8,
-  ICON.Income, 0, 0x59, 0xa8,
-  ICON.Gold,   0, 0x70, 0xba
+  ICON.HQ,     0, 0x62, 0xa8,
+  ICON.Income, 0, 0xc5, 0xaa,
+  ICON.Gold,   0, 0x72, 0xba
 ])
 
 # Page C4
