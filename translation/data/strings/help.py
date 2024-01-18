@@ -894,13 +894,13 @@ strings = {
   # C6: Supply 1/2
   0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Abastercer____|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
   0x91B300: { "en":[
-    " O comando<[Abastecer]<é exclusivo para",
+    " O comando<[Abastecer]<é exclusivo dos",
     " Caminhões de Suprimento {}. Isso irá",
     " reabastecer unidades terrestres e",
-    " helicópteros {}{}< com {}|e<{}. Todas",
-    " as quatro unidades ao redor seriam",
-    " assistidas na movimentação mostrada",
-    " abaixo:",
+    " helicópteros {}{}< com {}|e<{}.",
+    " Todas as quatro unidades ao redor",
+    " seriam abastecidas no exemplo mostrado",
+    " a seguir:",
     # Note: The last 3 lines are dedicated to a figure showing a cross formation with Supply Truck in the center
   ], "ja": [
     "　おなじしゅるいのユニットを合流させるコマン",
