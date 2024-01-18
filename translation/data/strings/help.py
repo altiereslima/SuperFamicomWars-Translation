@@ -870,15 +870,15 @@ strings = {
   # C5: Join
   0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Combinar_________", "ja":"　　占領コマンドの説明その２"  },
   0x91B172: { "en":[
-    " Uma ultima explicação sobre o comando",
+    " Última explicação sobre o comando",
     " Combinar:",
     " Duas unidades do mesmo tipo podem se",
-    " combinar ao serem movidas para a mesma",
-    " casa,<a menos que ambas já tenham 10{}.",
-    " A unidade unida assume o maior {|}e",
-    " dos dois, e combina suas{||}até um total",
-    " de 10. Finalmente, unidades carregadas",
-    " em transportes não podem ser unidas."
+    " combinar ao ocuparem a mesma casa, a",
+    " menos que ambas já tenham 10{}. A",
+    " unidade resultante assume o maior {|}",
+    " e combina suas{||} até um total de 10.",
+    " Unidades em transportes não podem",
+    " ser combinadas."
   ], "ja": [
     "　首都　　以外は、占領すると収入　　が、つぎ",
     "の日から１０００ふえます。　　　　　　　　",
