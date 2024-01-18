@@ -747,10 +747,10 @@ sfw.icon_list("icons_c3", 0x91, [
 # Page C4
 sfw.icon_list("icons_c4", 0x91, [
   ICON.Lab,    0, 0xb0, 0x68,
-  ICON.PrTank, 0, 0x4e, 0x8a,
+  ICON.PrTank, 0, 0xe9, 0x78,
   ICON.Lab,    0, 0xc6, 0xa8,
-  ICON.Gold,   0, 0xaf, 0x8a,
-  ICON.PrTank, 0, 0x42, 0x8a
+  ICON.Gold,   0, 0x86, 0x8a,
+  ICON.PrTank, 0, 0x5c, 0xa8
 ])
 
 # Page C5
