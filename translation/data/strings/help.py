@@ -872,7 +872,6 @@ strings = {
   0x91B172: { "en":[
     " Uma ultima explicação sobre o comando",
     " Combinar:",
-    "",
     " Duas unidades do mesmo tipo podem se",
     " combinar ao serem movidas para a mesma",
     " casa, a menos que ambas já tenham 10{}.",
@@ -895,7 +894,7 @@ strings = {
   # C6: Supply 1/2
   0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Abastercer____|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
   0x91B300: { "en":[
-    " O comando [Abastecer] é exclusivo para",
+    " O comando<[Abastecer]<é exclusivo para",
     " Caminhões de Suprimento {}. Isso irá",
     " reabastecer unidades terrestres e",
     " helicópteros {}{}< com {}|e<{}. Todas",
