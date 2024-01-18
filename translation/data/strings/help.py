@@ -874,7 +874,7 @@ strings = {
     " Combinar:",
     " Duas unidades do mesmo tipo podem se",
     " combinar ao serem movidas para a mesma",
-    " casa, a menos que ambas já tenham 10{}.",
+    " casa,<a menos que ambas já tenham 10{}.",
     " A unidade unida assume o maior {|}e",
     " dos dois, e combina suas{||}até um total",
     " de 10. Finalmente, unidades carregadas",
