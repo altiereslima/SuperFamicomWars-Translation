@@ -850,8 +850,8 @@ strings = {
     " incríveis, mas a pesquisa militar",
     " permite explosões ainda maiores.",
     " Capture um laboratório{<  } para",
-    " desbloquear o poderoso Prototanque{ },",
-    " e gerar 1|000{|} por dia. O{{} é",
+    " desbloquear o poderoso Prototanque",
+    " { }, e gerar 1|000{|} por dia. O{{} é",
     " extremamente poderoso, sendo",
     " aconselhável capturar esses",
     " laboratórios sempre que possível."
