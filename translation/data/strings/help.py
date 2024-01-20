@@ -1006,15 +1006,13 @@ strings = {
   # C11: Drop
   0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Desembarcar_________", "ja":"　　搭載コマンドの説明その３"  },
   0x91B952: { "en":[
-    " Com o comando Desembarcar, sua(s)",
-    " unidade(s) pode(m) ser desembarcada(s)",
-    " em área imediatamente ao lado do",
-    " transporte. Contudo, a unidade só",
-    " pode desembarcar em terrenos que pode",
-    " atravessar independentemente no campo",
-    " de batalha, apesar da capacidade de",
-    " movimento do transporte por longas",
-    " distâncias."
+    " Com o comando Desembarcar, suas",
+    " unidades podem ser descarregadas ao",
+    " lado do transporte em qualquer área",
+    " disponível. No entanto, a unidade só",
+    " pode ser descarregada em terrenos que",
+    " ela pode atravessar por conta própria",
+    " no campo de batalha."
   ], "ja": [
     "　搭載するがわのユニットの　　がいくつでも搭",
     "載されるがわにえいきょうはありませんが、戦闘",
@@ -1030,17 +1028,15 @@ strings = {
   # C12: Wait
   0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Aguardar_________", "ja":"　　降車コマンドの説明　　　"  },
   0x91BAFC: { "en":[
-    " Embora toda unidade espere que seu",
+    " Embora toda unidade almeje que seu",
     " próximo movimento seja o golpe vencedor,",
-    " esse sonho não pode se tornar realidade",
-    " todos os dias. Escolher [Aguardar]",
-    " simplesmente encerrará a vez dessa",
-    " unidade até que o próximo dia chegue.",
-    "",
-    " Talvez amanhã. Isso conclui seu",
-    " treinamento, mas você pode revisitar",
-    " qualquer página ou seção a qualquer",
-    " momento. Boa sorte e aproveite, CO!"
+    " esse sonho não se realiza todos os dias.",
+    " Optar por [Aguardar] simplesmente",
+    " encerra a vez da unidade até o próximo",
+    " dia. Talvez amanhã. Isso conclui seu",
+    " treinamento, mas sinta-se à vontade para",
+    " revisitar qualquer página ou seção a",
+    " qualquer momento. Boa sorte e aproveite!"
   ], "ja": [
     "　搭載されたユニットが降りるコマンドです。　",
     "　降ろされる場所については、降りるユニットが",
