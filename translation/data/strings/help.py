@@ -961,12 +961,12 @@ strings = {
   # C9: Load 2/2
   0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Embarcar_____2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
   0x91B70A: { "en":[
-    " Assim, cada transporte pode ser ordenado",
-    " a embarcar e desembarcar sua carga",
-    " quando estiver sobre tipos específicos",
-    " de terreno:",
+    " Assim, cada transporte pode ser",
+    " ordenado a embarcar e desembarcar sua",
+    " carga quando estiver sobre tipos",
+    " específicos de terreno:",
     "____Em qualquer lugar que o { } ande",  # BTP
-    "____Não em__________ ou",               # Helicóptero
+    "____Não em__________  ou",               # Helicóptero
     "____Bancos de areia e Portos",          # Cargueiro
     "____Em qualquer lugar que o { } ande",  # Cruzador
     "____Depósitos"                          # Trem
@@ -1034,9 +1034,9 @@ strings = {
     " todos os dias. Optar por [Aguardar]",
     " simplesmente encerra a vez da unidade",
     " até o próximo dia. Isso conclui seu",
-    " treinamento, mas sinta-se à vontade para",
-    " revisitar qualquer página ou seção a",
-    " qualquer momento. Boa sorte, CO!"
+    " treinamento, mas sinta-se à vontade",
+    " para revisitar qualquer página ou seção",
+    " a qualquer momento. Boa sorte, CO!"
   ], "ja": [
     "　搭載されたユニットが降りるコマンドです。　",
     "　降ろされる場所については、降りるユニットが",
