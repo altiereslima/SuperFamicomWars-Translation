@@ -943,7 +943,7 @@ strings = {
     " abaixo:",
     "__ |BTP_____⏮1|1_*___| ou",
     "__ |Helicóptero__⏮1|1_*___| ou",
-    "__ |Cargueiro__2_*_ Unid. terrestres",
+    "__ |Cargueiro___2_*_ Unid. terrestres",
     "__ |Cruzador___2_*___| ou",
     "__ |Trem_____2_*_ Unid. terrestres"
   ], "ja": [
