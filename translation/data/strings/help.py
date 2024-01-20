@@ -876,9 +876,9 @@ strings = {
     " combinar ao ocuparem a mesma casa, a",
     " menos que ambas já tenham 10{}. A",
     " unidade resultante assume o maior {|}",
-    " e combina suas{||} até um total de 10.",
-    " Unidades em transportes não podem",
-    " ser combinadas."
+    " e {|} e combina seus{||} até um total",
+    " de 10. Unidades em transportes não",
+    " podem ser combinadas."
   ], "ja": [
     "　首都　　以外は、占領すると収入　　が、つぎ",
     "の日から１０００ふえます。　　　　　　　　",
@@ -922,8 +922,8 @@ strings = {
     " No entanto, unidades Aéreas e Navais",
     " consomem {|}por dia, mesmo que não se",
     " movam. Se essas unidades ficarem sem",
-    " {}, a unidade será perdida. Pressione{||}",
-    " sobre uma unidade para revisar seu",
+    " {}, a unidade será perdida. Pressione",
+    " {||} sobre uma unidade para revisar seu",
     " consumo diário de {} (e reveja seu",
     " treinamento sobre como reabastecer)."
   ], "ja": [
