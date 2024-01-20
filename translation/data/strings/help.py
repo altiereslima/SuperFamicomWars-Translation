@@ -1028,12 +1028,12 @@ strings = {
   # C12: Wait
   0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Aguardar_________", "ja":"　　降車コマンドの説明　　　"  },
   0x91BAFC: { "en":[
-    " Embora toda unidade almeje que seu",
-    " próximo movimento seja o golpe vencedor,",
-    " esse sonho não se realiza todos os dias.",
-    " Optar por [Aguardar] simplesmente",
-    " encerra a vez da unidade até o próximo",
-    " dia. Talvez amanhã. Isso conclui seu",
+    " Embora toda unidade queira que seu",
+    " próximo movimento seja o golpe",
+    " vencedor, esse sonho não se realiza",
+    " todos os dias. Optar por [Aguardar]",
+    " simplesmente encerra a vez da unidade",
+    " até o próximo dia. Isso conclui seu",
     " treinamento, mas sinta-se à vontade para",
     " revisitar qualquer página ou seção a",
     " qualquer momento. Boa sorte e aproveite!"
