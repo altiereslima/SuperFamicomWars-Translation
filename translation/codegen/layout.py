@@ -822,8 +822,8 @@ sfw.icon_list("icons_c9", 0x91, [
 
 # Page C10
 sfw.icon_list("icons_c10", 0x91, [
-  ICON.HP,     0, 0x59, 0x38,
-  ICON.HP,     0, 0x90, 0x48
+  ICON.HP,     0, 0x54, 0x38,
+  ICON.HP,     0, 0xd5, 0x48
 ])
 
 # Page C11
