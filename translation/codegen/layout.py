@@ -750,20 +750,20 @@ sfw.icon_list("icons_c4", 0x91, [
   ICON.PrTank, 0, 0xea, 0x78,
   ICON.Lab,    0, 0xc6, 0xa8,
   ICON.Gold,   0, 0xa0, 0x8a,
-  ICON.PrTank, 0, 0x4a, 0x8a
+  ICON.PrTank, 0, 0x4c, 0x8a
 ])
 
 # Page C5
 sfw.icon_list("icons_c5", 0x91, [
   ICON.HP,     0, 0xcb, 0x78,
   ICON.Fuel,   0, 0xde, 0x88,
-  ICON.Rounds, 0, 0xde, 0x88,
-  ICON.HP,     0, 0xcf, 0x98
+  ICON.Rounds, 0, 0x4d, 0x98,
+  ICON.HP,     0, 0xc7, 0x98
 ])
 
 # Page C6
 sfw.icon_list("icons_c6", 0x91, [
-  ICON.Supply, 0, 0xaf, 0x48,
+  ICON.Supply, 0, 0xb7, 0x48,
   ICON.TCoptr, 0, 0x83, 0x69,
   ICON.BCoptr, 0, 0x94, 0x69,
   ICON.Fuel,   0, 0xb8, 0x68,
@@ -777,11 +777,11 @@ sfw.icon_list("icons_c6", 0x91, [
 
 # Page C7
 sfw.icon_list("icons_c7", 0x91, [
-  ICON.Fuel,   0, 0xc2, 0x38,
+  ICON.Fuel,   0, 0xc5, 0x38,
   ICON.Fuel,   0, 0x77, 0x68,
   ICON.Fuel,   0, 0x4a, 0x88,
   ICON.ButtnX, 0, 0x4a, 0x9a,
-  ICON.Fuel,   0, 0x8e, 0xa8
+  ICON.Fuel,   0, 0x93, 0xa8
 ])
 
 # Page C8
@@ -822,8 +822,8 @@ sfw.icon_list("icons_c9", 0x91, [
 
 # Page C10
 sfw.icon_list("icons_c10", 0x91, [
-  ICON.HP,     0, 0x5d, 0x38,
-  ICON.HP,     0, 0x82, 0x48
+  ICON.HP,     0, 0x59, 0x38,
+  ICON.HP,     0, 0x90, 0x48
 ])
 
 # Page C11
