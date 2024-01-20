@@ -921,8 +921,8 @@ strings = {
     " o movimento pelo campo de batalha.",
     " No entanto, unidades Aéreas e Navais",
     " consomem {|}por dia, mesmo que não se",
-    " movam. Se essas unidades ficarem sem {},",
-    " a unidade será perdida. Pressione{||}",
+    " movam. Se essas unidades ficarem sem",
+    " {}, a unidade será perdida. Pressione{||}",
     " sobre uma unidade para revisar seu",
     " consumo diário de {} (e reveja seu",
     " treinamento sobre como reabastecer)."
