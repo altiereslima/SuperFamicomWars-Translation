@@ -985,9 +985,9 @@ strings = {
   # C10: Load 3/3
   0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Embarcar____3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
   0x91B84E: { "en":[
-    " A{||}de qualquer unidade embarcada irá",
-    " se ajustar para corresponder a{||}de",
-    " seu transporte se for atacada. Isso",
+    " O{||}de qualquer unidade embarcada irá",
+    " se ajustar para corresponder as{||}de",
+    " seu transporte se for atacado. Isso",
     " ocorre mesmo que nenhum dano real",
     " tenha sido sofrido durante o ataque.",
     #
