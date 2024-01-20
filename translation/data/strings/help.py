@@ -941,10 +941,10 @@ strings = {
     " capacidade de embarque diferente.",
     " Estude o que cada um pode embarcar",
     " abaixo:",
-    "__  BTP_____⏮1|1_*___| ou",
-    "__ |Helicóptero___⏮1|1_*___| ou",
-    "__  Cargueiro____2_*_ Unid. terrestres",
-    "__  Cruzador____2_*___| ou",
+    "__ |BTP_____⏮1|1_*___| ou",
+    "__ |Helicóptero__⏮1|1_*___| ou",
+    "__ |Cargueiro__2_*_ Unid. terrestres",
+    "__ |Cruzador___2_*___| ou",
     "__ |Trem_____2_*_ Unid. terrestres"
   ], "ja": [
     "　補給にはお金がかかります。くわしいことは、",
@@ -961,15 +961,15 @@ strings = {
   # C9: Load 2/2
   0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Embarcar_____2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
   0x91B70A: { "en":[
-    " De acordo, cada transporte pode ser",
-    " ordenado a embarcar e desembarcar sua",
-    " carga quando sobre tipos específicos",
+    " Assim, cada transporte pode ser ordenado",
+    " a embarcar e desembarcar sua carga",
+    " quando estiver sobre tipos específicos",
     " de terreno:",
-    "____ Em qualquer lugar { } pode percorrer",  # BTP
-    "____ Não em__________ ou",                   # Helicóptero
-    "____ Bancos de areia e Portos",              # Cargueiro
-    "____ Em qualquer lugar|{|}|pode percorrer",  # Cruzador
-    "____ Depósitos"                              # Trem
+    "____Em qualquer lugar que o { } ande",  # BTP
+    "____Não em__________ ou",               # Helicóptero
+    "____Bancos de areia e Portos",          # Cargueiro
+    "____Em qualquer lugar que o { } ande",  # Cruzador
+    "____Depósitos"                          # Trem
   ], "ja": [
     "どのユニットに、どのユニットが搭載されるかは",
     "下のひょうをみてください。",
