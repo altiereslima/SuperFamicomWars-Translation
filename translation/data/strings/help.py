@@ -1036,7 +1036,7 @@ strings = {
     " até o próximo dia. Isso conclui seu",
     " treinamento, mas sinta-se à vontade para",
     " revisitar qualquer página ou seção a",
-    " qualquer momento.<Boa sorte e aproveite!"
+    " qualquer momento. Boa sorte, CO!"
   ], "ja": [
     "　搭載されたユニットが降りるコマンドです。　",
     "　降ろされる場所については、降りるユニットが",
