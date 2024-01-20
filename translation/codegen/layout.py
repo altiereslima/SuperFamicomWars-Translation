@@ -803,7 +803,7 @@ sfw.icon_list("icons_c8", 0x91, [
 TCoptr_x = 0x8b
 sfw.icon_list("icons_c9", 0x91, [
   ICON.APC,    0, 0x49, 0x77,
-  ICON.APC,    0, 0x9a, 0x77,
+  ICON.APC,    0, 0xe1, 0x77,
   ICON.TCoptr, 0, 0x48, 0x88,
   ICON.Mountn, 0, TCoptr_x + 0 * 0x0f, 0x88,
   ICON.River,  0, TCoptr_x + 1 * 0x0f, 0x88,
