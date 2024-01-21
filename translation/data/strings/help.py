@@ -227,10 +227,10 @@ strings = {
   0x91C376: { "en":[
     " Ao enfrentar terreno difícil, ou para",
     " cobrir longas distancias rapidamente,",
-    " use BTPs { }, Cargueiros {} e",
-    " Heli Transporte { }. Por exemplo,",
-    " embarque uma Infantaria {} em um",
-    " Heli Transporte{}.<O embarque consumirá",
+    " use BTPs { }, Cargueiros {} e Heli",
+    " Transporte { }. Por exemplo,",
+    " embarque uma Infantaria {} em um Heli",
+    " Transporte{}.<O embarque consumirá",
     " um turno. No dia seguinte, mova o",
     " Helicóptero { } sobre terra ou mar e",
     " desembarque o soldado em solo firme."
