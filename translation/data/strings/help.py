@@ -966,7 +966,7 @@ strings = {
     " carga quando estiver sobre tipos",
     " específicos de terreno:",
     "____Em qualquer lugar que o { } ande",  # BTP
-    "____Não em__________  ou",               # Helicóptero
+    "____Não em__________   ou",             # Helicóptero
     "____Bancos de areia e Portos",          # Cargueiro
     "____Em qualquer lugar que o { } ande",  # Cruzador
     "____Depósitos"                          # Trem
