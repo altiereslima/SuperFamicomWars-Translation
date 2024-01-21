@@ -360,16 +360,16 @@ strings = {
 
   # Bomber
   0x8A86BE: { "b":0x8A86BE, "e":0x8A86C2, "l":4,  "en":"⏺50",               "ja":"爆撃"  },
-  0x8BC81B: { "b":0x8BC81B, "e":0x8BC82B, "l":16, "en":"⏫49_Bombardeiro____",    "ja":"　爆撃機　　　　"  },
-  0x8BCA04: { "b":0x8BCA04, "e":0x8BCA12, "l":14, "en":"_ Bombardeiro",           "ja":"　　爆撃機　　"  },
+  0x8BC81B: { "b":0x8BC81B, "e":0x8BC82B, "l":16, "en":"⏫49_Bombard.____",    "ja":"　爆撃機　　　　"  },
+  0x8BCA04: { "b":0x8BCA04, "e":0x8BCA12, "l":14, "en":"Bombardeiro",           "ja":"　　爆撃機　　"  },
   0x83C0CB: { "b":0x83C0CB, "e":0x83C0D1, "l":6,  "en":"$Bombardeiro",            "ja":"爆撃機"  },
   0x8BCBB5: { "b":0x8BCBB5, "e":0x8BCBC1, "l":12, "en":" Bombas",             "ja":"　　爆弾　　"  },
   0x8BCD56: { "b":0x8BCD56, "e":0x8BCD62, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8ADA6B: { "en":[
-    "A ameaça dos céus. Causa danos enormes a todas",
-    "as unidades terrestres. No entanto, são",
-    "indefesos contra ataques, então unidades de",
-    "apoio são recomendadas para o combate."
+    "A ameaça dos céus. Causa danos enormes a",
+    "todas as unidades terrestres. No entanto,",
+    "são indefesos contra ataques, então",
+    "unidades de apoio são recomendadas."
   ], "ja": [
     "　航空ユニットです。対地上攻撃にはつよいですが、",
     "対空ユニット、戦闘機、攻撃機には注意してください。",
@@ -379,7 +379,7 @@ strings = {
 
   # Striker
   0x8A86C4: { "b":0x8A86C4, "e":0x8A86C8, "l":4,  "en":"⏺51",               "ja":"攻撃"  },
-  0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Atacante____",   "ja":"　攻撃機　　　　"  },
+  0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Atacante_____",   "ja":"　攻撃機　　　　"  },
   0x8BCA14: { "b":0x8BCA14, "e":0x8BCA22, "l":14, "en":"_|Atacante",          "ja":"　　攻撃機　　"  },
   0x83C0D3: { "b":0x83C0D3, "e":0x83C0D9, "l":6,  "en":"$Atacante",           "ja":"攻撃機"  },
   0x8BCBC3: { "b":0x8BCBC3, "e":0x8BCBCF, "l":12, "en":" Mísseis",          "ja":"汎用ミサイル"  },
@@ -418,7 +418,7 @@ strings = {
   # Transport Copter
   0x8A86D0: { "b":0x8A86D0, "e":0x8A86D4, "l":4,  "en":"⏺53",               "ja":"輸ヘ"  },
   0x8BC851: { "b":0x8BC851, "e":0x8BC861, "l":16, "en":"⏫59_Heli Transp.___",   "ja":"　輸送ヘリ　　　"  },
-  0x8BCA34: { "b":0x8BCA34, "e":0x8BCA42, "l":14, "en":"Heli Transporte",         "ja":"　　輸送ヘリ　"  },
+  0x8BCA34: { "b":0x8BCA34, "e":0x8BCA42, "l":14, "en":" Heli Transp.",         "ja":"　　輸送ヘリ　"  },
   0x83C0E5: { "b":0x83C0E5, "e":0x83C0ED, "l":8,  "en":"$Heli Transp.",          "ja":"輸送ヘリ"  },
   0x8BCBDF: { "b":0x8BCBDF, "e":0x8BCBEB, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8BCD80: { "b":0x8BCD80, "e":0x8BCD8C, "l":12, "en":" ~",                 "ja":"　――――　"  },
@@ -441,7 +441,7 @@ strings = {
   0x8BC863: { "b":0x8BC863, "e":0x8BC873, "l":16, "en":"⏫60_Couraçado___", "ja":"　戦艦　　　　　"  },
   0x8BCA44: { "b":0x8BCA44, "e":0x8BCA52, "l":14, "en":"  Couraçado",       "ja":"　　戦艦　　　"  },
   0x83C0EF: { "b":0x83C0EF, "e":0x83C0F3, "l":4,  "en":"$Couraçado",        "ja":"戦艦"  },
-  0x8BCBED: { "b":0x8BCBED, "e":0x8BCBF9, "l":12, "en":" Canhão<Naval",         "ja":"　カノン砲　"  },
+  0x8BCBED: { "b":0x8BCBED, "e":0x8BCBF9, "l":12, "en":"Canhão<Naval",         "ja":"　カノン砲　"  },
   0x8BCD8E: { "b":0x8BCD8E, "e":0x8BCD9A, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADD3F: { "en":[
     "Uma fortaleza flutuante, a um preço elevado.",
@@ -456,7 +456,7 @@ strings = {
 
   # Cruiser
   0x8A86DC: { "b":0x8A86DC, "e":0x8A86E0, "l":4,  "en":"⏺55",               "ja":"護衛"  },
-  0x8BC875: { "b":0x8BC875, "e":0x8BC885, "l":16, "en":"⏫66_Cruzador____",   "ja":"　護衛艦　　　　"  },
+  0x8BC875: { "b":0x8BC875, "e":0x8BC885, "l":16, "en":"⏫66_Cruzador_____",   "ja":"　護衛艦　　　　"  },
   0x8BCA54: { "b":0x8BCA54, "e":0x8BCA62, "l":14, "en":"_|Cruzador",          "ja":"　　護衛艦　　"  },
   0x83C0F5: { "b":0x83C0F5, "e":0x83C0FB, "l":6,  "en":"$Cruzador",           "ja":"護衛艦"  },
   0x8BCBFB: { "b":0x8BCBFB, "e":0x8BCC07, "l":12, "en":" Torpedos",         "ja":"対潜ミサイル"  },
@@ -475,7 +475,7 @@ strings = {
 
   # Lander
   0x8A86E2: { "b":0x8A86E2, "e":0x8A86E6, "l":4,  "en":"⏺56",               "ja":"輸送"  },
-  0x8BC887: { "b":0x8BC887, "e":0x8BC897, "l":16, "en":"⏫6B_Cargueiro_____",   "ja":"　輸送船　　　　"  },
+  0x8BC887: { "b":0x8BC887, "e":0x8BC897, "l":16, "en":"⏫6B_Cargueiro______",   "ja":"　輸送船　　　　"  },
   0x8BCA64: { "b":0x8BCA64, "e":0x8BCA72, "l":14, "en":"_| Cargueiro",          "ja":"　　輸送船　　"  },
   0x83C0FD: { "b":0x83C0FD, "e":0x83C103, "l":6,  "en":"$Cargueiro",            "ja":"輸送艦"  },
   0x8BCC09: { "b":0x8BCC09, "e":0x8BCC15, "l":12, "en":" ~",                 "ja":"　――――　"  },
