@@ -321,7 +321,7 @@ strings = {
     " é limitada, sendo visíveis apenas as",
     " edificações do seu exército e aliados,",
     " além de áreas ao alcance { | } de suas",
-    " unidades.|Movimentos inimigos fora desse",
+    " unidades.<Movimentos inimigos fora desse",
     " alcance são indetectáveis. Infantaria {}",
     " e Mecanizada {} ganham uma util",
     " habilidade ao subir montanhas __<|,",
