@@ -212,7 +212,7 @@ strings = {
 
   # Supply Truck
   0x8A868E: { "b":0x8A868E, "e":0x8A8692, "l":4,  "en":"⏺48",               "ja":"補給"  },
-  0x8BC78B: { "b":0x8BC78B, "e":0x8BC79B, "l":16, "en":"⏫26_Suprim. ",   "ja":"　補給車　　　　"  },
+  0x8BC78B: { "b":0x8BC78B, "e":0x8BC79B, "l":16, "en":"⏫26_Suprim.                ",   "ja":"　補給車　　　　"  },
   0x8BC984: { "b":0x8BC984, "e":0x8BC992, "l":14, "en":"<Suprimento","ja":"　　補給車　　"  },
   0x83C07B: { "b":0x83C07B, "e":0x83C081, "l":6,  "en":"$Suprimento",      "ja":"補給車"  },
   0x8BCB45: { "b":0x8BCB45, "e":0x8BCB51, "l":12, "en":"|~",                 "ja":"　――――　"  },
@@ -360,7 +360,7 @@ strings = {
 
   # Bomber
   0x8A86BE: { "b":0x8A86BE, "e":0x8A86C2, "l":4,  "en":"⏺50",               "ja":"爆撃"  },
-  0x8BC81B: { "b":0x8BC81B, "e":0x8BC82B, "l":16, "en":"⏫49_Bombard.",    "ja":"　爆撃機　　　　"  },
+  0x8BC81B: { "b":0x8BC81B, "e":0x8BC82B, "l":16, "en":"⏫49_Bombar.",    "ja":"　爆撃機　　　　"  },
   0x8BCA04: { "b":0x8BCA04, "e":0x8BCA12, "l":14, "en":"Bombardeiro",           "ja":"　　爆撃機　　"  },
   0x83C0CB: { "b":0x83C0CB, "e":0x83C0D1, "l":6,  "en":"$Bombardeiro",            "ja":"爆撃機"  },
   0x8BCBB5: { "b":0x8BCBB5, "e":0x8BCBC1, "l":12, "en":" Bombas",             "ja":"　　爆弾　　"  },
@@ -379,11 +379,11 @@ strings = {
 
   # Striker
   0x8A86C4: { "b":0x8A86C4, "e":0x8A86C8, "l":4,  "en":"⏺51",               "ja":"攻撃"  },
-  0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Atacante",   "ja":"　攻撃機　　　　"  },
+  0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Atacan.",   "ja":"　攻撃機　　　　"  },
   0x8BCA14: { "b":0x8BCA14, "e":0x8BCA22, "l":14, "en":"_|Atacante",          "ja":"　　攻撃機　　"  },
   0x83C0D3: { "b":0x83C0D3, "e":0x83C0D9, "l":6,  "en":"$Atacante",           "ja":"攻撃機"  },
   0x8BCBC3: { "b":0x8BCBC3, "e":0x8BCBCF, "l":12, "en":" Mísseis",          "ja":"汎用ミサイル"  },
-  0x8BCD64: { "b":0x8BCD64, "e":0x8BCD70, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
+  0x8BCD64: { "b":0x8BCD64, "e":0x8BCD70, "l":12, "en":"Metralhadora",             "ja":"マシンガン　"  },
   0x8ADB27: { "en":[
     "Aeronave de combate multimissão enfrenta",
     "todas as unidades inimigas, exceto",
@@ -402,7 +402,7 @@ strings = {
   0x8BCA24: { "b":0x8BCA24, "e":0x8BCA32, "l":14, "en":" Heli Combate",         "ja":"　　戦闘ヘリ　"  },
   0x83C0DB: { "b":0x83C0DB, "e":0x83C0E3, "l":8,  "en":"$Heli Combate",          "ja":"戦闘ヘリ"  },
   0x8BCBD1: { "b":0x8BCBD1, "e":0x8BCBDD, "l":12, "en":" Mísseis",          "ja":"対地ミサイル"  },
-  0x8BCD72: { "b":0x8BCD72, "e":0x8BCD7E, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
+  0x8BCD72: { "b":0x8BCD72, "e":0x8BCD7E, "l":12, "en":"Metralhadora",             "ja":"マシンガン　"  },
   0x8ADBD5: { "en":[
     "Unidade aérea versátil, econômica e",
     "dispensável, enfrenta inimigos terrestres",
