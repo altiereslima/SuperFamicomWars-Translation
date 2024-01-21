@@ -212,7 +212,7 @@ strings = {
 
   # Supply Truck
   0x8A868E: { "b":0x8A868E, "e":0x8A8692, "l":4,  "en":"⏺48",               "ja":"補給"  },
-  0x8BC78B: { "b":0x8BC78B, "e":0x8BC79B, "l":16, "en":"⏫26_Suprim.                ",   "ja":"　補給車　　　　"  },
+  0x8BC78B: { "b":0x8BC78B, "e":0x8BC79B, "l":16, "en":"⏫26_Supri.",   "ja":"　補給車　　　　"  },
   0x8BC984: { "b":0x8BC984, "e":0x8BC992, "l":14, "en":"<Suprimento","ja":"　　補給車　　"  },
   0x83C07B: { "b":0x83C07B, "e":0x83C081, "l":6,  "en":"$Suprimento",      "ja":"補給車"  },
   0x8BCB45: { "b":0x8BCB45, "e":0x8BCB51, "l":12, "en":"|~",                 "ja":"　――――　"  },
@@ -456,7 +456,7 @@ strings = {
 
   # Cruiser
   0x8A86DC: { "b":0x8A86DC, "e":0x8A86E0, "l":4,  "en":"⏺55",               "ja":"護衛"  },
-  0x8BC875: { "b":0x8BC875, "e":0x8BC885, "l":16, "en":"⏫66_Cruzador",   "ja":"　護衛艦　　　　"  },
+  0x8BC875: { "b":0x8BC875, "e":0x8BC885, "l":16, "en":"⏫66_Cruzad.",   "ja":"　護衛艦　　　　"  },
   0x8BCA54: { "b":0x8BCA54, "e":0x8BCA62, "l":14, "en":"_|Cruzador",          "ja":"　　護衛艦　　"  },
   0x83C0F5: { "b":0x83C0F5, "e":0x83C0FB, "l":6,  "en":"$Cruzador",           "ja":"護衛艦"  },
   0x8BCBFB: { "b":0x8BCBFB, "e":0x8BCC07, "l":12, "en":" Torpedos",         "ja":"対潜ミサイル"  },
@@ -475,7 +475,7 @@ strings = {
 
   # Lander
   0x8A86E2: { "b":0x8A86E2, "e":0x8A86E6, "l":4,  "en":"⏺56",               "ja":"輸送"  },
-  0x8BC887: { "b":0x8BC887, "e":0x8BC897, "l":16, "en":"⏫6B_Cargueiro",   "ja":"　輸送船　　　　"  },
+  0x8BC887: { "b":0x8BC887, "e":0x8BC897, "l":16, "en":"⏫6B_Cargue.",   "ja":"　輸送船　　　　"  },
   0x8BCA64: { "b":0x8BCA64, "e":0x8BCA72, "l":14, "en":"_| Cargueiro",          "ja":"　　輸送船　　"  },
   0x83C0FD: { "b":0x83C0FD, "e":0x83C103, "l":6,  "en":"$Cargueiro",            "ja":"輸送艦"  },
   0x8BCC09: { "b":0x8BCC09, "e":0x8BCC15, "l":12, "en":" ~",                 "ja":"　――――　"  },
