@@ -228,9 +228,9 @@ strings = {
     " Ao enfrentar terreno difícil, ou para",
     " cobrir longas distancias rapidamente,",
     " use BTPs { }, Cargueiros {} e",
-    " Helicópteros { }. Por exemplo,",
+    " Heli Transporte { }. Por exemplo,",
     " embarque uma Infantaria {} em um",
-    " Helicóptero {}. O embarque consumirá",
+    " Heli Transporte{}.<O embarque consumirá",
     " um turno. No dia seguinte, mova o",
     " Helicóptero { } sobre terra ou mar e",
     " desembarque o soldado em solo firme."
@@ -942,7 +942,7 @@ strings = {
     " Estude o que cada um pode embarcar",
     " abaixo:",
     "__ |BTP_____⏮1|1_*___| ou",
-    "__ |Helicóptero__⏮1|1_*___| ou",
+    "__ |Heli Transporte__⏮1|1_*___| ou",
     "__ |Cargueiro___2_*_ Unid. terrestres",
     "__ |Cruzador___2_*___| ou",
     "__ |Trem_____2_*_ Unid. terrestres"
@@ -966,7 +966,7 @@ strings = {
     " carga quando estiver sobre tipos",
     " específicos de terreno:",
     "____Em qualquer lugar que o { } ande",  # BTP
-    "____Não em__________   <ou",            # Helicóptero
+    "____Não em__________   <ou",            # Heli Transporte
     "____Bancos de areia e Portos",          # Cargueiro
     "____Em qualquer lugar que o { } ande",  # Cruzador
     "____Depósitos"                          # Trem
