@@ -212,7 +212,7 @@ strings = {
 
   # Supply Truck
   0x8A868E: { "b":0x8A868E, "e":0x8A8692, "l":4,  "en":"⏺48",               "ja":"補給"  },
-  0x8BC78B: { "b":0x8BC78B, "e":0x8BC79B, "l":16, "en":"⏫26_Suprir_____",   "ja":"　補給車　　　　"  },
+  0x8BC78B: { "b":0x8BC78B, "e":0x8BC79B, "l":16, "en":"⏫26_Suprim.____",   "ja":"　補給車　　　　"  },
   0x8BC984: { "b":0x8BC984, "e":0x8BC992, "l":14, "en":"<Suprimento","ja":"　　補給車　　"  },
   0x83C07B: { "b":0x83C07B, "e":0x83C081, "l":6,  "en":"$Suprimento",      "ja":"補給車"  },
   0x8BCB45: { "b":0x8BCB45, "e":0x8BCB51, "l":12, "en":"|~",                 "ja":"　――――　"  },
@@ -398,16 +398,16 @@ strings = {
 
   # Battle Copter
   0x8A86CA: { "b":0x8A86CA, "e":0x8A86CE, "l":4,  "en":"⏺52",               "ja":"戦ヘ"  },
-  0x8BC83F: { "b":0x8BC83F, "e":0x8BC84F, "l":16, "en":"⏫53_Heli Batalha___",   "ja":"　戦闘ヘリ　　　"  },
-  0x8BCA24: { "b":0x8BCA24, "e":0x8BCA32, "l":14, "en":"  Heli Batalha",         "ja":"　　戦闘ヘリ　"  },
+  0x8BC83F: { "b":0x8BC83F, "e":0x8BC84F, "l":16, "en":"⏫53_Heli Bat.___",   "ja":"　戦闘ヘリ　　　"  },
+  0x8BCA24: { "b":0x8BCA24, "e":0x8BCA32, "l":14, "en":" Heli Batalha",         "ja":"　　戦闘ヘリ　"  },
   0x83C0DB: { "b":0x83C0DB, "e":0x83C0E3, "l":8,  "en":"$Heli Batalha",          "ja":"戦闘ヘリ"  },
   0x8BCBD1: { "b":0x8BCBD1, "e":0x8BCBDD, "l":12, "en":" Mísseis",          "ja":"対地ミサイル"  },
   0x8BCD72: { "b":0x8BCD72, "e":0x8BCD7E, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADBD5: { "en":[
     "Unidade aérea versátil, econômica e",
     "dispensável, enfrenta inimigos terrestres",
-    "e navais, sendo vulnerável a",
-    "contra-ataques, mas excelente em apoio."
+    "e navais, sendo vulnerável a contra-ataques,",
+    "mas excelente em apoio."
   ], "ja": [
     "　対地上ユニットにつよく、航空ユニットであるため",
     "場所をえらばず行動できる、とてもつかいやすいユニ",
@@ -417,8 +417,8 @@ strings = {
 
   # Transport Copter
   0x8A86D0: { "b":0x8A86D0, "e":0x8A86D4, "l":4,  "en":"⏺53",               "ja":"輸ヘ"  },
-  0x8BC851: { "b":0x8BC851, "e":0x8BC861, "l":16, "en":"⏫59_Heli Transporte___",   "ja":"　輸送ヘリ　　　"  },
-  0x8BCA34: { "b":0x8BCA34, "e":0x8BCA42, "l":14, "en":"  Heli Transporte",         "ja":"　　輸送ヘリ　"  },
+  0x8BC851: { "b":0x8BC851, "e":0x8BC861, "l":16, "en":"⏫59_Heli Transp.___",   "ja":"　輸送ヘリ　　　"  },
+  0x8BCA34: { "b":0x8BCA34, "e":0x8BCA42, "l":14, "en":"Heli Transporte",         "ja":"　　輸送ヘリ　"  },
   0x83C0E5: { "b":0x83C0E5, "e":0x83C0ED, "l":8,  "en":"$Heli Transporte",          "ja":"輸送ヘリ"  },
   0x8BCBDF: { "b":0x8BCBDF, "e":0x8BCBEB, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8BCD80: { "b":0x8BCD80, "e":0x8BCD8C, "l":12, "en":" ~",                 "ja":"　――――　"  },
