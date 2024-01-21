@@ -941,7 +941,7 @@ strings = {
     " capacidade de embarque diferente.",
     " Estude o que cada um pode embarcar",
     " abaixo:",
-    "__ |BTP_____⏮1|1_*___| ou",
+    "__ |BTP_____   ⏮1|1_*___| ou",
     "__ |Heli Transporte__⏮1|1_*___| ou",
     "__ |Cargueiro___2_*_ Unid. terrestres",
     "__ |Cruzador___2_*___| ou",
