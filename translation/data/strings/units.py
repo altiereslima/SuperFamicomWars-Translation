@@ -347,10 +347,10 @@ strings = {
   0x8BCBA7: { "b":0x8BCBA7, "e":0x8BCBB3, "l":12, "en":" ⏮2AA|Mísseis",    "ja":"対空ミサイル"  },
   0x8BCD48: { "b":0x8BCD48, "e":0x8BCD54, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD9B1: { "en":[
-    "Provides superior firepower and mobility",
-    "for air-to-air engagements.  Can't attack",
-    "ground units and consumes fuel at an",
-    "alarming rate."
+    "Fornece poder de fogo e mobilidade",
+    "superiores para combates ar-ar.",
+    "Não pode atacar unidades terrestres e",
+    "consome muito combustível."
   ], "ja": [
     "　航空ユニットで、戦闘機にかなうユニットはいませ",
     "ん。ただし、地上に対して攻撃ができないので、対空",
@@ -360,16 +360,16 @@ strings = {
 
   # Bomber
   0x8A86BE: { "b":0x8A86BE, "e":0x8A86C2, "l":4,  "en":"⏺50",               "ja":"爆撃"  },
-  0x8BC81B: { "b":0x8BC81B, "e":0x8BC82B, "l":16, "en":"⏫49_Bomber____",    "ja":"　爆撃機　　　　"  },
-  0x8BCA04: { "b":0x8BCA04, "e":0x8BCA12, "l":14, "en":"_ Bomber",           "ja":"　　爆撃機　　"  },
-  0x83C0CB: { "b":0x83C0CB, "e":0x83C0D1, "l":6,  "en":"$Bomber",            "ja":"爆撃機"  },
-  0x8BCBB5: { "b":0x8BCBB5, "e":0x8BCBC1, "l":12, "en":" Bombs",             "ja":"　　爆弾　　"  },
+  0x8BC81B: { "b":0x8BC81B, "e":0x8BC82B, "l":16, "en":"⏫49_Bombardeiro____",    "ja":"　爆撃機　　　　"  },
+  0x8BCA04: { "b":0x8BCA04, "e":0x8BCA12, "l":14, "en":"_ Bombardeiro",           "ja":"　　爆撃機　　"  },
+  0x83C0CB: { "b":0x83C0CB, "e":0x83C0D1, "l":6,  "en":"$Bombardeiro",            "ja":"爆撃機"  },
+  0x8BCBB5: { "b":0x8BCBB5, "e":0x8BCBC1, "l":12, "en":" Bombas",             "ja":"　　爆弾　　"  },
   0x8BCD56: { "b":0x8BCD56, "e":0x8BCD62, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8ADA6B: { "en":[
-    "The menace of the skies.  Inflicts stupendous",
-    "damage to all ground units.  However, they",
-    "are defenseless against attacks so supporting",
-    "units are recommended for engagement."
+    "A ameaça dos céus. Causa danos enormes a todas",
+    "as unidades terrestres. No entanto, são",
+    "indefesos contra ataques, então unidades de",
+    "apoio são recomendadas para o combate."
   ], "ja": [
     "　航空ユニットです。対地上攻撃にはつよいですが、",
     "対空ユニット、戦闘機、攻撃機には注意してください。",
@@ -385,10 +385,10 @@ strings = {
   0x8BCBC3: { "b":0x8BCBC3, "e":0x8BCBCF, "l":12, "en":" Mísseis",          "ja":"汎用ミサイル"  },
   0x8BCD64: { "b":0x8BCD64, "e":0x8BCD70, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADB27: { "en":[
-    "This multirole combat aircraft can engage all",
-    "enemy units except Subs.  While versatile,",
-    "it comes at a high price and does not excel",
-    "against any unit."
+    "Aeronave de combate multimissão enfrenta todas",
+    "as unidades inimigas, exceto Submarinos.",
+    "Versátil, mas cara e sem destaque contra",
+    "nenhuma unidade."
   ], "ja": [
     "　対空ユニットと戦闘機以外、どのユニットともごか",
     "く以上に闘えますが、とくに海上ユニットに対しては",
@@ -398,9 +398,9 @@ strings = {
 
   # Battle Copter
   0x8A86CA: { "b":0x8A86CA, "e":0x8A86CE, "l":4,  "en":"⏺52",               "ja":"戦ヘ"  },
-  0x8BC83F: { "b":0x8BC83F, "e":0x8BC84F, "l":16, "en":"⏫53_Heli Bat.___",   "ja":"　戦闘ヘリ　　　"  },
-  0x8BCA24: { "b":0x8BCA24, "e":0x8BCA32, "l":14, "en":" Heli Batalha",         "ja":"　　戦闘ヘリ　"  },
-  0x83C0DB: { "b":0x83C0DB, "e":0x83C0E3, "l":8,  "en":"$Heli Batalha",          "ja":"戦闘ヘリ"  },
+  0x8BC83F: { "b":0x8BC83F, "e":0x8BC84F, "l":16, "en":"⏫53_Heli Comb.___",   "ja":"　戦闘ヘリ　　　"  },
+  0x8BCA24: { "b":0x8BCA24, "e":0x8BCA32, "l":14, "en":" Heli Combate",         "ja":"　　戦闘ヘリ　"  },
+  0x83C0DB: { "b":0x83C0DB, "e":0x83C0E3, "l":8,  "en":"$Heli Combate",          "ja":"戦闘ヘリ"  },
   0x8BCBD1: { "b":0x8BCBD1, "e":0x8BCBDD, "l":12, "en":" Mísseis",          "ja":"対地ミサイル"  },
   0x8BCD72: { "b":0x8BCD72, "e":0x8BCD7E, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADBD5: { "en":[
