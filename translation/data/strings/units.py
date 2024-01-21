@@ -328,9 +328,9 @@ strings = {
   0x8BCB99: { "b":0x8BCB99, "e":0x8BCBA5, "l":12, "en":"|Mísseis",           "ja":"対空ミサイル"  },
   0x8BCD3A: { "b":0x8BCD3A, "e":0x8BCD46, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8AD917: { "en":[
-    "An excellent weapon against airborne enemy",
-    "units.  Poor mobility is offset by its great",
-    "striking distance."
+    "Uma excelente arma contra unidades inimigas",
+    "aéreas. Sua baixa mobilidade é compensada",
+    "pela grande distância de ataque."
   ], "ja": [
     "　かんせつ攻撃ユニットです。航空ユニットにはめっ",
     "ぽうつよいですが、移動力が少ないので占領ポイント",
@@ -349,8 +349,8 @@ strings = {
   0x8AD9B1: { "en":[
     "Fornece poder de fogo e mobilidade",
     "superiores para combates ar-ar.",
-    "Não pode atacar unidades terrestres e",
-    "consome muito combustível."
+    "Não pode atacar unidades terrestres",
+    "e consome muito combustível."
   ], "ja": [
     "　航空ユニットで、戦闘機にかなうユニットはいませ",
     "ん。ただし、地上に対して攻撃ができないので、対空",
@@ -379,9 +379,9 @@ strings = {
 
   # Striker
   0x8A86C4: { "b":0x8A86C4, "e":0x8A86C8, "l":4,  "en":"⏺51",               "ja":"攻撃"  },
-  0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Striker____",   "ja":"　攻撃機　　　　"  },
-  0x8BCA14: { "b":0x8BCA14, "e":0x8BCA22, "l":14, "en":"_|Striker",          "ja":"　　攻撃機　　"  },
-  0x83C0D3: { "b":0x83C0D3, "e":0x83C0D9, "l":6,  "en":"$Striker",           "ja":"攻撃機"  },
+  0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Atacante____",   "ja":"　攻撃機　　　　"  },
+  0x8BCA14: { "b":0x8BCA14, "e":0x8BCA22, "l":14, "en":"_|Atacante",          "ja":"　　攻撃機　　"  },
+  0x83C0D3: { "b":0x83C0D3, "e":0x83C0D9, "l":6,  "en":"$Atacante",           "ja":"攻撃機"  },
   0x8BCBC3: { "b":0x8BCBC3, "e":0x8BCBCF, "l":12, "en":" Mísseis",          "ja":"汎用ミサイル"  },
   0x8BCD64: { "b":0x8BCD64, "e":0x8BCD70, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADB27: { "en":[
@@ -419,7 +419,7 @@ strings = {
   0x8A86D0: { "b":0x8A86D0, "e":0x8A86D4, "l":4,  "en":"⏺53",               "ja":"輸ヘ"  },
   0x8BC851: { "b":0x8BC851, "e":0x8BC861, "l":16, "en":"⏫59_Heli Transp.___",   "ja":"　輸送ヘリ　　　"  },
   0x8BCA34: { "b":0x8BCA34, "e":0x8BCA42, "l":14, "en":"Heli Transporte",         "ja":"　　輸送ヘリ　"  },
-  0x83C0E5: { "b":0x83C0E5, "e":0x83C0ED, "l":8,  "en":"$Heli Transporte",          "ja":"輸送ヘリ"  },
+  0x83C0E5: { "b":0x83C0E5, "e":0x83C0ED, "l":8,  "en":"$Heli Transp.",          "ja":"輸送ヘリ"  },
   0x8BCBDF: { "b":0x8BCBDF, "e":0x8BCBEB, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8BCD80: { "b":0x8BCD80, "e":0x8BCD8C, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8ADC8F: { "en":[
@@ -438,15 +438,16 @@ strings = {
 
   # Battleship
   0x8A86D6: { "b":0x8A86D6, "e":0x8A86DA, "l":4,  "en":"⏺54",               "ja":"戦艦"  },
-  0x8BC863: { "b":0x8BC863, "e":0x8BC873, "l":16, "en":"⏫60_Battleship___", "ja":"　戦艦　　　　　"  },
-  0x8BCA44: { "b":0x8BCA44, "e":0x8BCA52, "l":14, "en":"  Battleship",       "ja":"　　戦艦　　　"  },
-  0x83C0EF: { "b":0x83C0EF, "e":0x83C0F3, "l":4,  "en":"$Battleship",        "ja":"戦艦"  },
-  0x8BCBED: { "b":0x8BCBED, "e":0x8BCBF9, "l":12, "en":" Naval Gun",         "ja":"　カノン砲　"  },
+  0x8BC863: { "b":0x8BC863, "e":0x8BC873, "l":16, "en":"⏫60_Couraçado___", "ja":"　戦艦　　　　　"  },
+  0x8BCA44: { "b":0x8BCA44, "e":0x8BCA52, "l":14, "en":"  Couraçado",       "ja":"　　戦艦　　　"  },
+  0x83C0EF: { "b":0x83C0EF, "e":0x83C0F3, "l":4,  "en":"$Couraçado",        "ja":"戦艦"  },
+  0x8BCBED: { "b":0x8BCBED, "e":0x8BCBF9, "l":12, "en":" Canhão<Naval",         "ja":"　カノン砲　"  },
   0x8BCD8E: { "b":0x8BCD8E, "e":0x8BCD9A, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADD3F: { "en":[
-    "A floating fortress, at a high price.  Its large",
-    "caliber naval guns inflict massive damage over",
-    "long distances on everything but submarines."
+    "Uma fortaleza flutuante, a um preço elevado.",
+    "Seus canhões navais de grande calibre causam",
+    "danos massivos a longas distâncias em tudo,",
+    "exceto submarinos."
   ], "ja": [
     "　ひろいしゃていはんいをもつ海上ユニットです。航",
     "空ユニットにも攻撃できます。潜水艦には攻撃できな",
@@ -455,16 +456,16 @@ strings = {
 
   # Cruiser
   0x8A86DC: { "b":0x8A86DC, "e":0x8A86E0, "l":4,  "en":"⏺55",               "ja":"護衛"  },
-  0x8BC875: { "b":0x8BC875, "e":0x8BC885, "l":16, "en":"⏫66_Cruiser____",   "ja":"　護衛艦　　　　"  },
-  0x8BCA54: { "b":0x8BCA54, "e":0x8BCA62, "l":14, "en":"_|Cruiser",          "ja":"　　護衛艦　　"  },
-  0x83C0F5: { "b":0x83C0F5, "e":0x83C0FB, "l":6,  "en":"$Cruiser",           "ja":"護衛艦"  },
-  0x8BCBFB: { "b":0x8BCBFB, "e":0x8BCC07, "l":12, "en":" Torpedoes",         "ja":"対潜ミサイル"  },
+  0x8BC875: { "b":0x8BC875, "e":0x8BC885, "l":16, "en":"⏫66_Cruzador____",   "ja":"　護衛艦　　　　"  },
+  0x8BCA54: { "b":0x8BCA54, "e":0x8BCA62, "l":14, "en":"_|Cruzador",          "ja":"　　護衛艦　　"  },
+  0x83C0F5: { "b":0x83C0F5, "e":0x83C0FB, "l":6,  "en":"$Cruzador",           "ja":"護衛艦"  },
+  0x8BCBFB: { "b":0x8BCBFB, "e":0x8BCC07, "l":12, "en":" Torpedos",         "ja":"対潜ミサイル"  },
   0x8BCD9C: { "b":0x8BCD9C, "e":0x8BCDA8, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADDC5: { "en":[
-    "A specialized naval unit that can carry two",
-    "helicopters.  High mobility and vision range",
-    "make it an ideal scout ship in Fog of War.",
-    "Its torpedoes can only target submarines."
+    "Unidade naval que pode transportar dois",
+    "helicópteros. Alta mobilidade e alcance de",
+    "visão a tornam ideal para explorar em neblina",
+    "de guerra. Torpedos miram apenas submarinos."
   ], "ja": [
     "　ヘリを２機まで搭載し、補給することができます。",
     "また、潜水艦に攻撃できるのは護衛艦と潜水艦だけで",
@@ -474,15 +475,16 @@ strings = {
 
   # Lander
   0x8A86E2: { "b":0x8A86E2, "e":0x8A86E6, "l":4,  "en":"⏺56",               "ja":"輸送"  },
-  0x8BC887: { "b":0x8BC887, "e":0x8BC897, "l":16, "en":"⏫6B_Lander_____",   "ja":"　輸送船　　　　"  },
-  0x8BCA64: { "b":0x8BCA64, "e":0x8BCA72, "l":14, "en":"_| Lander",          "ja":"　　輸送船　　"  },
-  0x83C0FD: { "b":0x83C0FD, "e":0x83C103, "l":6,  "en":"$Lander",            "ja":"輸送艦"  },
+  0x8BC887: { "b":0x8BC887, "e":0x8BC897, "l":16, "en":"⏫6B_Cargueiro_____",   "ja":"　輸送船　　　　"  },
+  0x8BCA64: { "b":0x8BCA64, "e":0x8BCA72, "l":14, "en":"_| Cargueiro",          "ja":"　　輸送船　　"  },
+  0x83C0FD: { "b":0x83C0FD, "e":0x83C103, "l":6,  "en":"$Cargueiro",            "ja":"輸送艦"  },
   0x8BCC09: { "b":0x8BCC09, "e":0x8BCC15, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8BCDAA: { "b":0x8BCDAA, "e":0x8BCDB6, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8ADE77: { "en":[
-    "Naval transport capable of loading two",
-    "ground units.  Poor armor and no weapons",
-    "can make it vulnerable without an escort."
+    "Transporte naval capaz de embarcar duas",
+    "unidades terrestres. A armadura fraca e",
+    "a ausência de armas podem torná-lo",
+    "vulnerável sem escolta."
   ], "ja": [
     "　地上ユニットを２だいまで搭載することができます。",
     "輸送ヘリとおなじく、まったく攻撃力をもたないので",
@@ -492,15 +494,15 @@ strings = {
   # Submarine
   0x8A86E8: { "b":0x8A86E8, "e":0x8A86EC, "l":4,  "en":"⏺57",               "ja":"潜水"  },
   0x8BC899: { "b":0x8BC899, "e":0x8BC8A9, "l":16, "en":"⏫70_Sub______",     "ja":"　潜水艦　　　　"  },
-  0x8BCA74: { "b":0x8BCA74, "e":0x8BCA82, "l":14, "en":"  Submarine",        "ja":"　　潜水艦　　"  },
-  0x83C105: { "b":0x83C105, "e":0x83C10B, "l":6,  "en":"$Submarine",         "ja":"潜水艦"  },
-  0x8BCC17: { "b":0x8BCC17, "e":0x8BCC23, "l":12, "en":" Torpedoes",         "ja":"　　魚雷　　"  },
+  0x8BCA74: { "b":0x8BCA74, "e":0x8BCA82, "l":14, "en":"  Submarino",        "ja":"　　潜水艦　　"  },
+  0x83C105: { "b":0x83C105, "e":0x83C10B, "l":6,  "en":"$Submarino",         "ja":"潜水艦"  },
+  0x8BCC17: { "b":0x8BCC17, "e":0x8BCC23, "l":12, "en":" Torpedos",         "ja":"　　魚雷　　"  },
   0x8BCDB8: { "b":0x8BCDB8, "e":0x8BCDC4, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8ADEFB: { "en":[
-    "Silent but deadly unit against naval enemies.",
-    "Can only be attacked by cruisers and other",
-    "submarines.  In Fog of War, an enemy must",
-    "be directly adjacent in order to spot it."
+    "Unidade submarina letal contra navios.",
+    "Vulnerável apenas a cruzadores e outros",
+    "submarinos. Em neblina de guerra, detecção",
+    "requer proximidade direta."
   ], "ja": [
     "　護衛艦と潜水艦以外のユニットにはいっさいダメー",
     "ジをうけません。また索敵モードでは、たとえ敵の索",
