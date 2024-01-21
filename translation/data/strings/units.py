@@ -382,7 +382,7 @@ strings = {
   0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Striker____",   "ja":"　攻撃機　　　　"  },
   0x8BCA14: { "b":0x8BCA14, "e":0x8BCA22, "l":14, "en":"_|Striker",          "ja":"　　攻撃機　　"  },
   0x83C0D3: { "b":0x83C0D3, "e":0x83C0D9, "l":6,  "en":"$Striker",           "ja":"攻撃機"  },
-  0x8BCBC3: { "b":0x8BCBC3, "e":0x8BCBCF, "l":12, "en":" Missiles",          "ja":"汎用ミサイル"  },
+  0x8BCBC3: { "b":0x8BCBC3, "e":0x8BCBCF, "l":12, "en":" Mísseis",          "ja":"汎用ミサイル"  },
   0x8BCD64: { "b":0x8BCD64, "e":0x8BCD70, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADB27: { "en":[
     "This multirole combat aircraft can engage all",
@@ -398,16 +398,16 @@ strings = {
 
   # Battle Copter
   0x8A86CA: { "b":0x8A86CA, "e":0x8A86CE, "l":4,  "en":"⏺52",               "ja":"戦ヘ"  },
-  0x8BC83F: { "b":0x8BC83F, "e":0x8BC84F, "l":16, "en":"⏫53_B-Copter___",   "ja":"　戦闘ヘリ　　　"  },
-  0x8BCA24: { "b":0x8BCA24, "e":0x8BCA32, "l":14, "en":"  B-Copter",         "ja":"　　戦闘ヘリ　"  },
-  0x83C0DB: { "b":0x83C0DB, "e":0x83C0E3, "l":8,  "en":"$B-Copter",          "ja":"戦闘ヘリ"  },
+  0x8BC83F: { "b":0x8BC83F, "e":0x8BC84F, "l":16, "en":"⏫53_Heli Batalha___",   "ja":"　戦闘ヘリ　　　"  },
+  0x8BCA24: { "b":0x8BCA24, "e":0x8BCA32, "l":14, "en":"  Heli Batalha",         "ja":"　　戦闘ヘリ　"  },
+  0x83C0DB: { "b":0x83C0DB, "e":0x83C0E3, "l":8,  "en":"$Heli Batalha",          "ja":"戦闘ヘリ"  },
   0x8BCBD1: { "b":0x8BCBD1, "e":0x8BCBDD, "l":12, "en":" Mísseis",          "ja":"対地ミサイル"  },
   0x8BCD72: { "b":0x8BCD72, "e":0x8BCD7E, "l":12, "en":"|Metralhadora",             "ja":"マシンガン　"  },
   0x8ADBD5: { "en":[
-    "Cheap, versatile and ultimately expendable",
-    "airborne unit that can engage ground and",
-    "naval enemies.  Vulnerable to counter",
-    "attacks, but a great support unit."
+    "Unidade aérea versátil, econômica e",
+    "dispensável, enfrenta inimigos terrestres",
+    "e navais, sendo vulnerável a",
+    "contra-ataques, mas excelente em apoio."
   ], "ja": [
     "　対地上ユニットにつよく、航空ユニットであるため",
     "場所をえらばず行動できる、とてもつかいやすいユニ",
@@ -417,16 +417,16 @@ strings = {
 
   # Transport Copter
   0x8A86D0: { "b":0x8A86D0, "e":0x8A86D4, "l":4,  "en":"⏺53",               "ja":"輸ヘ"  },
-  0x8BC851: { "b":0x8BC851, "e":0x8BC861, "l":16, "en":"⏫59_T-Copter___",   "ja":"　輸送ヘリ　　　"  },
-  0x8BCA34: { "b":0x8BCA34, "e":0x8BCA42, "l":14, "en":"  T-Copter",         "ja":"　　輸送ヘリ　"  },
-  0x83C0E5: { "b":0x83C0E5, "e":0x83C0ED, "l":8,  "en":"$T-Copter",          "ja":"輸送ヘリ"  },
+  0x8BC851: { "b":0x8BC851, "e":0x8BC861, "l":16, "en":"⏫59_Heli Transporte___",   "ja":"　輸送ヘリ　　　"  },
+  0x8BCA34: { "b":0x8BCA34, "e":0x8BCA42, "l":14, "en":"  Heli Transporte",         "ja":"　　輸送ヘリ　"  },
+  0x83C0E5: { "b":0x83C0E5, "e":0x83C0ED, "l":8,  "en":"$Heli Transporte",          "ja":"輸送ヘリ"  },
   0x8BCBDF: { "b":0x8BCBDF, "e":0x8BCBEB, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8BCD80: { "b":0x8BCD80, "e":0x8BCD8C, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8ADC8F: { "en":[
-    "Airborne transport capable of loading one",
-    "infantry unit.  Essential for quickly moving",
-    "foot soldiers into hard to reach areas.",
-    "No offensive or defensive capabilities."
+    "Transporte aéreo para uma unidade de",
+    "infantaria, essencial para movê-los",
+    "rapidamente em áreas inacessíveis, sem",
+    "capacidades ofensivas ou defensivas."
   ], "ja": [
     "　歩兵、戦闘工兵をはこべます。どこでも移動できる",
     "ためとてもべんりですが、攻撃力がないため、つかう",
