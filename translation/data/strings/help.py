@@ -534,7 +534,7 @@ strings = {
   0x91A242: { "en":[
     " Na opção Unidades, veja todas as",
     " forças no campo de batalha. Use",
-    " para ordenar por Tipo, Nível, PV  ,",
+    " para ordenar por Tipo, Nível, PV{  ,",
     " Combustível|{} ou Munição{}.",
     " Navegue pela lista com cima ou baixo",
     " e pressione{|<}sobre uma unidade",
