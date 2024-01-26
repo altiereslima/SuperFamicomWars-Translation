@@ -550,7 +550,7 @@ strings = {
   ]},
 
   # B5: Supply 1/3
-  0x919A14: { "b":0x919A14, "e":0x919A30, "l":28, "en":"⏫20 B5: Abastecer____|1⏮1|/|3_", "ja":"　　全補コマンドの説明その１"  },
+  0x919A14: { "b":0x919A14, "e":0x919A30, "l":28, "en":"⏫20 B5: Abastecer___|1⏮1|/|3_", "ja":"　　全補コマンドの説明その１"  },
   0x91A36E: { "en":[
     " Com o Autoabastecer ativado, unidades",
     " em edificações sob seu controle no",
@@ -574,7 +574,7 @@ strings = {
   ]},
 
   # B6: Supply 2/3
-  0x919A32: { "b":0x919A32, "e":0x919A4E, "l":28, "en":"⏫20 B6: Abastecer____2⏮1|/|3_", "ja":"　　全補コマンドの説明その２"  },
+  0x919A32: { "b":0x919A32, "e":0x919A4E, "l":28, "en":"⏫20 B6: Abastecer___2⏮1|/|3_", "ja":"　　全補コマンドの説明その２"  },
   0x91A51E: { "en":[
     " Claro, o pessoal do financeiro no QG",
     " (resmunga baixinho...) não nos permitem",
@@ -598,7 +598,7 @@ strings = {
   ]},
 
   # B7: Supply 3/3
-  0x919A50: { "b":0x919A50, "e":0x919A6C, "l":28, "en":"⏫20 B7: Abastecer____3⏮1|/|3_", "ja":"　　全補コマンドの説明その３"  },
+  0x919A50: { "b":0x919A50, "e":0x919A6C, "l":28, "en":"⏫20 B7: Abastecer___3⏮1|/|3_", "ja":"　　全補コマンドの説明その３"  },
   0x91A654: { "en":[
     " Reparos ocorrem em edificações, mas",
     " algumas unidades podem ser abastecidas",
