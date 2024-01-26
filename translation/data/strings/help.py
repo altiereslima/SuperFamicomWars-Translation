@@ -315,7 +315,7 @@ strings = {
   ]},
 
   # A10: Fog of War 1/2
-  0x9198CA: { "b":0x9198CA, "e":0x9198E6, "l":28, "en":"⏫20 A10: Neblina de guerra_|1⏮1|/|2_", "ja":"　　さくてきモード　その１　"  },
+  0x9198CA: { "b":0x9198CA, "e":0x9198E6, "l":28, "en":"⏫20 A10: Neb. de guerra|1⏮1|/|2_", "ja":"　　さくてきモード　その１　"  },
   0x91C8F2: { "en":[
     " Na Neblina de Guerra,|sua visão do mapa",
     " é limitada, sendo visíveis apenas as",
@@ -336,7 +336,7 @@ strings = {
   ]},
 
   # A11: Fog of War 2/2
-  0x9198E8: { "b":0x9198E8, "e":0x919904, "l":28, "en":"⏫20 A11: Neblina de guerra_2⏮1|/|2_", "ja":"　　さくてきモード　その２　"  },
+  0x9198E8: { "b":0x9198E8, "e":0x919904, "l":28, "en":"⏫20 A11: Neb. de guerra_2⏮1|/|2_", "ja":"　　さくてきモード　その２　"  },
   0x91CA18: { "en":[
     " Se uma unidade se mover para o",
     " caminho de um inimigo oculto na",
@@ -358,7 +358,7 @@ strings = {
   ]},
 
   # A12: Diplomatic Relations
-  0x919906: { "b":0x919906, "e":0x919922, "l":28, "en":"⏫20 A12: Relações diplomáticas__", "ja":"　　　　　　同盟　　　　　　"  },
+  0x919906: { "b":0x919906, "e":0x919922, "l":28, "en":"⏫20 A12: Rel. diplomáticas   ___", "ja":"　　　　　　同盟　　　　　　"  },
   0x91CB4C: { "en":[
     " Em jogos de 4 jogadores, até dois COs",
     " podem se aliar para destruir unidades",
