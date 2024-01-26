@@ -452,7 +452,7 @@ strings = {
 # SECTION B: "Main Commands"
 
   # B0
-  0x91997E: { "b":0x91997E, "e":0x91999A, "l":28, "en":"⏫20 Comandos principais", "ja":"　マップコマンドの説明　　　"  },
+  0x91997E: { "b":0x91997E, "e":0x91999A, "l":28, "en":"⏫20 Comandos     ________", "ja":"　マップコマンドの説明　　　"  },
   0x919D3A: { "en":[
     " Na Seção B, vamos explorar os",
     " comandos disponíveis nos menus de alto",
