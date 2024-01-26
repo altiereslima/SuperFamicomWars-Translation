@@ -622,7 +622,7 @@ strings = {
   ]},
 
   # B8: Intel
-  0x919A6E: { "b":0x919A6E, "e":0x919A8A, "l":28, "en":"⏫20 B8: Inteligencia", "ja":"　　状況コマンドの説明　　　"  },
+  0x919A6E: { "b":0x919A6E, "e":0x919A8A, "l":28, "en":"⏫20 B8: Intel.___________", "ja":"　　状況コマンドの説明　　　"  },
   0x91A7E0: { "en":[
     " A Inteligencia oferece dados sobre a",
     " batalha atual. A primeira página exibe",
