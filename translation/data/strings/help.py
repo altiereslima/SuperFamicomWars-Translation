@@ -246,7 +246,7 @@ strings = {
   ]},
 
   # A7: Capturing Buildings
-  0x919870: { "b":0x919870, "e":0x91988C, "l":28, "en":"⏫20 A7: Capturing Buildings___", "ja":"　　　　占領しよう！　　　　"  },
+  0x919870: { "b":0x919870, "e":0x91988C, "l":28, "en":"⏫20 A7: Capturar edificações__", "ja":"　　　　占領しよう！　　　　"  },
   0x91C4E0: { "en":[
     " Ao mover sua Infantaria {} ou",
     " Mecanizada {}para uma edificação não",
