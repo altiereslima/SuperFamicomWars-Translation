@@ -431,7 +431,7 @@ strings = {
     " Durante a Neblina de Guerra, unidades",
     " indiretas não podem atacar áreas",
     " ocultas - mesmo sabendo que há um",
-    " inimigo. Unidades com alcance {|| }",
+    " inimigo. Unidades com alcance",
     " amplo, como Reconhecimento {} e",
     " Cruzadores{} , podem ser enviadas",
     " primeiro para expor um alvo ao ataque."
@@ -604,7 +604,7 @@ strings = {
     " algumas unidades podem ser abastecidas",
     " com{<}<<<e{<} no campo, como Unidades",
     " Terrestres e {{}{}|próximas a um",
-    " Caminhão de Suprimento e{{}{}",
+    " Caminhão de Suprimento e",
     " embarcadas em um Cruzador{|}. Se o",
     " Autoabastecer estiver desativado, use",
     " Suprir no menu para reabastecer",
@@ -836,7 +836,7 @@ strings = {
     " Aqueles que estudaram serão",
     " devidamente recompensados: Todas",
     " as edificações capturadas, exceto",
-    " o QG {}, geram uma renda {}",
+    " o QG {}, geram uma renda",
     " de 1|000{|} por dia."
   ], "ja": [
     "　ユニットの行動を終わらせるコマンドです。　",
@@ -851,7 +851,7 @@ strings = {
     " permite explosões ainda maiores.",
     " Capture um laboratório{<  } para",
     " desbloquear o poderoso Prototanque",
-    " { }, e gerar 1|000{|} por dia. O{{}",
+    " { }, e gerar 1|000{|} por dia. O",
     " é extremamente poderoso, sendo",
     " aconselhável capturar esses",
     " laboratórios sempre que possível."
@@ -875,7 +875,7 @@ strings = {
     " Duas unidades do mesmo tipo podem se",
     " combinar ao ocuparem a mesma casa, a",
     " menos que ambas já tenham 10{}. A",
-    " unidade resultante assume o maior {|}",
+    " unidade resultante assume o maior",
     " e {|} e combina seus{||} até um total",
     " de 10. Unidades em transportes não",
     " podem ser combinadas."
