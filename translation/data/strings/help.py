@@ -650,8 +650,8 @@ strings = {
     " Durante uma batalha, ainda é",
     " possível ajustar as seguintes opções:",
     "",
-    " Autoabastecer_____||⏺C0/⏺C1",
-    " Batalha rápida</|Mapa_||⏺C0/⏺C1",
+    " Autoabastecer_____<||⏺C0/⏺C1",
+    " Batalha rápida<</|Mapa_||⏺C0/⏺C1",
     " Som___________ Mono</|Estéreo",
     "",
     " No modo 4J, é possível visualizar",
@@ -781,7 +781,7 @@ strings = {
   ]},
 
   # C1: Attack 1/2
-  0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Ataque____|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
+  0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Ataque_______|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
   0x91ACCC: { "en":[
     " Alguns COs expressaram que ⏮1[Ataque]",
     " é sua palavra favorita. Ataques podem",
@@ -803,7 +803,7 @@ strings = {
   ]},
 
   # C2: Attack 2/2
-  0x919B7C: { "b":0x919B7C, "e":0x919B98, "l":28, "en":"⏫20 C2: Ataque____2⏮1|/|2_", "ja":"　　攻撃コマンドの説明その２"  },
+  0x919B7C: { "b":0x919B7C, "e":0x919B98, "l":28, "en":"⏫20 C2: Ataque_______2⏮1|/|2_", "ja":"　　攻撃コマンドの説明その２"  },
   0x91AE00: { "en":[
     " Armas Indiretas podem causar dano",
     " pesado, mas tem outra vantagem:",
