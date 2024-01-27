@@ -104,8 +104,8 @@ strings = {
   # Heavy Tank
   0x8A866A: { "b":0x8A866A, "e":0x8A866E, "l":4,  "en":"⏺42",               "ja":"重戦"  },
   0x8BC71F: { "b":0x8BC71F, "e":0x8BC72F, "l":16, "en":"⏫0A_Tanque P.",   "ja":"　重戦車　　　　"  },
-  0x8BC924: { "b":0x8BC924, "e":0x8BC932, "l":14, "en":"Tanq.<pesado",       "ja":"　　重戦車　　"  },
-  0x83C049: { "b":0x83C049, "e":0x83C04F, "l":6,  "en":"$Tanque<pesado",     "ja":"重戦車"  },
+  0x8BC924: { "b":0x8BC924, "e":0x8BC932, "l":14, "en":"Tanq.<Pesado",       "ja":"　　重戦車　　"  },
+  0x83C049: { "b":0x83C049, "e":0x83C04F, "l":6,  "en":"$Tanque<Pesado",     "ja":"重戦車"  },
   0x8BCAF1: { "b":0x8BCAF1, "e":0x8BCAFD, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
   0x8BCC92: { "b":0x8BCC92, "e":0x8BCC9E, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD19D: { "en":[
@@ -122,8 +122,8 @@ strings = {
   # Medium Tank
   0x8A8670: { "b":0x8A8670, "e":0x8A8674, "l":4,  "en":"⏺43",               "ja":"中戦"  },
   0x8BC731: { "b":0x8BC731, "e":0x8BC741, "l":16, "en":"⏫12_Tanque M.",  "ja":"　中戦車　　　　"  },
-  0x8BC934: { "b":0x8BC934, "e":0x8BC942, "l":14, "en":"<Tanque<médio",      "ja":"　　中戦車　　"  },
-  0x83C051: { "b":0x83C051, "e":0x83C057, "l":6,  "en":"$Tanque<médio",      "ja":"中戦車"  },
+  0x8BC934: { "b":0x8BC934, "e":0x8BC942, "l":14, "en":"<Tanque<Médio",      "ja":"　　中戦車　　"  },
+  0x83C051: { "b":0x83C051, "e":0x83C057, "l":6,  "en":"$Tanque<Médio",      "ja":"中戦車"  },
   0x8BCAFF: { "b":0x8BCAFF, "e":0x8BCB0B, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
   0x8BCCA0: { "b":0x8BCCA0, "e":0x8BCCAC, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD231: { "en":[
@@ -140,8 +140,8 @@ strings = {
   # Light Tank
   0x8A8676: { "b":0x8A8676, "e":0x8A867A, "l":4,  "en":"⏺44",               "ja":"軽戦"  },
   0x8BC743: { "b":0x8BC743, "e":0x8BC753, "l":16, "en":"⏫19_Tanque L.",   "ja":"　軽戦車　　　　"  },
-  0x8BC944: { "b":0x8BC944, "e":0x8BC952, "l":14, "en":"|Tanque<leve",      "ja":"　　軽戦車　　"  },
-  0x83C059: { "b":0x83C059, "e":0x83C05F, "l":6,  "en":"$Tanque<leve",       "ja":"軽戦車"  },
+  0x8BC944: { "b":0x8BC944, "e":0x8BC952, "l":14, "en":"|Tanque<Leve",      "ja":"　　軽戦車　　"  },
+  0x83C059: { "b":0x83C059, "e":0x83C05F, "l":6,  "en":"$Tanque<Leve",       "ja":"軽戦車"  },
   0x8BCB0D: { "b":0x8BCB0D, "e":0x8BCB19, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
   0x8BCCAE: { "b":0x8BCCAE, "e":0x8BCCBA, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD2A5: { "en":[
