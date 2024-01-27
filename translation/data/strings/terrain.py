@@ -122,8 +122,8 @@ strings = {
   0x8BC58B: { "b":0x8BC58B, "e":0x8BC58F, "l":4,  "en":"⏺64",         "ja":"浅瀬"  },
   0x8BC658: { "b":0x8BC658, "e":0x8BC65E, "l":6,  "en":"_<  Praia",  "ja":"浅瀬　"  },
   0x8AE5B8: { "b":0x8AE5B8, "e":0x8AE5DE, "l":38, "en":"Praias fornecem pontos de",     "ja":"　輸送船への乗り降りができます。防御　"  },
-  0x8AE5E2: { "b":0x8AE5E2, "e":0x8AE608, "l":38, "en":"embarque para cargueiros, mas",    "ja":"力がないので守りにはむきません。　　　"  },
-  0x8AE60C: { "b":0x8AE60C, "e":0x8AE632, "l":38, "en":"não oferecem defensa.",        "ja":"　　　　　　　　　　　　　　　　　　　"  },
+  0x8AE5E2: { "b":0x8AE5E2, "e":0x8AE608, "l":38, "en":"embarque para cargueiros,",    "ja":"力がないので守りにはむきません。　　　"  },
+  0x8AE60C: { "b":0x8AE60C, "e":0x8AE632, "l":38, "en":"mas não oferecem defensa.",        "ja":"　　　　　　　　　　　　　　　　　　　"  },
 
   # Base
   0x8BC591: { "b":0x8BC591, "e":0x8BC595, "l":4,  "en":"⏺65",             "ja":"工場"  },
