@@ -493,7 +493,7 @@ strings = {
 
   # Submarine
   0x8A86E8: { "b":0x8A86E8, "e":0x8A86EC, "l":4,  "en":"⏺57",               "ja":"潜水"  },
-  0x8BC899: { "b":0x8BC899, "e":0x8BC8A9, "l":16, "en":"⏫70_Sub______",     "ja":"　潜水艦　　　　"  },
+  0x8BC899: { "b":0x8BC899, "e":0x8BC8A9, "l":16, "en":"⏫70_Sub.______",     "ja":"　潜水艦　　　　"  },
   0x8BCA74: { "b":0x8BCA74, "e":0x8BCA82, "l":14, "en":"  Submarino",        "ja":"　　潜水艦　　"  },
   0x83C105: { "b":0x83C105, "e":0x83C10B, "l":6,  "en":"$Submarino",         "ja":"潜水艦"  },
   0x8BCC17: { "b":0x8BCC17, "e":0x8BCC23, "l":12, "en":" Torpedos",         "ja":"　　魚雷　　"  },
