@@ -764,7 +764,7 @@ strings = {
 # SECTION C: "Unit Commands"
 
   # C0
-  0x919B40: { "b":0x919B40, "e":0x919B5C, "l":28, "en":"⏫20 Comandos de unidade", "ja":"　　部隊コマンドの説明　　　"  },
+  0x919B40: { "b":0x919B40, "e":0x919B5C, "l":28, "en":"⏫20 Unit Commands________", "ja":"　　部隊コマンドの説明　　　"  },
   0x919DA0: { "en":[
     " Finalmente, a Seção C abordará talvez",
     " os comandos mais importantes: aqueles",
