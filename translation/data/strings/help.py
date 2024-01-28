@@ -764,7 +764,7 @@ strings = {
 # SECTION C: "Unit Commands"
 
   # C0
-  0x919B40: { "b":0x919B40, "e":0x919B5C, "l":28, "en":"⏫20 Comandos de unidade", "ja":"　　部隊コマンドの説明　　　"  },
+  0x919B40: { "b":0x919B40, "e":0x919B5C, "l":28, "en":"⏫20 Ordens       ________", "ja":"　　部隊コマンドの説明　　　"  },
   0x919DA0: { "en":[
     " Finalmente, a Seção C abordará talvez",
     " os comandos mais importantes: aqueles",
@@ -781,7 +781,7 @@ strings = {
   ]},
 
   # C1: Attack 1/2
-  0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Attack_______|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
+  0x919B5E: { "b":0x919B5E, "e":0x919B7A, "l":28, "en":"⏫20 C1: Ataque_______|1⏮1|/|2_", "ja":"　　攻撃コマンドの説明その１"  },
   0x91ACCC: { "en":[
     " Alguns COs expressaram que ⏮1[Ataque]",
     " é sua palavra favorita. Ataques podem",
@@ -803,7 +803,7 @@ strings = {
   ]},
 
   # C2: Attack 2/2
-  0x919B7C: { "b":0x919B7C, "e":0x919B98, "l":28, "en":"⏫20 C2: Attack_______2⏮1|/|2_", "ja":"　　攻撃コマンドの説明その２"  },
+  0x919B7C: { "b":0x919B7C, "e":0x919B98, "l":28, "en":"⏫20 C2: Ataque_______2⏮1|/|2_", "ja":"　　攻撃コマンドの説明その２"  },
   0x91AE00: { "en":[
     " Armas Indiretas podem causar dano",
     " pesado, mas tem outra vantagem:",
