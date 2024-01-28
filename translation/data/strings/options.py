@@ -177,7 +177,7 @@ strings = {
   # Music
   0x8AB0B0: { "b":0x8AB0B0, "e":0x8AB0BA, "l":10, "en":"⏫70_Musica",                                 "ja":"　おんがく"  },
   0x8AB0BC: { "len":34, "org_len":40, "en":[
-    "_Escolha a musica tema do",
+    "_Escolhe a musica tema do",
     "_exército."
   ], "ja": [
     "　　じぐんのきょくのせんたくをします。　",
