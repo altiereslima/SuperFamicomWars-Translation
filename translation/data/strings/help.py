@@ -469,7 +469,7 @@ strings = {
   ]},
 
   # B1: Deploy 1/3
-  0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Produção_______|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
+  0x91999C: { "b":0x91999C, "e":0x9199B8, "l":28, "en":"⏫20 B1: Produção______|1⏮1|/|3_", "ja":"　　生産コマンドの説明その１"  },
   0x919F42: { "en":[
     " Se possuídas desde o início de uma",
     " batalha, pressione{|<}sobre essas",
@@ -492,7 +492,7 @@ strings = {
   ]},
 
   # B2: Deploy 2/3
-  0x9199BA: { "b":0x9199BA, "e":0x9199D6, "l":28, "en":"⏫20 B2: Produção_______2⏮1|/|3_", "ja":"　　生産コマンドの説明その２"  },
+  0x9199BA: { "b":0x9199BA, "e":0x9199D6, "l":28, "en":"⏫20 B2: Produção______2⏮1|/|3_", "ja":"　　生産コマンドの説明その２"  },
   0x91A08C: { "en":[
     " Todo bom CO, em algum momento, se",
     " imaginou com um numero ilimitado de",
@@ -512,7 +512,7 @@ strings = {
   ]},
 
   # B3: Deploy 3/3
-  0x9199D8: { "b":0x9199D8, "e":0x9199F4, "l":28, "en":"⏫20 B3: Produção_______3⏮1|/|3_", "ja":"　　説明コマンドの説明　　　"  },
+  0x9199D8: { "b":0x9199D8, "e":0x9199F4, "l":28, "en":"⏫20 B3: Produção______3⏮1|/|3_", "ja":"　　説明コマンドの説明　　　"  },
   0x91A182: { "en":[
     " COs bem-sucedidos capturam Bases",
     " inimigas, Aeroportos{|},|Portos{|} e",
