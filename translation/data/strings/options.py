@@ -59,7 +59,7 @@ strings = {
   0x87DCE6: { "b":0x87DCE6, "e":0x87DCF8, "l":18, "en":"⏫28_Musica___⏺87_",    "ja":"　おんがく　　７　"  },
   0x87DBCC: { "b":0x87DBCC, "e":0x87DBE0, "l":20, "en":"⏫28_Musica___⏺C1",      "ja":"　おんがく　　☆★　"  },
 
-  0x87D9E2: { "b":0x87D9E2, "e":0x87D9F4, "l":18, "en":"⏫30_Autoabastece",  "ja":"　オート全補　　　"  },
+  0x87D9E2: { "b":0x87D9E2, "e":0x87D9F4, "l":18, "en":"⏫30_Autosuprir",  "ja":"　オート全補　　　"  },
   0x87E11B: { "b":0x87E11B, "e":0x87E12D, "l":18, "en":"⏫38_Nebl.<de<guerra",    "ja":"　さくてき　　　　"  },
   0x87E136: { "b":0x87E136, "e":0x87E148, "l":18, "en":"⏫40_Subir de nível",      "ja":"　レベルアップ　　"  },
   0x87E151: { "b":0x87E151, "e":0x87E163, "l":18, "en":"⏫48_Dominação",    "ja":"　ゆうせいしょうり"  },
@@ -186,7 +186,7 @@ strings = {
   ]},
 
   # Auto supply
-  0x8AB12C: { "b":0x8AB12C, "e":0x8AB134, "l":8,  "en":"⏫70_Autoabastecer",                           "ja":"　全補給"  },
+  0x8AB12C: { "b":0x8AB12C, "e":0x8AB134, "l":8,  "en":"⏫70_Autosuprir",                           "ja":"　全補給"  },
   0x8AB136: { "len":40, "org_len":34, "en":[
     "_Repara e abastece automaticamente",
     "_unidades em edificações ocupadas",
