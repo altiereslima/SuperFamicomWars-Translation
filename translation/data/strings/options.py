@@ -215,7 +215,7 @@ strings = {
   # Mr Yamamoto memo
   0x8AA9F9: { "en":[
     "_General lendário que",
-    "_comanda um exercito de",
+    "_comanda um exército de",
     "_elite incomparável."
   ], "ja": [
     "　ふはいの　でんせつをもつ",
@@ -266,7 +266,7 @@ strings = {
   0x8AAB35: { "en":[
     "Apelidada de |[Garota",
     "Sortuda]. Ataca com",
-    "forca sem razão aparente."
+    "força sem razão aparente."
   ], "ja": [
     "　なんかわからんが　つよい",
     "　あだなは「ラッキーガール」"
