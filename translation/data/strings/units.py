@@ -47,7 +47,7 @@ strings = {
   0x8B8A7C: { "b":0x8B8A7C, "e":0x8B8A86, "l":10, "en":"__⏺8F⏺8F_",       "ja":"−−−−−"  },
   0x8B8A88: { "b":0x8B8A88, "e":0x8B8A92, "l":10, "en":"__⏺C3_",           "ja":"　無限　　"  }, # infinite
 
-  0x8B8864: { "b":0x8B8864, "e":0x8B889A, "l":54, "en":"⏫90 Navegar_____ Ordenar__ Selecionar|__Pronto",    "ja":"せんたく　　　　　ならべかえ　　　けってい　　　ぬける"  },
+  0x8B8864: { "b":0x8B8864, "e":0x8B889A, "l":54, "en":"⏫90 Navegar_____ Ordenar__ <<<Selecionar|_ Pronto",    "ja":"せんたく　　　　　ならべかえ　　　けってい　　　ぬける"  },
 
 
 
