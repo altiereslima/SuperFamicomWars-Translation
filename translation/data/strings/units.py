@@ -23,10 +23,10 @@ strings = {
   0x87D619: { "b":0x87D619, "e":0x87D61D, "l":4,  "en":"___", "ja":"￣￣"  },
 
   # Deploy unit alert messages
-  0x8A818F: { "b":0x8A818F, "e":0x8A81A7, "l":24, "en":"⏫80|Fundos insuficientes!",   "ja":"　おかねがたりません！　"  },
-  0x8A81C5: { "b":0x8A81C5, "e":0x8A81DD, "l":24, "en":"⏫80Unidade indisponível!",     "ja":"　ひつようありません！　"  },
-  0x8A8171: { "b":0x8A8171, "e":0x8A818D, "l":28, "en":"⏫80Limite atingido!",     "ja":"　ユニット数６０オーバー！　"  },
-  0x8A81A9: { "b":0x8A81A9, "e":0x8A81C3, "l":26, "en":"⏫80Trem já implantado!",  "ja":"　列車砲はせいさんずみ！　"  },
+  0x8A818F: { "b":0x8A818F, "e":0x8A81A7, "l":24, "en":"⏫80|Fundos insuficientes!","ja":"　おかねがたりません！　"  },
+  0x8A81C5: { "b":0x8A81C5, "e":0x8A81DD, "l":24, "en":"⏫80Unidade indisponível!", "ja":"　ひつようありません！　"  },
+  0x8A8171: { "b":0x8A8171, "e":0x8A818D, "l":28, "en":"⏫80Limite atingido!",      "ja":"　ユニット数６０オーバー！　"  },
+  0x8A81A9: { "b":0x8A81A9, "e":0x8A81C3, "l":26, "en":"⏫80Trem já implantado!",   "ja":"　列車砲はせいさんずみ！　"  },
 
   # Unit info
   0x8AC52A: { "b":0x8AC52A, "e":0x8AC53A, "l":16, "en":"     Custo:",              "ja":"ユニットのねだん"  },
