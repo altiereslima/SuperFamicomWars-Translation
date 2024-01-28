@@ -827,7 +827,7 @@ strings = {
   ]},
 
   # C3: Capture 1/2
-  0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capturar___|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
+  0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Captura______|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
   0x91AF7A: { "en":[
     " Você prestou atenção, CO? Se sim,",
     " você já entendeu a importância da",
@@ -844,7 +844,7 @@ strings = {
   ]},
 
   # C4: Capture 2/2
-  0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Capturar___2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
+  0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Captura______2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
   0x91AFD8: { "en":[
     " A ciência trouxe descobertas",
     " incríveis, mas a pesquisa militar",
