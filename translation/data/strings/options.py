@@ -287,7 +287,7 @@ strings = {
 
 # DIPLOMATIC RELATIONS
 
-  0x8BD488: { "b":0x8BD488, "e":0x8BD4BA, "l":50, "en":"⏫c0Selecionar|Definir|Voltar___||OK",  "ja":"せれくと　　　せっと　　　もどる　　　　　けってい"  },
+  0x8BD488: { "b":0x8BD486, "e":0x8BD4BA, "l":50, "en":"⏫c0Selecionar| Definir|   Voltar___||OK",  "ja":"せれくと　　　せっと　　　もどる　　　　　けってい"  },
   0x8BD454: { "b":0x8BD454, "e":0x8BD486, "l":50, "en":"⏫d0_____________|Voltar___||OK",         "ja":"　　　　　　　　　　　　　もどる　　　　　つぎへ　"  },
   0x8BD448: { "b":0x8BD448, "e":0x8BD44C, "l":4,  "en":"⏫18|Aliado",         "ja":"同盟"  },
   0x8BD44E: { "b":0x8BD44E, "e":0x8BD452, "l":4,  "en":"⏫20|Rival",        "ja":"敵対"  },
