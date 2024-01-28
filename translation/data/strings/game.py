@@ -104,8 +104,8 @@ strings = {
 
 # MAIN MENU
 
-  0x87C8FA: { "b":0x87C8FA, "e":0x87C902, "l":8,  "en":"_Implantar",       "ja":"　生産　"  },
-  0x87C909: { "b":0x87C909, "e":0x87C911, "l":8,  "en":"_Organizar",      "ja":"　配置　"  },
+  0x87C8FA: { "b":0x87C8FA, "e":0x87C902, "l":8,  "en":"<<<<Implantar",       "ja":"　生産　"  },
+  0x87C909: { "b":0x87C909, "e":0x87C911, "l":8,  "en":"<<<<Organizar",      "ja":"　配置　"  },
   0x87C99F: { "b":0x87C99F, "e":0x87C9A7, "l":8,  "en":"<<<<Ajuda",         "ja":"　説明　"  },
   0x87C918: { "b":0x87C918, "e":0x87C920, "l":8,  "en":"<<<<Unidades",        "ja":"　部隊　"  },
   0x87C936: { "b":0x87C936, "e":0x87C93E, "l":8,  "en":"<<<<Intel.",        "ja":"　状況　"  },
