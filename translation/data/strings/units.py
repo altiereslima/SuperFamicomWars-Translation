@@ -43,7 +43,7 @@ strings = {
   # Units screen
   0x8B889C: { "b":0x8B889C, "e":0x8B889F, "l":2,  "en":"⏺8E",              "ja":"／"  },
   0x8B8A98: { "b":0x8B8A98, "e":0x8B8A9B, "l":2,  "en":"⏺8E",              "ja":"／"  },
-  0x8B88A0: { "b":0x8B88A0, "e":0x8B88A8, "l":8,  "en":"⏫80Tipo<unid.", "ja":"へいしゅ"  },
+  0x8B88A0: { "b":0x8B88A0, "e":0x8B88A8, "l":8,  "en":"⏫80Tipo<unid.",    "ja":"へいしゅ"  },
   0x8B8A7C: { "b":0x8B8A7C, "e":0x8B8A86, "l":10, "en":"__⏺8F⏺8F_",       "ja":"−−−−−"  },
   0x8B8A88: { "b":0x8B8A88, "e":0x8B8A92, "l":10, "en":"__⏺C3_",           "ja":"　無限　　"  }, # infinite
 
