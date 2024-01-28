@@ -827,7 +827,7 @@ strings = {
   ]},
 
   # C3: Capture 1/2
-  0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capture______|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
+  0x919B9A: { "b":0x919B9A, "e":0x919BB6, "l":28, "en":"⏫20 C3: Capturar___|1⏮1|/|2_", "ja":"　　待機コマンドの説明　　　"  },
   0x91AF7A: { "en":[
     " Você prestou atenção, CO? Se sim,",
     " você já entendeu a importância da",
@@ -844,7 +844,7 @@ strings = {
   ]},
 
   # C4: Capture 2/2
-  0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Capture______2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
+  0x919BB8: { "b":0x919BB8, "e":0x919BD4, "l":28, "en":"⏫20 C4: Capturar___2⏮1|/|2_", "ja":"　　占領コマンドの説明その１"  },
   0x91AFD8: { "en":[
     " A ciência trouxe descobertas",
     " incríveis, mas a pesquisa militar",
@@ -868,7 +868,7 @@ strings = {
   ]},
 
   # C5: Join
-  0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Join____________", "ja":"　　占領コマンドの説明その２"  },
+  0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Combinar_________", "ja":"　　占領コマンドの説明その２"  },
   0x91B172: { "en":[
     " Ultima explicação sobre o comando",
     " Combinar:",
@@ -892,7 +892,7 @@ strings = {
   ]},
 
   # C6: Supply 1/2
-  0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Supply_______|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
+  0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Abastercer____|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
   0x91B300: { "en":[
     " O comando<[Abastecer]<é exclusivo dos",
     " Caminhões de Suprimento {}. Isso irá",
@@ -915,7 +915,7 @@ strings = {
   ]},
 
   # C7: Supply 2/2
-  0x919C12: { "b":0x919C12, "e":0x919C2E, "l":28, "en":"⏫20 C7: Supply_______2⏮1|/|2_", "ja":"　　補給コマンドの説明その１"  },
+  0x919C12: { "b":0x919C12, "e":0x919C2E, "l":28, "en":"⏫20 C7: Abastercer____2⏮1|/|2_", "ja":"　　補給コマンドの説明その１"  },
   0x91B4B0: { "en":[
     " Suas unidades irão consumir {} durante",
     " o movimento pelo campo de batalha.",
@@ -935,7 +935,7 @@ strings = {
   ]},
 
   # C8: Load 1/3
-  0x919C30: { "b":0x919C30, "e":0x919C4C, "l":28, "en":"⏫20 C8: Load________|1⏮1|/|3_", "ja":"　　補給コマンドの説明その２"  },
+  0x919C30: { "b":0x919C30, "e":0x919C4C, "l":28, "en":"⏫20 C8: Embarcar_____|1⏮1|/|3_", "ja":"　　補給コマンドの説明その２"  },
   0x91B59E: { "en":[
     " Cada tipo de transporte tem uma",
     " capacidade de embarque diferente.",
@@ -959,7 +959,7 @@ strings = {
   ]},
 
   # C9: Load 2/2
-  0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Load________2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
+  0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Embarcar_____2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
   0x91B70A: { "en":[
     " Assim, cada transporte pode ser",
     " ordenado a embarcar e desembarcar sua",
@@ -983,7 +983,7 @@ strings = {
   ]},
 
   # C10: Load 3/3
-  0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Load________3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
+  0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Embarcar____3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
   0x91B84E: { "en":[
     " O{||}de qualquer unidade embarcada irá",
     " se ajustar para corresponder as{||}de",
@@ -1004,7 +1004,7 @@ strings = {
   ]},
 
   # C11: Drop
-  0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Drop____________", "ja":"　　搭載コマンドの説明その３"  },
+  0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Desembarcar_________", "ja":"　　搭載コマンドの説明その３"  },
   0x91B952: { "en":[
     " Com o comando Desembarcar, suas",
     " unidades podem ser descarregadas ao",
@@ -1026,7 +1026,7 @@ strings = {
   ]},
 
   # C12: Wait
-  0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Wait____________", "ja":"　　降車コマンドの説明　　　"  },
+  0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Aguardar_________", "ja":"　　降車コマンドの説明　　　"  },
   0x91BAFC: { "en":[
     " Embora toda unidade queira que seu",
     " próximo movimento seja o golpe",
