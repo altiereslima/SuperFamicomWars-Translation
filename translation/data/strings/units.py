@@ -139,8 +139,8 @@ strings = {
 
   # Light Tank
   0x8A8676: { "b":0x8A8676, "e":0x8A867A, "l":4,  "en":"⏺44",               "ja":"軽戦"  },
-  0x8BC743: { "b":0x8BC743, "e":0x8BC753, "l":16, "en":"⏫19_Tanque L.",   "ja":"　軽戦車　　　　"  },
-  0x8BC944: { "b":0x8BC944, "e":0x8BC952, "l":14, "en":"|Tanque<Leve",      "ja":"　　軽戦車　　"  },
+  0x8BC743: { "b":0x8BC743, "e":0x8BC753, "l":16, "en":"⏫19_Tanque L.",     "ja":"　軽戦車　　　　"  },
+  0x8BC944: { "b":0x8BC944, "e":0x8BC952, "l":14, "en":"|Tanque<Leve",       "ja":"　　軽戦車　　"  },
   0x83C059: { "b":0x83C059, "e":0x83C05F, "l":6,  "en":"$Tanque<Leve",       "ja":"軽戦車"  },
   0x8BCB0D: { "b":0x8BCB0D, "e":0x8BCB19, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
   0x8BCCAE: { "b":0x8BCCAE, "e":0x8BCCBA, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
@@ -156,9 +156,9 @@ strings = {
   ]},
 
   # Recon
-  0x8A867C: { "b":0x8A867C, "e":0x8A8680, "l":4,  "en":"⏺45",               "ja":"偵察"  },
+  0x8A867C: { "b":0x8A867C, "e":0x8A8680, "l":4,  "en":"⏺45",           "ja":"偵察"  },
   0x8BC755: { "b":0x8BC755, "e":0x8BC765, "l":16, "en":"⏫1F_Recon.",    "ja":"　偵察車　　　　"  },
-  0x8BC954: { "b":0x8BC954, "e":0x8BC962, "l":14, "en":"Reconhecim.",     "ja":"　　偵察車　　"  },
+  0x8BC954: { "b":0x8BC954, "e":0x8BC962, "l":14, "en":"Reconhecim.",    "ja":"　　偵察車　　"  },
   0x83C061: { "b":0x83C061, "e":0x83C067, "l":6,  "en":"$Recon.",        "ja":"偵察車"  },
   0x8BCB1B: { "b":0x8BCB1B, "e":0x8BCB27, "l":12, "en":"|~",             "ja":"　――――　"  },
   0x8BCCBC: { "b":0x8BCCBC, "e":0x8BCCC8, "l":12, "en":"|Metralhadora",  "ja":"マシンガン　"  },
@@ -192,12 +192,12 @@ strings = {
   ]},
 
   # Prototype Tank
-  0x8A8688: { "b":0x8A8688, "e":0x8A868C, "l":4,  "en":"⏺47",               "ja":"新型"  },
-  0x8BC779: { "b":0x8BC779, "e":0x8BC789, "l":16, "en":"⏫74_Prototanque",  "ja":"　新型戦車　　　"  },
+  0x8A8688: { "b":0x8A8688, "e":0x8A868C, "l":4,  "en":"⏺47",             "ja":"新型"  },
+  0x8BC779: { "b":0x8BC779, "e":0x8BC789, "l":16, "en":"⏫74_Prototanque", "ja":"　新型戦車　　　"  },
   0x8BC974: { "b":0x8BC974, "e":0x8BC982, "l":14, "en":"Prototanque",      "ja":"　　新型戦車　"  },
   0x83C071: { "b":0x83C071, "e":0x83C079, "l":8,  "en":"$Prototanque",     "ja":"新型戦車"  },
-  0x8BCB37: { "b":0x8BCB37, "e":0x8BCB43, "l":12, "en":"|Canhão",            "ja":"　戦車砲　　"  },
-  0x8BCCD8: { "b":0x8BCCD8, "e":0x8BCCE4, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
+  0x8BCB37: { "b":0x8BCB37, "e":0x8BCB43, "l":12, "en":"|Canhão",          "ja":"　戦車砲　　"  },
+  0x8BCCD8: { "b":0x8BCCD8, "e":0x8BCCE4, "l":12, "en":"|Metralhadora",    "ja":"マシンガン　"  },
   0x8AD45D: { "en":[
     "Desenvolvido em segredo, o Prototanque só",
     "pode ser adquirido ao capturar um laboratório",
@@ -212,9 +212,9 @@ strings = {
 
   # Supply Truck
   0x8A868E: { "b":0x8A868E, "e":0x8A8692, "l":4,  "en":"⏺48",               "ja":"補給"  },
-  0x8BC78B: { "b":0x8BC78B, "e":0x8BC79B, "l":16, "en":"⏫26_Supri.",   "ja":"　補給車　　　　"  },
-  0x8BC984: { "b":0x8BC984, "e":0x8BC992, "l":14, "en":"<Suprimento","ja":"　　補給車　　"  },
-  0x83C07B: { "b":0x83C07B, "e":0x83C081, "l":6,  "en":"$Suprimento",      "ja":"補給車"  },
+  0x8BC78B: { "b":0x8BC78B, "e":0x8BC79B, "l":16, "en":"⏫26_Supri.",        "ja":"　補給車　　　　"  },
+  0x8BC984: { "b":0x8BC984, "e":0x8BC992, "l":14, "en":"<Suprimento",        "ja":"　　補給車　　"  },
+  0x83C07B: { "b":0x83C07B, "e":0x83C081, "l":6,  "en":"$Suprimento",        "ja":"補給車"  },
   0x8BCB45: { "b":0x8BCB45, "e":0x8BCB51, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8BCCE6: { "b":0x8BCCE6, "e":0x8BCCF2, "l":12, "en":"|~",                 "ja":"　――――　"  },
   0x8AD515: { "en":[
@@ -341,10 +341,10 @@ strings = {
 
   # Fighter
   0x8A86B8: { "b":0x8A86B8, "e":0x8A86BC, "l":4,  "en":"⏺4f",               "ja":"戦闘"  },
-  0x8BC809: { "b":0x8BC809, "e":0x8BC819, "l":16, "en":"⏫44_Caça_____",  "ja":"　戦闘機　　　　"  },
-  0x8BC9F4: { "b":0x8BC9F4, "e":0x8BCA02, "l":14, "en":"_ Caça",          "ja":"　　戦闘機　　"  },
-  0x83C0C3: { "b":0x83C0C3, "e":0x83C0C9, "l":6,  "en":"$Caça",           "ja":"戦闘機"  },
-  0x8BCBA7: { "b":0x8BCBA7, "e":0x8BCBB3, "l":12, "en":" ⏮2AA|Mísseis",    "ja":"対空ミサイル"  },
+  0x8BC809: { "b":0x8BC809, "e":0x8BC819, "l":16, "en":"⏫44_Caça_____",     "ja":"　戦闘機　　　　"  },
+  0x8BC9F4: { "b":0x8BC9F4, "e":0x8BCA02, "l":14, "en":"_ Caça",             "ja":"　　戦闘機　　"  },
+  0x83C0C3: { "b":0x83C0C3, "e":0x83C0C9, "l":6,  "en":"$Caça",              "ja":"戦闘機"  },
+  0x8BCBA7: { "b":0x8BCBA7, "e":0x8BCBB3, "l":12, "en":" ⏮2AA|Mísseis",     "ja":"対空ミサイル"  },
   0x8BCD48: { "b":0x8BCD48, "e":0x8BCD54, "l":12, "en":"|Metralhadora",      "ja":"マシンガン　"  },
   0x8AD9B1: { "en":[
     "Fornece poder de fogo e mobilidade",
@@ -360,10 +360,10 @@ strings = {
 
   # Bomber
   0x8A86BE: { "b":0x8A86BE, "e":0x8A86C2, "l":4,  "en":"⏺50",               "ja":"爆撃"  },
-  0x8BC81B: { "b":0x8BC81B, "e":0x8BC82B, "l":16, "en":"⏫49_Bombar.",    "ja":"　爆撃機　　　　"  },
-  0x8BCA04: { "b":0x8BCA04, "e":0x8BCA12, "l":14, "en":"Bombardeiro",           "ja":"　　爆撃機　　"  },
-  0x83C0CB: { "b":0x83C0CB, "e":0x83C0D1, "l":6,  "en":"$Bombardeiro",            "ja":"爆撃機"  },
-  0x8BCBB5: { "b":0x8BCBB5, "e":0x8BCBC1, "l":12, "en":" Bombas",             "ja":"　　爆弾　　"  },
+  0x8BC81B: { "b":0x8BC81B, "e":0x8BC82B, "l":16, "en":"⏫49_Bombar.",       "ja":"　爆撃機　　　　"  },
+  0x8BCA04: { "b":0x8BCA04, "e":0x8BCA12, "l":14, "en":"Bombardeiro",        "ja":"　　爆撃機　　"  },
+  0x83C0CB: { "b":0x83C0CB, "e":0x83C0D1, "l":6,  "en":"$Bombardeiro",       "ja":"爆撃機"  },
+  0x8BCBB5: { "b":0x8BCBB5, "e":0x8BCBC1, "l":12, "en":" Bombas",            "ja":"　　爆弾　　"  },
   0x8BCD56: { "b":0x8BCD56, "e":0x8BCD62, "l":12, "en":" ~",                 "ja":"　――――　"  },
   0x8ADA6B: { "en":[
     "A ameaça dos céus. Causa danos enormes a",
@@ -379,10 +379,10 @@ strings = {
 
   # Striker
   0x8A86C4: { "b":0x8A86C4, "e":0x8A86C8, "l":4,  "en":"⏺51",               "ja":"攻撃"  },
-  0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Atacan.",   "ja":"　攻撃機　　　　"  },
-  0x8BCA14: { "b":0x8BCA14, "e":0x8BCA22, "l":14, "en":"_|Atacante",          "ja":"　　攻撃機　　"  },
-  0x83C0D3: { "b":0x83C0D3, "e":0x83C0D9, "l":6,  "en":"$Atacante",           "ja":"攻撃機"  },
-  0x8BCBC3: { "b":0x8BCBC3, "e":0x8BCBCF, "l":12, "en":" Mísseis",          "ja":"汎用ミサイル"  },
+  0x8BC82D: { "b":0x8BC82D, "e":0x8BC83D, "l":16, "en":"⏫4E_Atacan.",       "ja":"　攻撃機　　　　"  },
+  0x8BCA14: { "b":0x8BCA14, "e":0x8BCA22, "l":14, "en":"_|Atacante",         "ja":"　　攻撃機　　"  },
+  0x83C0D3: { "b":0x83C0D3, "e":0x83C0D9, "l":6,  "en":"$Atacante",          "ja":"攻撃機"  },
+  0x8BCBC3: { "b":0x8BCBC3, "e":0x8BCBCF, "l":12, "en":" Mísseis",           "ja":"汎用ミサイル"  },
   0x8BCD64: { "b":0x8BCD64, "e":0x8BCD70, "l":12, "en":"Metralhadora",             "ja":"マシンガン　"  },
   0x8ADB27: { "en":[
     "Aeronave de combate multimissão enfrenta",
