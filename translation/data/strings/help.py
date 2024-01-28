@@ -650,7 +650,7 @@ strings = {
     " Durante uma batalha, ainda é",
     " possível ajustar as seguintes opções:",
     "",
-    " Autosuprir   _____<||⏺C0/⏺C1",
+    " Autosuprir    _____<||⏺C0/⏺C1",
     " Batalha rápida<</|Mapa_||⏺C0/⏺C1",
     " Som___________ Mono</|Estéreo",
     "",
@@ -868,7 +868,7 @@ strings = {
   ]},
 
   # C5: Join
-  0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Join____________", "ja":"　　占領コマンドの説明その２"  },
+  0x919BD6: { "b":0x919BD6, "e":0x919BF2, "l":28, "en":"⏫20 C5: Combinar_________", "ja":"　　占領コマンドの説明その２"  },
   0x91B172: { "en":[
     " Ultima explicação sobre o comando",
     " Combinar:",
@@ -935,7 +935,7 @@ strings = {
   ]},
 
   # C8: Load 1/3
-  0x919C30: { "b":0x919C30, "e":0x919C4C, "l":28, "en":"⏫20 C8: Load________|1⏮1|/|3_", "ja":"　　補給コマンドの説明その２"  },
+  0x919C30: { "b":0x919C30, "e":0x919C4C, "l":28, "en":"⏫20 C8: Embarcar_____|1⏮1|/|3_", "ja":"　　補給コマンドの説明その２"  },
   0x91B59E: { "en":[
     " Cada tipo de transporte tem uma",
     " capacidade de embarque diferente.",
@@ -959,7 +959,7 @@ strings = {
   ]},
 
   # C9: Load 2/2
-  0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Load________2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
+  0x919C4E: { "b":0x919C4E, "e":0x919C6A, "l":28, "en":"⏫20 C9: Embarcar_____2⏮1|/|3__", "ja":"　　搭載コマンドの説明その１"  },
   0x91B70A: { "en":[
     " Assim, cada transporte pode ser",
     " ordenado a embarcar e desembarcar sua",
@@ -983,7 +983,7 @@ strings = {
   ]},
 
   # C10: Load 3/3
-  0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Load________3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
+  0x919C6C: { "b":0x919C6C, "e":0x919C88, "l":28, "en":"⏫20 C10: Embarcar____3⏮1|/|3__", "ja":"　　搭載コマンドの説明その２"  },
   0x91B84E: { "en":[
     " O{||}de qualquer unidade embarcada irá",
     " se ajustar para corresponder as{||}de",
@@ -1004,7 +1004,7 @@ strings = {
   ]},
 
   # C11: Drop
-  0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Drop____________", "ja":"　　搭載コマンドの説明その３"  },
+  0x919C8A: { "b":0x919C8A, "e":0x919CA6, "l":28, "en":"⏫20 C11: Desembarcar_________", "ja":"　　搭載コマンドの説明その３"  },
   0x91B952: { "en":[
     " Com o comando Desembarcar, suas",
     " unidades podem ser descarregadas ao",
@@ -1026,7 +1026,7 @@ strings = {
   ]},
 
   # C12: Wait
-  0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Wait____________", "ja":"　　降車コマンドの説明　　　"  },
+  0x919CA8: { "b":0x919CA8, "e":0x919CC4, "l":28, "en":"⏫20 C12: Aguardar_________", "ja":"　　降車コマンドの説明　　　"  },
   0x91BAFC: { "en":[
     " Embora toda unidade queira que seu",
     " próximo movimento seja o golpe",
