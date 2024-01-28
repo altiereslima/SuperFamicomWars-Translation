@@ -892,9 +892,9 @@ strings = {
   ]},
 
   # C6: Supply 1/2
-  0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Supply_______|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
+  0x919BF4: { "b":0x919BF4, "e":0x919C10, "l":28, "en":"⏫20 C6: Suprir_______|1⏮1|/|2_", "ja":"　　合流コマンドの説明　　　"  },
   0x91B300: { "en":[
-    " O comando<[Abastecer]<é exclusivo dos",
+    " O comando<[Suprir]<é exclusivo dos",
     " Caminhões de Suprimento {}. Isso irá",
     " reabastecer unidades terrestres e",
     " helicópteros {}{}< com {}|e<{}.",
@@ -915,7 +915,7 @@ strings = {
   ]},
 
   # C7: Supply 2/2
-  0x919C12: { "b":0x919C12, "e":0x919C2E, "l":28, "en":"⏫20 C7: Supply_______2⏮1|/|2_", "ja":"　　補給コマンドの説明その１"  },
+  0x919C12: { "b":0x919C12, "e":0x919C2E, "l":28, "en":"⏫20 C7: Suprir_______2⏮1|/|2_", "ja":"　　補給コマンドの説明その１"  },
   0x91B4B0: { "en":[
     " Suas unidades irão consumir {} durante",
     " o movimento pelo campo de batalha.",
